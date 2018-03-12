@@ -1,7 +1,6 @@
 {
     "/home/travis/build/Ultimate-Hosts-Blacklist/cameleon_at_sysctl.org/domains.list": {
-        "1520771459": [
-            "0bucksforpornmovie.com",
+        "1520894371": [
             "1000ps.oewabox.at",
             "123topsearch.com",
             "12traffic.de",
@@ -30,7 +29,9 @@
             "acvs.mediaonenetwork.net",
             "acvsrv.mediaonenetwork.net",
             "ad-incisive.grapeshot.co.uk",
-            "ad-us-east-1.pxlad.io",
+            "ad-us-east-1.pxlad.io"
+        ],
+        "to_test": [
             "ad.aboutit.de",
             "ad.admediaprovider.com",
             "ad.directrev.com",
@@ -474,8 +475,8 @@
             "z.wackshack.net",
             "z.yellupload.com",
             "zhopa.net",
-            "zoek.zugo.com"
-        ],
-        "to_test": []
+            "zoek.zugo.com",
+            "0bucksforpornmovie.com"
+        ]
     }
 }
