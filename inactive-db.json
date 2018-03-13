@@ -97,9 +97,7 @@
             "ads.vipcams.com",
             "ads.yashi.com",
             "ads.z-quest.com",
-            "ads.zenotecnico.com"
-        ],
-        "to_test": [
+            "ads.zenotecnico.com",
             "ads1.zenoviaexchange.com",
             "ads2.zenotecnico.com",
             "ads3.zenotecnico.com",
@@ -114,7 +112,9 @@
             "adserver.digitoday.com",
             "adserver.dotcommedia.de",
             "adserver.nav2.net",
-            "adserver.scivista.com",
+            "adserver.scivista.com"
+        ],
+        "to_test": [
             "adserver.startnow.com",
             "adtology2.com",
             "adtrading.de",
