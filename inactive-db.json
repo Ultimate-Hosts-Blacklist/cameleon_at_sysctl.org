@@ -276,9 +276,7 @@
             "img.ads.kompas.com",
             "img.hitexchange.net",
             "img.xratedbucks.com",
-            "j.maxmind.com"
-        ],
-        "to_test": [
+            "j.maxmind.com",
             "kissfmro.count.brat-online.ro",
             "l.springmetrics.com",
             "landing.hitfarm.com",
@@ -306,7 +304,9 @@
             "monk.sitescoutadserver.com",
             "mtv.count.brat-online.ro",
             "myvideo.count.brat-online.ro",
-            "nav.startnow.com",
+            "nav.startnow.com"
+        ],
+        "to_test": [
             "novarevenue.com",
             "oasc07.247realmedia.com",
             "oascentral.dailyherald.com",
