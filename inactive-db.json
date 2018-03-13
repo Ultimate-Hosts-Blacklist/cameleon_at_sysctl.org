@@ -64,10 +64,9 @@
             "ads.affbuzzads.com",
             "ads.augusta.com",
             "ads.beyond.com",
-            "ads.bootcampmedia.com"
-        ],
-        "to_test": [
+            "ads.bootcampmedia.com",
             "ads.einmedia.com",
+            "ads.fiat-bg.org",
             "ads.g-media.com",
             "ads.gamersmedia.com",
             "ads.geornmd.net",
@@ -95,9 +94,12 @@
             "ads.usermedia.net",
             "ads.ux-tm.net",
             "ads.videobash.com",
+            "ads.vipcams.com",
             "ads.yashi.com",
             "ads.z-quest.com",
-            "ads.zenotecnico.com",
+            "ads.zenotecnico.com"
+        ],
+        "to_test": [
             "ads1.zenoviaexchange.com",
             "ads2.zenotecnico.com",
             "ads3.zenotecnico.com",
