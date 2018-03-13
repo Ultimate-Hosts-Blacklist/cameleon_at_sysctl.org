@@ -1,8 +1,21 @@
-# About [cameleon_at_sysctl.org]
+# About cameleon_at_sysctl.org
 
 [![Build Status](https://travis-ci.org/Ultimate-Hosts-Blacklist/cameleon_at_sysctl.org.svg?branch=master)](https://travis-ci.org/Ultimate-Hosts-Blacklist/cameleon_at_sysctl.org)
 
-[Description]
+```
+CAMELEON is a free system that helps Internet users or administrators to blocks web-adverts.
+There are a few reasons for which someone would like to do that :
+  - kill those annoying ads
+  - save bandwidth
+  - increase productivity
+  - other uses (static pages fast webserver)
+
+It uses two technics to achieve this :
+  - a HTTP proxy server (squid) is used to divert all the traffic aimed at advertising companies
+  - a web server (the CAMELEON HTTPd) provides the user's browser a blank/transparent document
+
+The CAMELEON HTTPd is a very optimised webserver which analyses the query sent by the HTTP client and returns a blank/transparent page or a blank/transparent image. It can sustain a very important number of simultaneous HTTP requests making it the best HTTP server for any kind of blacklist usage. 
+```
 
 --------------------------------------------------------------------------------
 
