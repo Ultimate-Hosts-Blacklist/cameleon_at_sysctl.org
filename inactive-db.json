@@ -255,9 +255,7 @@
             "g-f5fun.count.brat-online.ro",
             "g-f5news.count.brat-online.ro",
             "g-protv.count.brat-online.ro",
-            "gae.caspion.com"
-        ],
-        "to_test": [
+            "gae.caspion.com",
             "gd.ads.vip.gq1.yahoo.com",
             "ghm_bulgaria.hit.gemius.pl",
             "gif.hitexchange.net",
@@ -278,7 +276,9 @@
             "img.ads.kompas.com",
             "img.hitexchange.net",
             "img.xratedbucks.com",
-            "j.maxmind.com",
+            "j.maxmind.com"
+        ],
+        "to_test": [
             "kissfmro.count.brat-online.ro",
             "l.springmetrics.com",
             "landing.hitfarm.com",
