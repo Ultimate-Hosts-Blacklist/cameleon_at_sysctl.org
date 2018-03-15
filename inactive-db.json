@@ -97,9 +97,7 @@
             "ads.yashi.com",
             "ads.z-quest.com",
             "ads.zenotecnico.com",
-            "ads1.zenoviaexchange.com"
-        ],
-        "to_test": [
+            "ads1.zenoviaexchange.com",
             "ads2.zenotecnico.com",
             "ads3.zenotecnico.com",
             "ads31.vertamedia.com",
@@ -110,11 +108,13 @@
             "adserv.org",
             "adserv01.com",
             "adserver.artempireindustries.com",
-            "adserver.digitoday.com",
             "adserver.dotcommedia.de",
+            "adserver.highspeedtesting.com",
             "adserver.nav2.net",
             "adserver.scivista.com",
-            "adserver.startnow.com",
+            "adserver.startnow.com"
+        ],
+        "to_test": [
             "adtology2.com",
             "adtrading.de",
             "adtxt.prbn.ru",
