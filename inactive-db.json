@@ -1,6 +1,6 @@
 {
     "/home/travis/build/Ultimate-Hosts-Blacklist/cameleon_at_sysctl.org/domains.list": {
-        "1520894371": [
+        "1521117695": [
             "1000ps.oewabox.at",
             "123topsearch.com",
             "12traffic.de",
@@ -16,7 +16,9 @@
             "68737075.com",
             "957328-hb.adomik.com",
             "9am.count.brat-online.ro",
-            "a-fast.com",
+            "a-fast.com"
+        ],
+        "to_test": [
             "a.56c.us",
             "a.collective-media.net",
             "a.diximedia.es",
@@ -476,9 +478,7 @@
             "z.wackshack.net",
             "z.yellupload.com",
             "zhopa.net",
-            "zoek.zugo.com"
-        ],
-        "to_test": [
+            "zoek.zugo.com",
             "0bucksforpornmovie.com"
         ]
     }
