@@ -54,12 +54,7 @@
             "admon1.count.brat-online.ro",
             "adnewslive.com",
             "adproject.net",
-            "adprojekt.pl"
-        ],
-        "to_test": [
-            "acvs.mediaonenetwork.net",
-            "acvsrv.mediaonenetwork.net",
-            "adready.net",
+            "adprojekt.pl",
             "ads-bg.net",
             "ads.admnx.com",
             "ads.adoptio.net",
@@ -91,7 +86,12 @@
             "ads.savannahnow.com",
             "ads.searchseekfind.com",
             "ads.strumarelax.com",
-            "ads.topcities.com",
+            "ads.topcities.com"
+        ],
+        "to_test": [
+            "acvs.mediaonenetwork.net",
+            "acvsrv.mediaonenetwork.net",
+            "adready.net",
             "ads.uniquemedia.net",
             "ads.usermedia.net",
             "ads.ux-tm.net",
