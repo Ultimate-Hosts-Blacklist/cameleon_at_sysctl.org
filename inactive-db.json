@@ -1,6 +1,6 @@
 {
     "/home/travis/build/Ultimate-Hosts-Blacklist/cameleon_at_sysctl.org/domains.list": {
-        "1521897528": [
+        "1521984528": [
             "1000ps.oewabox.at",
             "123topsearch.com",
             "12traffic.de",
@@ -24,7 +24,6 @@
             "a.collective-media.net",
             "a.diximedia.es",
             "a.rad.msn.com",
-            "0bucksforpornmovie.com",
             "aa.toshiba.bavesinyourface.com",
             "ab.adrevivify.com",
             "abcmature.com",
@@ -37,11 +36,7 @@
             "ad.aboutit.de",
             "ad.directrev.com",
             "ad.germark.net",
-            "ad.hizlireklam.com",
-            "ad.j4il.com",
-            "ad.jokeroo.com",
-            "ad.novasol.com",
-            "ad.onlinechange.biz"
+            "ad.hizlireklam.com"
         ],
         "to_test": [
             "adready.net",
@@ -481,7 +476,12 @@
             "z.wackshack.net",
             "z.yellupload.com",
             "zhopa.net",
-            "zoek.zugo.com"
+            "zoek.zugo.com",
+            "ad.j4il.com",
+            "ad.jokeroo.com",
+            "ad.novasol.com",
+            "ad.onlinechange.biz",
+            "0bucksforpornmovie.com"
         ]
     }
 }
