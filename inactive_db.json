@@ -1,8 +1,7 @@
 {
     "/home/travis/build/Ultimate-Hosts-Blacklist/cameleon_at_sysctl.org/domains.list": {
-        "down": 3600,
-        "invalid": 0,
-        "tested": 13577,
-        "up": 9977
+        "1522325757": [
+            "j.pioneeringad.com"
+        ]
     }
 }
