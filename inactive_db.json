@@ -2,11 +2,11 @@
     "/home/travis/build/Ultimate-Hosts-Blacklist/cameleon_at_sysctl.org/domains.list": {
         "1522689729": [
             "2546.islafenice.net",
-            "2547.islafenice.net"
+            "2547.islafenice.net",
+            "ad.creafi.com",
+            "ad.thinkmedia.cn"
         ],
         "to_test": [
-            "ad.creafi.com",
-            "ad.thinkmedia.cn",
             "adman.in.gr",
             "ads.deliads.com",
             "ads.digitalwow.ro",
