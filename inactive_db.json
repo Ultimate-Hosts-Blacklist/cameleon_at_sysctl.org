@@ -7,9 +7,7 @@
             "ad.naked-celebs.com",
             "ad.thinkmedia.cn",
             "adman.in.gr",
-            "ads-a-darwin.hulu.com"
-        ],
-        "to_test": [
+            "ads-a-darwin.hulu.com",
             "ads.deliads.com",
             "ads.digitalpressconsortium.com",
             "ads.digitalwow.ro",
@@ -19,7 +17,9 @@
             "ads.planet49.com",
             "ads.rte.ie",
             "ads.slapdot.com",
-            "ads.tripican.com",
+            "ads.tripican.com"
+        ],
+        "to_test": [
             "adserv.basedvd.com",
             "adss.hookupbucks.com",
             "adv.easyurl.org",
