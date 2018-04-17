@@ -46,15 +46,18 @@
             "em.gad-network.com",
             "engine.gtsads.com",
             "eu.npario-inc.net",
-            "farm.thinktarget.com"
-        ],
-        "to_test": [
+            "farm.thinktarget.com",
             "geo-errserv.btrll.com",
             "geo-um.btrll.com",
+            "geoip.gtsads.com",
             "ghm_bulgaria.hit.gemius.pl",
             "i.1100i.com",
             "images.1100i.com",
-            "j.pioneeringad.com",
+            "images.gtsads.com",
+            "in.bubblestat.com",
+            "j.pioneeringad.com"
+        ],
+        "to_test": [
             "js.dmtry.com",
             "ox-d.boston.servedbyopenx.com",
             "ox-d.footballmedia.com",
