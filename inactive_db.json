@@ -56,9 +56,10 @@
             "images.gtsads.com",
             "in.bubblestat.com",
             "j.pioneeringad.com",
-            "js.dmtry.com"
-        ],
-        "to_test": [
+            "js.dmtry.com",
+            "new.gtsads.com",
+            "nimages.gtsads.com",
+            "oascentral.artistdirect.com",
             "ox-d.boston.servedbyopenx.com",
             "ox-d.footballmedia.com",
             "ox-d.futurenet.servedbyopenx.com",
@@ -69,7 +70,9 @@
             "p_third.apsmediaagency.com",
             "p_third.cpmtrafficker.com",
             "philadelphia_cbslocal.us.intellitxt.com",
-            "pix.btrll.com",
+            "pix.btrll.com"
+        ],
+        "to_test": [
             "scripts.xrenoder.com",
             "search.xrenoder.com",
             "search_fd.php.coolwebsearch.com",
