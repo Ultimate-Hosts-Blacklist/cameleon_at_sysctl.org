@@ -1,8 +1,11 @@
 {
     "/home/travis/build/Ultimate-Hosts-Blacklist/cameleon_at_sysctl.org/domains.list": {
-        "1524488226": [
+        "1524833870": [
             "2546.islafenice.net",
             "2547.islafenice.net",
+            "a.jumptap.com"
+        ],
+        "to_test": [
             "ad.creafi.com",
             "ad.naked-celebs.com",
             "ad.thinkmedia.cn",
@@ -120,9 +123,7 @@
             "yrtas.btrll.com",
             "z.amiblood.com",
             "z.junksport.com",
-            "z.nightchan.com"
-        ],
-        "to_test": [
+            "z.nightchan.com",
             "2391.islafenice.net"
         ]
     }
