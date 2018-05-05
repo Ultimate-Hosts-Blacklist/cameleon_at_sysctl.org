@@ -29,9 +29,7 @@
             "adserver.finditquick.com",
             "adss.hookupbucks.com",
             "adv.easyurl.org",
-            "affiliate.key2link.com"
-        ],
-        "to_test": [
+            "affiliate.key2link.com",
             "api.bizographics.com",
             "apps.advertlets.com",
             "backoffice.roitracking.info",
@@ -39,7 +37,9 @@
             "banners.777-xxx.com",
             "banners.pollasde30cm.com",
             "beacon.mediahuis.be",
-            "beacon.mhtr.be",
+            "beacon.mhtr.be"
+        ],
+        "to_test": [
             "brxserv-21.btrll.com",
             "c.adroll.com",
             "c.enhance.com",
