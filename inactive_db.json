@@ -119,9 +119,7 @@
             "pix.btrll.com",
             "rc.ch.adlink.net",
             "rc.himedia.individuad.net",
-            "rotator.axiatraders.com"
-        ],
-        "to_test": [
+            "rotator.axiatraders.com",
             "scripts.xrenoder.com",
             "search.xrenoder.com",
             "search_fd.php.coolwebsearch.com",
@@ -131,7 +129,9 @@
             "shim.btrll.com",
             "stat.ringier.cz",
             "static.cdn.gtsads.com",
-            "t.mtagmonetizationa.com",
+            "t.mtagmonetizationa.com"
+        ],
+        "to_test": [
             "themexp.ezthemes.com",
             "top.gde.ru",
             "topdesktop.ezthemes.com",
