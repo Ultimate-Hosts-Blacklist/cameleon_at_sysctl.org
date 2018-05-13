@@ -72,9 +72,7 @@
             "ezthemes.ezthemes.com",
             "findmore.name",
             "funskins.ezthemes.com",
-            "galtthemes.ezthemes.com"
-        ],
-        "to_test": [
+            "galtthemes.ezthemes.com",
             "geo-errserv.btrll.com",
             "geo-um.btrll.com",
             "geoip.gtsads.com",
@@ -86,7 +84,9 @@
             "images.gtsads.com",
             "img.ads.mocean.mobi",
             "img.ads.sanomamobileads.nl",
-            "js.dmtry.com",
+            "js.dmtry.com"
+        ],
+        "to_test": [
             "malwareremovalbot.repairandsecure.com",
             "new.gtsads.com",
             "nimages.gtsads.com",
