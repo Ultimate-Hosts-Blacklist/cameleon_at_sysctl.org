@@ -55,9 +55,7 @@
             "clicksimpact.cashtrk.com",
             "command.adservs.com",
             "cons.xrenoder.com",
-            "cont.crawl.ws"
-        ],
-        "to_test": [
+            "cont.crawl.ws",
             "csx.adservs.com",
             "cv.bsvideos.com",
             "d.ads.readwriteweb.com",
@@ -68,12 +66,15 @@
             "dl1.ezthemes.com",
             "download.malwareremovingtool.com",
             "em.gad-network.com",
+            "eng.findadvertise.com",
             "engine.gtsads.com",
             "eu.npario-inc.net",
             "ezthemes.ezthemes.com",
             "findmore.name",
             "funskins.ezthemes.com",
-            "galtthemes.ezthemes.com",
+            "galtthemes.ezthemes.com"
+        ],
+        "to_test": [
             "geo-errserv.btrll.com",
             "geo-um.btrll.com",
             "geoip.gtsads.com",
