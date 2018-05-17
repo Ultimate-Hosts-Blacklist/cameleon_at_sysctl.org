@@ -1,10 +1,16 @@
 {
     "/home/travis/build/Ultimate-Hosts-Blacklist/cameleon_at_sysctl.org/domains.list": {
-        "1526217113": [
+        "1526562739": [
+            "2391.islafenice.net",
             "2546.islafenice.net",
             "2547.islafenice.net",
+            "404.99fh.com",
             "a.jumptap.com",
+            "access.gamesplayground.com",
             "ace-webmaster.com",
+            "activeannonce.com"
+        ],
+        "to_test": [
             "ad.creafi.com",
             "ad.naked-celebs.com",
             "adimage.asia1.com.sg",
@@ -185,10 +191,8 @@
             "z.amiblood.com",
             "z.junksport.com",
             "z.nightchan.com",
-            "zde-affinity.edgecaching.net"
-        ],
-        "to_test": [
-            "2391.islafenice.net"
+            "zde-affinity.edgecaching.net",
+            "234.media.lbn.ru"
         ]
     }
 }
