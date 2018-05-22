@@ -46,9 +46,7 @@
             "adult-use.com",
             "adv.casinopays.com",
             "affiliate.key2link.com",
-            "altafista.com"
-        ],
-        "to_test": [
+            "altafista.com",
             "analytics.msnbc.msn.com",
             "api.bizographics.com",
             "apps.advertlets.com",
@@ -61,7 +59,9 @@
             "banners.pollasde30cm.com",
             "beacon.mediahuis.be",
             "beacon.mhtr.be",
-            "beacon.thred.woven.com",
+            "beacon.thred.woven.com"
+        ],
+        "to_test": [
             "brxserv-21.btrll.com",
             "business.lbn.ru",
             "c.adroll.com",
