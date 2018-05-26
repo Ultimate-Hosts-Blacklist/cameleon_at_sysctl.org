@@ -14,9 +14,7 @@
             "adb.nikkei.co.jp",
             "adimage.asia1.com.sg",
             "adimages.scrippsnetworks.com",
-            "adman.in.gr"
-        ],
-        "to_test": [
+            "adman.in.gr",
             "ads-a-darwin.hulu.com",
             "ads.adplxmd.com",
             "ads.centerstage.net",
@@ -30,11 +28,15 @@
             "ads.gamemarshal.com",
             "ads.gtsads.com",
             "ads.healthline.com",
+            "ads.isat-tech.com",
             "ads.juneauempire.com",
             "ads.linuxjournal.com",
             "ads.planet49.com",
             "ads.popfolkstars.com",
             "ads.rte.ie",
+            "ads.sanomalehtimedia.fi"
+        ],
+        "to_test": [
             "ads.thebulgarianpost.com",
             "ads.tripican.com",
             "ads.victoriaadvocate.com",
