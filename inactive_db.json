@@ -126,9 +126,7 @@
             "dl.ezthemes.com",
             "dl1.ezthemes.com",
             "download.malwareremovingtool.com",
-            "dvcd.info"
-        ],
-        "to_test": [
+            "dvcd.info",
             "em.gad-network.com",
             "eng.findadvertise.com",
             "engine.gtsads.com",
@@ -143,7 +141,9 @@
             "ghm_bulgaria.hit.gemius.pl",
             "hccd.info",
             "helios.finn.no",
-            "hiq.fotolog.com",
+            "hiq.fotolog.com"
+        ],
+        "to_test": [
             "i.1100i.com",
             "images.1100i.com",
             "images.gtsads.com",
