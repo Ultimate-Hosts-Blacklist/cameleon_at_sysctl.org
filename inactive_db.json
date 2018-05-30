@@ -138,9 +138,7 @@
             "dvcd.info",
             "em.gad-network.com",
             "eng.findadvertise.com",
-            "engine.gtsads.com"
-        ],
-        "to_test": [
+            "engine.gtsads.com",
             "eu.npario-inc.net",
             "ezthemes.ezthemes.com",
             "findmore.name",
@@ -152,7 +150,9 @@
             "ghm_bulgaria.hit.gemius.pl",
             "hccd.info",
             "helios.finn.no",
-            "hiq.fotolog.com",
+            "hiq.fotolog.com"
+        ],
+        "to_test": [
             "images.adster.com",
             "images.gtsads.com",
             "img.ads.mocean.mobi",
