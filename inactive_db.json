@@ -203,9 +203,8 @@
             "pix.btrll.com",
             "pr.realvu.net",
             "rainbow.topbucks.com",
-            "referral.topbucks.com"
-        ],
-        "to_test": [
+            "referral.topbucks.com",
+            "referral.vod.topbucks.com",
             "rotator.axiatraders.com",
             "safedownloadsrus157.com",
             "scripts.xrenoder.com",
@@ -215,7 +214,9 @@
             "segs.btrll.com",
             "sellpic.in",
             "shim.btrll.com",
-            "sky.estat.com",
+            "sky.estat.com"
+        ],
+        "to_test": [
             "stat-tracker.net",
             "stat.ringier.cz",
             "static.cdn.gtsads.com",
