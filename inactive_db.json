@@ -146,9 +146,7 @@
             "ghm_bulgaria.hit.gemius.pl",
             "hccd.info",
             "helios.finn.no",
-            "hiq.fotolog.com"
-        ],
-        "to_test": [
+            "hiq.fotolog.com",
             "images.adster.com",
             "images.gtsads.com",
             "img.ads.mocean.mobi",
@@ -156,8 +154,9 @@
             "img.readme.ru",
             "js.cybermonitor.com",
             "js.dmtry.com",
-            "mainstream.topbucks.com",
-            "malwareremovalbot.repairandsecure.com",
+            "malwareremovalbot.repairandsecure.com"
+        ],
+        "to_test": [
             "n180adserv.com",
             "new.gtsads.com",
             "nimages.gtsads.com",
