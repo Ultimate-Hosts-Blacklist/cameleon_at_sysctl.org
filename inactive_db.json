@@ -161,9 +161,7 @@
             "img.readme.ru",
             "js.cybermonitor.com",
             "js.dmtry.com",
-            "malwareremovalbot.repairandsecure.com"
-        ],
-        "to_test": [
+            "malwareremovalbot.repairandsecure.com",
             "n180adserv.com",
             "new.gtsads.com",
             "nimages.gtsads.com",
@@ -188,11 +186,13 @@
             "ox-d.mirror-digital.com",
             "ox-d.nydailynews.servedbyopenx.com",
             "ox-d.philly.servedbyopenx.com",
+            "ox-d.publisherdesk.servedbyopenx.com",
             "ox-d.ranker.servedbyopenx.com",
             "ox-d.realtor.servedbyopenx.com",
             "ox-d.sinclair.servedbyopenx.com",
             "ox-d.sltrib.servedbyopenx.com",
             "ox-d.socialknowledge.servedbyopenx.com",
+            "ox-d.thechive.servedbyopenx.com",
             "ox-d.washingtonpost.servedbyopenx.com",
             "p.adframesrc.com",
             "p.pxl2015x1.com",
@@ -200,7 +200,9 @@
             "p_third.apsmediaagency.com",
             "p_third.cpmtrafficker.com",
             "partner.finditquick.com",
-            "partners.betfredaffiliates.com",
+            "partners.betfredaffiliates.com"
+        ],
+        "to_test": [
             "philadelphia_cbslocal.us.intellitxt.com",
             "pix.btrll.com",
             "pr.realvu.net",
