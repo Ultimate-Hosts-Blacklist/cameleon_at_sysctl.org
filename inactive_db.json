@@ -1,6 +1,23 @@
 {
     "/home/travis/build/Ultimate-Hosts-Blacklist/cameleon_at_sysctl.org/domains.list": {
-        "1528377519": [
+        "1528483609": [
+            "www.shareware4web.com",
+            "www.sitewebstats.com",
+            "www.t2t2.com",
+            "www.tangabilder.to",
+            "www.themexp.org",
+            "www.topmobile10.com",
+            "www.trafficrevenue.net",
+            "www.ucmore.com",
+            "www.uzoogle.com",
+            "yrtas.btrll.com",
+            "z.amiblood.com",
+            "z.junksport.com",
+            "z.nightchan.com",
+            "zde-affinity.edgecaching.net"
+        ],
+        "to_test": [
+            "2391.islafenice.net",
             "2546.islafenice.net",
             "2547.islafenice.net",
             "a.bestmanage.org",
@@ -276,28 +293,8 @@
             "www.myclickbankads.com",
             "www.oemtop.com",
             "www.ranking-counter.de",
-            "www.redirad.de"
-        ],
-        "to_test": [
-            "www.send-safe.com",
-            "www.sexplorer.it",
-            "www.shareware4web.com",
-            "www.sitewebstats.com",
-            "www.t2t2.com",
-            "www.tangabilder.to",
-            "www.themexp.org",
-            "www.topadult10.com",
-            "www.topmobile10.com",
-            "www.trafficrevenue.net",
-            "www.ucmore.com",
-            "www.uzoogle.com",
-            "ycv.clearshieldredirect.com",
-            "yrtas.btrll.com",
-            "z.amiblood.com",
-            "z.junksport.com",
-            "z.nightchan.com",
-            "zde-affinity.edgecaching.net",
-            "2391.islafenice.net"
+            "www.redirad.de",
+            "www.sexplorer.it"
         ]
     }
 }
