@@ -1,26 +1,16 @@
 {
     "/home/travis/build/Ultimate-Hosts-Blacklist/cameleon_at_sysctl.org/domains.list": {
-        "1528483609": [
-            "www.shareware4web.com",
-            "www.sitewebstats.com",
-            "www.t2t2.com",
-            "www.tangabilder.to",
-            "www.themexp.org",
-            "www.topmobile10.com",
-            "www.trafficrevenue.net",
-            "www.ucmore.com",
-            "www.uzoogle.com",
-            "yrtas.btrll.com",
-            "z.amiblood.com",
-            "z.junksport.com",
-            "z.nightchan.com",
-            "zde-affinity.edgecaching.net"
-        ],
-        "to_test": [
+        "1528723762": [
+            "2.googlenews.xorg.pl",
             "2391.islafenice.net",
             "2546.islafenice.net",
             "2547.islafenice.net",
-            "a.bestmanage.org",
+            "3.googlenews.xorg.pl",
+            "4.googlenews.xorg.pl",
+            "5.googlenews.xorg.pl",
+            "a.bestmanage.org"
+        ],
+        "to_test": [
             "a.jumptap.com",
             "abosearch.com",
             "access.gamesplayground.com",
@@ -294,7 +284,22 @@
             "www.oemtop.com",
             "www.ranking-counter.de",
             "www.redirad.de",
-            "www.sexplorer.it"
+            "www.sexplorer.it",
+            "www.shareware4web.com",
+            "www.sitewebstats.com",
+            "www.t2t2.com",
+            "www.tangabilder.to",
+            "www.themexp.org",
+            "www.topmobile10.com",
+            "www.trafficrevenue.net",
+            "www.ucmore.com",
+            "www.uzoogle.com",
+            "yrtas.btrll.com",
+            "z.amiblood.com",
+            "z.junksport.com",
+            "z.nightchan.com",
+            "zde-affinity.edgecaching.net",
+            "1.googlenews.xorg.pl"
         ]
     }
 }
