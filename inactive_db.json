@@ -12,14 +12,11 @@
             "ad.creafi.com",
             "ad.naked-celebs.com",
             "ad.where.com",
-            "adb.nikkei.co.jp"
-        ],
-        "to_test": [
+            "adb.nikkei.co.jp",
             "adimage.asia1.com.sg",
             "adimages.scrippsnetworks.com",
             "adman.in.gr",
             "ads-a-darwin.hulu.com",
-            "ads.3bay.bg",
             "ads.adplxmd.com",
             "ads.centerstage.net",
             "ads.collegclub.com",
@@ -27,7 +24,6 @@
             "ads.digitalpressconsortium.com",
             "ads.digitalwow.ro",
             "ads.e9china.com",
-            "ads.fiat-bg.org",
             "ads.fresh.bg",
             "ads.friendtest.com",
             "ads.gad-network.com",
@@ -36,8 +32,11 @@
             "ads.healthline.com",
             "ads.isat-tech.com",
             "ads.juneauempire.com",
+            "ads.kiosked.com",
             "ads.linuxjournal.com",
-            "ads.lycos-europe.com",
+            "ads.lycos-europe.com"
+        ],
+        "to_test": [
             "ads.planet49.com",
             "ads.popfolkstars.com",
             "ads.rte.ie",
