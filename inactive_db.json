@@ -152,9 +152,7 @@
             "findmore.name",
             "flx367.lporirxe.com",
             "funskins.ezthemes.com",
-            "galtthemes.ezthemes.com"
-        ],
-        "to_test": [
+            "galtthemes.ezthemes.com",
             "geo-errserv.btrll.com",
             "geo-um.btrll.com",
             "geoip.gtsads.com",
@@ -168,7 +166,9 @@
             "img.ads.sanomamobileads.nl",
             "img.readme.ru",
             "js.cybermonitor.com",
-            "js.dmtry.com",
+            "js.dmtry.com"
+        ],
+        "to_test": [
             "malwareremovalbot.repairandsecure.com",
             "n180adserv.com",
             "new.gtsads.com",
