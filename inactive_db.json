@@ -229,9 +229,7 @@
             "sky.estat.com",
             "spns.seriousads.net",
             "sponsor2.ucmore.com",
-            "sscdn.banners.advidi.com"
-        ],
-        "to_test": [
+            "sscdn.banners.advidi.com",
             "stat-tracker.net",
             "stat.ringier.cz",
             "static.cdn.gtsads.com",
@@ -240,8 +238,9 @@
             "themexp.ezthemes.com",
             "top.gde.ru",
             "topdesktop.ezthemes.com",
-            "track.ft.com",
-            "track.www.zazzle.com",
+            "track.ft.com"
+        ],
+        "to_test": [
             "tradefx.advertserve.com",
             "tubvd.cn",
             "u.optorb.com",
