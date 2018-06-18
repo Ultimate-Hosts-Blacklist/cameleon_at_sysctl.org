@@ -232,9 +232,7 @@
             "scripts.xrenoder.com",
             "search.xrenoder.com",
             "search_fd.php.coolwebsearch.com",
-            "searchbar.findthewebsiteyouneed.com"
-        ],
-        "to_test": [
+            "searchbar.findthewebsiteyouneed.com",
             "secure.pinkpays.com",
             "secure.webresint.com",
             "segs.btrll.com",
@@ -249,7 +247,9 @@
             "static.cdn.gtsads.com",
             "stats.instdaddy.com",
             "supremeadserver.com",
-            "themexp.ezthemes.com",
+            "themexp.ezthemes.com"
+        ],
+        "to_test": [
             "top.gde.ru",
             "topdesktop.ezthemes.com",
             "track.ft.com",
