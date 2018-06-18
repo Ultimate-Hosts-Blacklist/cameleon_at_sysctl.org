@@ -12,9 +12,7 @@
             "ad.eurosport.com",
             "ad.naked-celebs.com",
             "ad.where.com",
-            "adb.nikkei.co.jp"
-        ],
-        "to_test": [
+            "adb.nikkei.co.jp",
             "adimage.asia1.com.sg",
             "adimages.scrippsnetworks.com",
             "adman.in.gr",
@@ -31,12 +29,13 @@
             "ads.gad-network.com",
             "ads.gamemarshal.com",
             "ads.gtsads.com",
-            "ads.healthline.com",
             "ads.isat-tech.com",
             "ads.juneauempire.com",
             "ads.kiosked.com",
             "ads.linuxjournal.com",
-            "ads.lycos-europe.com",
+            "ads.lycos-europe.com"
+        ],
+        "to_test": [
             "ads.planet49.com",
             "ads.popfolkstars.com",
             "ads.rte.ie",
