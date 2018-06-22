@@ -82,9 +82,7 @@
             "banners.sextracker.de",
             "beacon.mediahuis.be",
             "beacon.mhtr.be",
-            "beacon.thred.woven.com"
-        ],
-        "to_test": [
+            "beacon.thred.woven.com",
             "best-video-2008.com",
             "bestscannerever.com",
             "beststabilityscans.com",
@@ -92,8 +90,9 @@
             "brxserv-21.btrll.com",
             "c.adroll.com",
             "cappa.pl",
-            "cdn.adbrau.com",
-            "cdn.adplxmd.com",
+            "cdn.adbrau.com"
+        ],
+        "to_test": [
             "cdn.publicidad.net",
             "cdn.qbaka.net",
             "cdn1.clkads.com",
