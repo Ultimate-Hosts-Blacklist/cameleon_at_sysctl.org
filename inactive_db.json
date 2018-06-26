@@ -15,9 +15,7 @@
             "ad.vuiads.net",
             "ad.where.com",
             "ad2.vuiads.net",
-            "adb.nikkei.co.jp"
-        ],
-        "to_test": [
+            "adb.nikkei.co.jp",
             "adimage.asia1.com.sg",
             "adimages.scrippsnetworks.com",
             "adman.in.gr",
@@ -29,7 +27,6 @@
             "ads.digitalpressconsortium.com",
             "ads.digitalwow.ro",
             "ads.e9china.com",
-            "ads.firstgrand.com",
             "ads.fresh.bg",
             "ads.friendtest.com",
             "ads.gad-network.com",
@@ -39,7 +36,9 @@
             "ads.juneauempire.com",
             "ads.kiosked.com",
             "ads.linuxjournal.com",
-            "ads.lycos-europe.com",
+            "ads.lycos-europe.com"
+        ],
+        "to_test": [
             "ads.newsgeek.co.il",
             "ads.planet49.com",
             "ads.popfolkstars.com",
