@@ -180,9 +180,8 @@
             "img.ads.sanomamobileads.nl",
             "img.readme.ru",
             "js.cybermonitor.com",
-            "js.dmtry.com"
-        ],
-        "to_test": [
+            "js.dmtry.com",
+            "light.privatefeeds.com",
             "malwareremovalbot.repairandsecure.com",
             "mb.datingadzone.com",
             "metrics.mercola.com",
@@ -190,7 +189,9 @@
             "mobilede.nuggad.net",
             "n.targetbtracker.com",
             "n.targetctracker.com",
-            "n180adserv.com",
+            "n180adserv.com"
+        ],
+        "to_test": [
             "new.gtsads.com",
             "next-layers.com",
             "nimages.gtsads.com",
