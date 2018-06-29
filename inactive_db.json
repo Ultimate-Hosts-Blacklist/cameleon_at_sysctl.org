@@ -17,12 +17,11 @@
             "ad.vuiads.net",
             "ad.where.com",
             "ad2.vuiads.net",
-            "adb.nikkei.co.jp"
-        ],
-        "to_test": [
+            "adb.nikkei.co.jp",
             "adimage.asia1.com.sg",
             "adimages.scrippsnetworks.com",
             "adman.in.gr",
+            "admin.popupsponsor.com",
             "ads-a-darwin.hulu.com",
             "ads.adultpopunders.com",
             "ads.centerstage.net",
@@ -41,7 +40,9 @@
             "ads.kiosked.com",
             "ads.linuxjournal.com",
             "ads.lycos-europe.com",
-            "ads.newsgeek.co.il",
+            "ads.newsgeek.co.il"
+        ],
+        "to_test": [
             "ads.planet49.com",
             "ads.popfolkstars.com",
             "ads.rte.ie",
