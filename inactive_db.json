@@ -267,11 +267,10 @@
             "secure.pinkpays.com",
             "secure.webresint.com",
             "shim.btrll.com",
-            "sky.estat.com"
-        ],
-        "to_test": [
+            "sky.estat.com",
             "spns.seriousads.net",
             "sponsor2.ucmore.com",
+            "sscdn.banners.advidi.com",
             "stat-tracker.net",
             "stat.ringier.cz",
             "static.cdn.gtsads.com",
@@ -280,13 +279,14 @@
             "stats.spyware-browser.com",
             "supremeadserver.com",
             "termsandprivacy.com",
-            "thelocalsearchnetwork.com",
             "themexp.ezthemes.com",
             "top.gde.ru",
             "topdesktop.ezthemes.com",
             "track.ft.com",
             "track.viralvidi.com",
-            "track.www.zazzle.com",
+            "track.www.zazzle.com"
+        ],
+        "to_test": [
             "tradefx.advertserve.com",
             "tubvd.cn",
             "u.optorb.com",
