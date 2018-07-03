@@ -80,9 +80,7 @@
             "altafista.com",
             "altavvista.com",
             "antivirusup.com",
-            "api.bizographics.com"
-        ],
-        "to_test": [
+            "api.bizographics.com",
             "apps.advertlets.com",
             "b-aws.aol.com",
             "b-aws.huffingtonpost.com",
@@ -101,7 +99,9 @@
             "best-video-2008.com",
             "bestscannerever.com",
             "beststabilityscans.com",
-            "betaffs.com",
+            "betaffs.com"
+        ],
+        "to_test": [
             "brxserv-21.btrll.com",
             "burnads.com",
             "cache.btrll.com",
