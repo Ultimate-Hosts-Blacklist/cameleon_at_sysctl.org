@@ -29,9 +29,7 @@
             "ad.where.com",
             "ad1.zbads.com",
             "ad2.vuiads.net",
-            "adb.nikkei.co.jp"
-        ],
-        "to_test": [
+            "adb.nikkei.co.jp",
             "adimage.asia1.com.sg",
             "adimages.scrippsnetworks.com",
             "adman.in.gr",
@@ -39,6 +37,7 @@
             "ads-a-darwin.hulu.com",
             "ads.adultpopunders.com",
             "ads.centerstage.net",
+            "ads.clickad.com",
             "ads.collegclub.com",
             "ads.deliads.com",
             "ads.digitalpressconsortium.com",
@@ -53,7 +52,9 @@
             "ads.kiosked.com",
             "ads.linuxjournal.com",
             "ads.lycos-europe.com",
-            "ads.newsgeek.co.il",
+            "ads.newsgeek.co.il"
+        ],
+        "to_test": [
             "ads.planet49.com",
             "ads.popfolkstars.com",
             "ads.popupsponsor.com",
