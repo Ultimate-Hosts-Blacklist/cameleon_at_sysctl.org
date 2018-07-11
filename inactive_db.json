@@ -206,9 +206,7 @@
             "metrics.mercola.com",
             "mobilede-dp.nuggad.net",
             "mobilede.nuggad.net",
-            "mt.lsfinteractive.com"
-        ],
-        "to_test": [
+            "mt.lsfinteractive.com",
             "n.targetbtracker.com",
             "n.targetctracker.com",
             "next-layers.com",
@@ -261,7 +259,9 @@
             "pay.tranent.nl",
             "philadelphia_cbslocal.us.intellitxt.com",
             "php.genesismedia.com",
-            "pr.realvu.net",
+            "pr.realvu.net"
+        ],
+        "to_test": [
             "redirect.xmladfeed.com",
             "rotator.axiatraders.com",
             "s.ad121m.com",
