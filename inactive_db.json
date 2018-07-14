@@ -287,9 +287,7 @@
             "scripts.xrenoder.com",
             "search.xrenoder.com",
             "search_fd.php.coolwebsearch.com",
-            "searchbar.findthewebsiteyouneed.com"
-        ],
-        "to_test": [
+            "searchbar.findthewebsiteyouneed.com",
             "secure.pinkpays.com",
             "secure.webresint.com",
             "shim.btrll.com",
@@ -305,7 +303,9 @@
             "stats.spyware-browser.com",
             "supremeadserver.com",
             "termsandprivacy.com",
-            "themexp.ezthemes.com",
+            "themexp.ezthemes.com"
+        ],
+        "to_test": [
             "top.gde.ru",
             "topdesktop.ezthemes.com",
             "track.ft.com",
