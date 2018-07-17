@@ -49,9 +49,7 @@
             "ads.fresh.bg",
             "ads.friendtest.com",
             "ads.gad-network.com",
-            "ads.gamemarshal.com"
-        ],
-        "to_test": [
+            "ads.gamemarshal.com",
             "ads.juneauempire.com",
             "ads.kiosked.com",
             "ads.linuxjournal.com",
@@ -67,7 +65,9 @@
             "ads.trafficpimps.com",
             "ads.tripican.com",
             "ads.victoriaadvocate.com",
-            "ads1.cricbuzz.com",
+            "ads1.cricbuzz.com"
+        ],
+        "to_test": [
             "ads2.collegclub.com",
             "ads2.victoriaadvocate.com",
             "ads3.freebannertrade.com",
