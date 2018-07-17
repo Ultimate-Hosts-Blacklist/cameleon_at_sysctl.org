@@ -288,16 +288,14 @@
             "redirect.xmladfeed.com",
             "rotator.axiatraders.com",
             "rq.adtrackdirect.com",
-            "rq.trackingadirect.com"
-        ],
-        "to_test": [
+            "rq.trackingadirect.com",
             "s.ad121m.com",
+            "s.uadx.com",
             "safedownloadsrus157.com",
             "scripts.xrenoder.com",
             "search.xrenoder.com",
             "search_fd.php.coolwebsearch.com",
             "searchbar.findthewebsiteyouneed.com",
-            "secure.pinkpays.com",
             "secure.webresint.com",
             "shim.btrll.com",
             "sky.estat.com",
@@ -307,7 +305,9 @@
             "st1.freeonlineusers.com",
             "stat-tracker.net",
             "stat.ringier.cz",
-            "stats.boyfriendnetwork.com",
+            "stats.boyfriendnetwork.com"
+        ],
+        "to_test": [
             "stats.instdaddy.com",
             "stats.spyware-browser.com",
             "supremeadserver.com",
