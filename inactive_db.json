@@ -291,9 +291,7 @@
             "rainbow-uk.mythings.com",
             "rainbow-us.mythings.com",
             "rainbow.mythings.com",
-            "redirect.xmladfeed.com"
-        ],
-        "to_test": [
+            "redirect.xmladfeed.com",
             "rotator.axiatraders.com",
             "rq.adtrackdirect.com",
             "rq.trackingadirect.com",
@@ -309,10 +307,11 @@
             "sky.estat.com",
             "spns.seriousads.net",
             "sponsor2.ucmore.com",
-            "sscdn.banners.advidi.com",
             "st1.freeonlineusers.com",
             "stat-tracker.net",
-            "stat.ringier.cz",
+            "stat.ringier.cz"
+        ],
+        "to_test": [
             "stats.boyfriendnetwork.com",
             "stats.instdaddy.com",
             "stats.spyware-browser.com",
