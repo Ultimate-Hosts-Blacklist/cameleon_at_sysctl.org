@@ -234,9 +234,7 @@
             "oas.autotrader.co.uk",
             "oascentral.artistdirect.com",
             "oascentral.blackenterprise.com",
-            "oascentral.salemweb.net"
-        ],
-        "to_test": [
+            "oascentral.salemweb.net",
             "openad.tf1.fr",
             "openadext.tf1.fr",
             "ox-d.ask.servedbyopenx.com",
@@ -293,7 +291,9 @@
             "rainbow-uk.mythings.com",
             "rainbow-us.mythings.com",
             "rainbow.mythings.com",
-            "redirect.xmladfeed.com",
+            "redirect.xmladfeed.com"
+        ],
+        "to_test": [
             "rotator.axiatraders.com",
             "rq.adtrackdirect.com",
             "rq.trackingadirect.com",
