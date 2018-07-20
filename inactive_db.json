@@ -1,11 +1,13 @@
 {
     "/home/travis/build/Ultimate-Hosts-Blacklist/cameleon_at_sysctl.org/domains.list": {
-        "1531834915": [
+        "1532094491": [
             "10bestsearch.com",
             "117.mylongtail.com",
+            "11954.filter.bullhornsearch.com",
             "131922.131.links4trade.com",
             "1zabslwvn538n4i5tcjl.com",
             "2000.2.links4trade.com",
+            "21century-mp3.nu",
             "2391.islafenice.net",
             "2546.islafenice.net",
             "2547.islafenice.net",
@@ -17,10 +19,13 @@
             "582.mylongtail.com",
             "60pictures.com",
             "7come11casino.com",
+            "a.goember.com",
             "a.jumptap.com",
             "abosearch.com",
             "ace-webmaster.com",
-            "activeannonce.com",
+            "activeannonce.com"
+        ],
+        "to_test": [
             "ad.blackystars.com",
             "ad.creafi.com",
             "ad.eurosport.com",
@@ -398,9 +403,7 @@
             "z.amiblood.com",
             "z.junksport.com",
             "z.nightchan.com",
-            "zde-affinity.edgecaching.net"
-        ],
-        "to_test": [
+            "zde-affinity.edgecaching.net",
             "093qpeuqpmz6ebfa.com"
         ]
     }
