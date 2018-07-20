@@ -98,9 +98,7 @@
             "api.bizographics.com",
             "apps.advertlets.com",
             "b-aws.aol.com",
-            "b-aws.huffingtonpost.com"
-        ],
-        "to_test": [
+            "b-aws.huffingtonpost.com",
             "babuinworld.com",
             "backoffice.roitracking.info",
             "banner.listinus.de",
@@ -109,6 +107,7 @@
             "banners.animeerotico.com",
             "banners.audioholics.com",
             "banners.chicashumedas.com",
+            "banners.largecash.com",
             "banners.pollasde30cm.com",
             "banners.sextracker.de",
             "bannersolutions.de",
@@ -120,7 +119,9 @@
             "beststabilityscans.com",
             "betaffs.com",
             "brxserv-21.btrll.com",
-            "burnads.com",
+            "burnads.com"
+        ],
+        "to_test": [
             "c.adroll.com",
             "cache.btrll.com",
             "cappa.pl",
