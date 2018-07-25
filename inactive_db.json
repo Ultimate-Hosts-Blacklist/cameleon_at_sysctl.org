@@ -1,6 +1,6 @@
 {
     "/home/travis/build/Ultimate-Hosts-Blacklist/cameleon_at_sysctl.org/domains.list": {
-        "1532094491": [
+        "1532521175": [
             "10bestsearch.com",
             "117.mylongtail.com",
             "11954.filter.bullhornsearch.com",
@@ -19,11 +19,14 @@
             "582.mylongtail.com",
             "60pictures.com",
             "7come11casino.com",
-            "a.goember.com",
+            "7security.info",
             "a.jumptap.com",
+            "a.thoughtleadr.com",
             "abosearch.com",
             "ace-webmaster.com",
-            "activeannonce.com",
+            "activeannonce.com"
+        ],
+        "to_test": [
             "ad.blackystars.com",
             "ad.creafi.com",
             "ad.eurosport.com",
@@ -407,9 +410,7 @@
             "z.amiblood.com",
             "z.junksport.com",
             "z.nightchan.com",
-            "zde-affinity.edgecaching.net"
-        ],
-        "to_test": [
+            "zde-affinity.edgecaching.net",
             "093qpeuqpmz6ebfa.com"
         ]
     }
