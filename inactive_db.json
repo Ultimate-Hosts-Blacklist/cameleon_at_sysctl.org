@@ -34,11 +34,10 @@
             "ad.where.com",
             "ad1.zbads.com",
             "ad2.vuiads.net",
-            "adb.nikkei.co.jp"
-        ],
-        "to_test": [
+            "adb.nikkei.co.jp",
             "adimage.asia1.com.sg",
             "adimages.scrippsnetworks.com",
+            "adloyal.pl",
             "adman.in.gr",
             "admin.popupsponsor.com",
             "ads-a-darwin.hulu.com",
@@ -60,7 +59,9 @@
             "ads.kiosked.com",
             "ads.linuxjournal.com",
             "ads.lycos-europe.com",
-            "ads.monogram.sk",
+            "ads.monogram.sk"
+        ],
+        "to_test": [
             "ads.newsgeek.co.il",
             "ads.planet49.com",
             "ads.popfolkstars.com",
