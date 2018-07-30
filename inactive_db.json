@@ -73,9 +73,7 @@
             "ads.newsgeek.co.il",
             "ads.planet49.com",
             "ads.popfolkstars.com",
-            "ads.popupsponsor.com"
-        ],
-        "to_test": [
+            "ads.popupsponsor.com",
             "ads.rte.ie",
             "ads.sooran.ir",
             "ads.telegraph.co.uk",
@@ -85,7 +83,9 @@
             "ads.victoriaadvocate.com",
             "ads1.cricbuzz.com",
             "ads2.collegclub.com",
-            "ads2.victoriaadvocate.com",
+            "ads2.victoriaadvocate.com"
+        ],
+        "to_test": [
             "ads3.freebannertrade.com",
             "ads56-us-east.stickyadstv.com",
             "adserv.bigwebtools.com",
