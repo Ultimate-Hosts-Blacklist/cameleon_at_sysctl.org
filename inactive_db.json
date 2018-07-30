@@ -351,9 +351,7 @@
             "video.od.visiblemeasures.com",
             "vra.outbrain.com",
             "vrp.outbrain.com",
-            "vw.btrll.com"
-        ],
-        "to_test": [
+            "vw.btrll.com",
             "wateristian.com",
             "webmail.kanoodle.com",
             "webtrend25.hemscott.com",
@@ -380,7 +378,9 @@
             "www.errordns.com",
             "www.ezthemes.com",
             "www.fastfind.org",
-            "www.findit-quick.com",
+            "www.findit-quick.com"
+        ],
+        "to_test": [
             "www.gamersbanner.com",
             "www.gaydemonads.com",
             "www.get-vids.com",
