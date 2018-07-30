@@ -45,9 +45,7 @@
             "adb.nikkei.co.jp",
             "adg.bzgint.com",
             "adimage.asia1.com.sg",
-            "adimages.scrippsnetworks.com"
-        ],
-        "to_test": [
+            "adimages.scrippsnetworks.com",
             "adloyal.pl",
             "adman.in.gr",
             "admin.popupsponsor.com",
@@ -66,6 +64,7 @@
             "ads.friendtest.com",
             "ads.gad-network.com",
             "ads.gamemarshal.com",
+            "ads.iol.co.il",
             "ads.juneauempire.com",
             "ads.kiosked.com",
             "ads.linuxjournal.com",
@@ -74,7 +73,9 @@
             "ads.newsgeek.co.il",
             "ads.planet49.com",
             "ads.popfolkstars.com",
-            "ads.popupsponsor.com",
+            "ads.popupsponsor.com"
+        ],
+        "to_test": [
             "ads.rte.ie",
             "ads.sooran.ir",
             "ads.telegraph.co.uk",
