@@ -263,9 +263,7 @@
             "ox-d.evolvemedia.servedbyopenx.com",
             "ox-d.footballmedia.com",
             "ox-d.futurenet.servedbyopenx.com",
-            "ox-d.gamerpublishing.com"
-        ],
-        "to_test": [
+            "ox-d.gamerpublishing.com",
             "ox-d.ibt.servedbyopenx.com",
             "ox-d.imgur.servedbyopenx.com",
             "ox-d.leessp.servedbyopenx.com",
@@ -310,7 +308,9 @@
             "rq.adtrackdirect.com",
             "rq.trackingadirect.com",
             "s.ad121m.com",
-            "s.uadx.com",
+            "s.uadx.com"
+        ],
+        "to_test": [
             "safedownloadsrus157.com",
             "scripts.xrenoder.com",
             "search.xrenoder.com",
