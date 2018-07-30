@@ -236,9 +236,7 @@
             "js.cybermonitor.com",
             "js.dmtry.com",
             "malwareremovalbot.repairandsecure.com",
-            "md.ournet-analytics.com"
-        ],
-        "to_test": [
+            "md.ournet-analytics.com",
             "mediadome.ru",
             "metrics.mercola.com",
             "mobilede-dp.nuggad.net",
@@ -265,7 +263,9 @@
             "ox-d.evolvemedia.servedbyopenx.com",
             "ox-d.footballmedia.com",
             "ox-d.futurenet.servedbyopenx.com",
-            "ox-d.gamerpublishing.com",
+            "ox-d.gamerpublishing.com"
+        ],
+        "to_test": [
             "ox-d.ibt.servedbyopenx.com",
             "ox-d.imgur.servedbyopenx.com",
             "ox-d.leessp.servedbyopenx.com",
