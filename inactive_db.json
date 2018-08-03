@@ -331,9 +331,7 @@
             "stat-tracker.net",
             "stat.ringier.cz",
             "stats.complex.com",
-            "stats.instdaddy.com"
-        ],
-        "to_test": [
+            "stats.instdaddy.com",
             "stats.spyware-browser.com",
             "supremeadserver.com",
             "termsandprivacy.com",
@@ -344,6 +342,7 @@
             "track.netshelter.net",
             "track.popmog.com",
             "track.viralvidi.com",
+            "track.www.zazzle.com",
             "tradefx.advertserve.com",
             "tubvd.cn",
             "u.optorb.com",
@@ -359,7 +358,9 @@
             "vast.bp3855991.btrll.com",
             "vast.bp3855992.btrll.com",
             "vast.optimatic.com",
-            "video.od.visiblemeasures.com",
+            "video.od.visiblemeasures.com"
+        ],
+        "to_test": [
             "vra.outbrain.com",
             "vrp.outbrain.com",
             "vw.btrll.com",
