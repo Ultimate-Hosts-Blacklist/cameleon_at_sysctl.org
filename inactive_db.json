@@ -141,9 +141,7 @@
             "cappa.pl",
             "cdn.adbrau.com",
             "cdn.complexmedianetwork.com",
-            "cdn.dabhit.com"
-        ],
-        "to_test": [
+            "cdn.dabhit.com",
             "cdn.publicidad.net",
             "cdn.qbaka.net",
             "cdn1.clkads.com",
@@ -193,7 +191,9 @@
             "counter7.sextracker.de",
             "counter8.sextracker.de",
             "counter9.sextracker.de",
-            "creative.ad121m.com",
+            "creative.ad121m.com"
+        ],
+        "to_test": [
             "cu.genesismedia.com",
             "cv.bsvideos.com",
             "d.ads.readwriteweb.com",
