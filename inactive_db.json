@@ -42,9 +42,7 @@
             "ad2.vuiads.net",
             "ad4.netshelter.net",
             "ad5.netshelter.net",
-            "adb.nikkei.co.jp"
-        ],
-        "to_test": [
+            "adb.nikkei.co.jp",
             "adg.bzgint.com",
             "adimage.asia1.com.sg",
             "adimages.scrippsnetworks.com",
@@ -70,7 +68,9 @@
             "ads.juneauempire.com",
             "ads.kiosked.com",
             "ads.linuxjournal.com",
-            "ads.lycos-europe.com",
+            "ads.lycos-europe.com"
+        ],
+        "to_test": [
             "ads.monogram.sk",
             "ads.newsgeek.co.il",
             "ads.planet49.com",
