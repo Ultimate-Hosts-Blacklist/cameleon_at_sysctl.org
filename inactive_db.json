@@ -242,10 +242,9 @@
             "js.cybermonitor.com",
             "js.dmtry.com",
             "malwareremovalbot.repairandsecure.com",
-            "md.ournet-analytics.com"
-        ],
-        "to_test": [
+            "md.ournet-analytics.com",
             "mediadome.ru",
+            "metrics.hhgregg.com",
             "metrics.mercola.com",
             "mobilede-dp.nuggad.net",
             "mobilede.nuggad.net",
@@ -259,7 +258,9 @@
             "oascentral.blackenterprise.com",
             "oascentral.salemweb.net",
             "openad.tf1.fr",
-            "openadext.tf1.fr",
+            "openadext.tf1.fr"
+        ],
+        "to_test": [
             "ox-d.ask.servedbyopenx.com",
             "ox-d.bizjournals.servedbyopenx.com",
             "ox-d.blogtalkradio.com",
