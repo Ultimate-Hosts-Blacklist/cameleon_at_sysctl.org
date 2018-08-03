@@ -232,9 +232,7 @@
             "heise.nuggad.net",
             "helios.finn.no",
             "hiq.fotolog.com",
-            "host.connectorltd.com"
-        ],
-        "to_test": [
+            "host.connectorltd.com",
             "ilamba.com",
             "images.axill.in",
             "images.m4n.nl",
@@ -244,7 +242,9 @@
             "js.cybermonitor.com",
             "js.dmtry.com",
             "malwareremovalbot.repairandsecure.com",
-            "md.ournet-analytics.com",
+            "md.ournet-analytics.com"
+        ],
+        "to_test": [
             "mediadome.ru",
             "metrics.mercola.com",
             "mobilede-dp.nuggad.net",
