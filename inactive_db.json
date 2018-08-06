@@ -247,9 +247,7 @@
             "img.ads.sanomamobileads.nl",
             "img.readme.ru",
             "js.cybermonitor.com",
-            "js.dmtry.com"
-        ],
-        "to_test": [
+            "js.dmtry.com",
             "malwareremovalbot.repairandsecure.com",
             "md.ournet-analytics.com",
             "mediadome.ru",
@@ -258,7 +256,9 @@
             "mobilede-dp.nuggad.net",
             "mobilede.nuggad.net",
             "n.targetbtracker.com",
-            "n.targetctracker.com",
+            "n.targetctracker.com"
+        ],
+        "to_test": [
             "next-layers.com",
             "ntracking.optimatic.com",
             "o.sa.aol.com",
