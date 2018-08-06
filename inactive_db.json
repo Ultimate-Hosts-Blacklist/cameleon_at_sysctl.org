@@ -331,11 +331,10 @@
             "searchbar.findthewebsiteyouneed.com",
             "secure.webresint.com",
             "shim.btrll.com",
-            "sky.estat.com"
-        ],
-        "to_test": [
+            "sky.estat.com",
             "spns.seriousads.net",
             "sponsor2.ucmore.com",
+            "sscdn.banners.advidi.com",
             "st1.freeonlineusers.com",
             "stat-tracker.net",
             "stat.ringier.cz",
@@ -347,7 +346,9 @@
             "themexp.ezthemes.com",
             "top.gde.ru",
             "topdesktop.ezthemes.com",
-            "track.ft.com",
+            "track.ft.com"
+        ],
+        "to_test": [
             "track.netshelter.net",
             "track.popmog.com",
             "track.viralvidi.com",
