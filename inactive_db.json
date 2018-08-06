@@ -220,9 +220,7 @@
             "download-everything.com",
             "download.007guard.com",
             "download.malwareremovingtool.com",
-            "download.ucmore.com"
-        ],
-        "to_test": [
+            "download.ucmore.com",
             "dvcd.info",
             "em.gad-network.com",
             "eng.findadvertise.com",
@@ -236,7 +234,9 @@
             "funskins.ezthemes.com",
             "galtthemes.ezthemes.com",
             "geo-errserv.btrll.com",
-            "geo-um.btrll.com",
+            "geo-um.btrll.com"
+        ],
+        "to_test": [
             "hccd.info",
             "heise.nuggad.net",
             "helios.finn.no",
