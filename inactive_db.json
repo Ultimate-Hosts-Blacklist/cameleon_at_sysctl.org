@@ -234,9 +234,7 @@
             "funskins.ezthemes.com",
             "galtthemes.ezthemes.com",
             "geo-errserv.btrll.com",
-            "geo-um.btrll.com"
-        ],
-        "to_test": [
+            "geo-um.btrll.com",
             "hccd.info",
             "heise.nuggad.net",
             "helios.finn.no",
@@ -249,7 +247,9 @@
             "img.ads.sanomamobileads.nl",
             "img.readme.ru",
             "js.cybermonitor.com",
-            "js.dmtry.com",
+            "js.dmtry.com"
+        ],
+        "to_test": [
             "malwareremovalbot.repairandsecure.com",
             "md.ournet-analytics.com",
             "mediadome.ru",
