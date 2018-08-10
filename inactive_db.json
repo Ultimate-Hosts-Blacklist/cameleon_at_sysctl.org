@@ -1,6 +1,6 @@
 {
     "/home/travis/build/Ultimate-Hosts-Blacklist/cameleon_at_sysctl.org/domains.list": {
-        "1533563660": [
+        "1533909215": [
             "10bestsearch.com",
             "117.mylongtail.com",
             "11954.filter.bullhornsearch.com",
@@ -28,7 +28,9 @@
             "aabe3b.se",
             "aad73c550c.se",
             "abosearch.com",
-            "ace-webmaster.com",
+            "ace-webmaster.com"
+        ],
+        "to_test": [
             "activeannonce.com",
             "ad.adxmarket.com",
             "ad.blackystars.com",
@@ -446,9 +448,7 @@
             "z.amiblood.com",
             "z.junksport.com",
             "z.nightchan.com",
-            "zde-affinity.edgecaching.net"
-        ],
-        "to_test": [
+            "zde-affinity.edgecaching.net",
             "093qpeuqpmz6ebfa.com"
         ]
     }
