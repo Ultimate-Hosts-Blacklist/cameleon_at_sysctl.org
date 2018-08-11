@@ -114,9 +114,7 @@
             "heise.nuggad.net",
             "helios.finn.no",
             "hiq.fotolog.com",
-            "host.connectorltd.com"
-        ],
-        "to_test": [
+            "host.connectorltd.com",
             "ilamba.com",
             "images.axill.in",
             "images.m4n.nl",
@@ -124,7 +122,9 @@
             "img.ads.sanomamobileads.nl",
             "img.readme.ru",
             "js.cybermonitor.com",
-            "js.dmtry.com",
+            "js.dmtry.com"
+        ],
+        "to_test": [
             "malwareremovalbot.repairandsecure.com",
             "md.ournet-analytics.com",
             "mediadome.ru",
