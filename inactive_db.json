@@ -55,9 +55,7 @@
             "ads.adultpopunders.com",
             "ads.betternetworker.com",
             "ads.centerstage.net",
-            "ads.clickad.com"
-        ],
-        "to_test": [
+            "ads.clickad.com",
             "ads.deliads.com",
             "ads.digitalpressconsortium.com",
             "ads.digitalwow.ro",
@@ -72,7 +70,6 @@
             "ads.kiosked.com",
             "ads.linuxjournal.com",
             "ads.lycos-europe.com",
-            "ads.monogram.sk",
             "ads.newsgeek.co.il",
             "ads.planet49.com",
             "ads.popfolkstars.com",
@@ -85,7 +82,9 @@
             "ads.trafficpimps.com",
             "ads.tripican.com",
             "ads.victoriaadvocate.com",
-            "ads1.cricbuzz.com",
+            "ads1.cricbuzz.com"
+        ],
+        "to_test": [
             "ads2.victoriaadvocate.com",
             "ads3.freebannertrade.com",
             "ads56-us-east.stickyadstv.com",
