@@ -82,9 +82,7 @@
             "ads.trafficpimps.com",
             "ads.tripican.com",
             "ads.victoriaadvocate.com",
-            "ads1.cricbuzz.com"
-        ],
-        "to_test": [
+            "ads1.cricbuzz.com",
             "ads2.victoriaadvocate.com",
             "ads3.freebannertrade.com",
             "ads56-us-east.stickyadstv.com",
@@ -97,7 +95,9 @@
             "adserver.omroepflevoland.nl",
             "adserver.powerlinks.com",
             "adserverc.cliipa.com",
-            "adservicedomain.info",
+            "adservicedomain.info"
+        ],
+        "to_test": [
             "adsnavigator.com",
             "adss.hookupbucks.com",
             "adtag.asiaone.com",
