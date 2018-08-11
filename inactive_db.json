@@ -122,9 +122,7 @@
             "img.ads.sanomamobileads.nl",
             "img.readme.ru",
             "js.cybermonitor.com",
-            "js.dmtry.com"
-        ],
-        "to_test": [
+            "js.dmtry.com",
             "malwareremovalbot.repairandsecure.com",
             "md.ournet-analytics.com",
             "mediadome.ru",
@@ -140,7 +138,10 @@
             "oas.autotrader.co.uk",
             "oascentral.artistdirect.com",
             "oascentral.blackenterprise.com",
-            "oascentral.salemweb.net",
+            "oascentral.escapistmagazine.com",
+            "oascentral.salemweb.net"
+        ],
+        "to_test": [
             "openad.tf1.fr",
             "openadext.tf1.fr",
             "ox-d.ask.servedbyopenx.com",
