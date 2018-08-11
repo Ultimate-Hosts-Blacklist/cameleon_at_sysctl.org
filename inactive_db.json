@@ -55,9 +55,7 @@
             "collector.savvyads.com",
             "cons.xrenoder.com",
             "console.popupsponsor.com",
-            "cont.crawl.ws"
-        ],
-        "to_test": [
+            "cont.crawl.ws",
             "count.vivistats.com",
             "counter1.sextracker.de",
             "counter10.sextracker.de",
@@ -74,7 +72,9 @@
             "counter6.sextracker.de",
             "counter7.sextracker.de",
             "counter8.sextracker.de",
-            "counter9.sextracker.de",
+            "counter9.sextracker.de"
+        ],
+        "to_test": [
             "creative.ad121m.com",
             "cu.genesismedia.com",
             "cv.bsvideos.com",
