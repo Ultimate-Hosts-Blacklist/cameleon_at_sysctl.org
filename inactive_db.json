@@ -112,9 +112,7 @@
             "antivirusup.com",
             "anything4health.com",
             "api.bizographics.com",
-            "apps.advertlets.com"
-        ],
-        "to_test": [
+            "apps.advertlets.com",
             "b-aws.aol.com",
             "b-aws.huffingtonpost.com",
             "b.adserv.cn",
@@ -124,7 +122,9 @@
             "banner.vegasred.com",
             "bannerads.mantecabulletin.com",
             "banners.animeerotico.com",
-            "banners.audioholics.com",
+            "banners.audioholics.com"
+        ],
+        "to_test": [
             "banners.largecash.com",
             "banners.pollasde30cm.com",
             "banners.sextracker.de",
