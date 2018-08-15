@@ -43,9 +43,7 @@
             "ad2.netshelter.net",
             "ad2.vuiads.net",
             "ad4.netshelter.net",
-            "ad5.netshelter.net"
-        ],
-        "to_test": [
+            "ad5.netshelter.net",
             "adb.nikkei.co.jp",
             "adg.bzgint.com",
             "adimage.asia1.com.sg",
@@ -54,6 +52,7 @@
             "admin.popupsponsor.com",
             "adopt.precisead.com",
             "ads-a-darwin.hulu.com",
+            "ads.24.com",
             "ads.adultpopunders.com",
             "ads.betternetworker.com",
             "ads.centerstage.net",
@@ -67,8 +66,11 @@
             "ads.friendtest.com",
             "ads.gad-network.com",
             "ads.gamemarshal.com",
+            "ads.inet-traffic.com",
             "ads.iol.co.il",
-            "ads.juneauempire.com",
+            "ads.juneauempire.com"
+        ],
+        "to_test": [
             "ads.kiosked.com",
             "ads.linuxjournal.com",
             "ads.lycos-europe.com",
