@@ -327,14 +327,7 @@
             "redirect.xmladfeed.com",
             "rotator.axiatraders.com",
             "rq.adtrackdirect.com",
-            "rq.trackingadirect.com"
-        ],
-        "to_test": [
-            "ads.kiosked.com",
-            "ads.linuxjournal.com",
-            "eu.npario-inc.net",
-            "openad.tf1.fr",
-            "openadext.tf1.fr",
+            "rq.trackingadirect.com",
             "s.ad121m.com",
             "s.uadx.com",
             "safedownloadsrus157.com",
@@ -351,7 +344,14 @@
             "st1.freeonlineusers.com",
             "stat-tracker.net",
             "stat.ringier.cz",
-            "static-cf.fmpub.net",
+            "static-cf.fmpub.net"
+        ],
+        "to_test": [
+            "ads.kiosked.com",
+            "ads.linuxjournal.com",
+            "eu.npario-inc.net",
+            "openad.tf1.fr",
+            "openadext.tf1.fr",
             "stats.complex.com",
             "stats.instdaddy.com",
             "stats.spyware-browser.com",
