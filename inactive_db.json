@@ -68,11 +68,7 @@
             "ads.gamemarshal.com",
             "ads.inet-traffic.com",
             "ads.iol.co.il",
-            "ads.juneauempire.com"
-        ],
-        "to_test": [
-            "ads.kiosked.com",
-            "ads.linuxjournal.com",
+            "ads.juneauempire.com",
             "ads.lycos-europe.com",
             "ads.newsgeek.co.il",
             "ads.planet49.com",
@@ -87,7 +83,11 @@
             "ads.tripican.com",
             "ads.victoriaadvocate.com",
             "ads1.cricbuzz.com",
-            "ads2.victoriaadvocate.com",
+            "ads2.victoriaadvocate.com"
+        ],
+        "to_test": [
+            "ads.kiosked.com",
+            "ads.linuxjournal.com",
             "ads3.freebannertrade.com",
             "ads56-us-east.stickyadstv.com",
             "adserv.bigwebtools.com",
