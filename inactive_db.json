@@ -245,12 +245,7 @@
             "helios.finn.no",
             "hiq.fotolog.com",
             "hm.webtrends.com",
-            "host.connectorltd.com"
-        ],
-        "to_test": [
-            "ads.kiosked.com",
-            "ads.linuxjournal.com",
-            "eu.npario-inc.net",
+            "host.connectorltd.com",
             "ilamba.com",
             "images.axill.in",
             "images.m4n.nl",
@@ -260,7 +255,12 @@
             "js.cybermonitor.com",
             "js.dmtry.com",
             "malwareremovalbot.repairandsecure.com",
-            "md.ournet-analytics.com",
+            "md.ournet-analytics.com"
+        ],
+        "to_test": [
+            "ads.kiosked.com",
+            "ads.linuxjournal.com",
+            "eu.npario-inc.net",
             "mediadome.ru",
             "metrics.hhgregg.com",
             "metrics.mercola.com",
