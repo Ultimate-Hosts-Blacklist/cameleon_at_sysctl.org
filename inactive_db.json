@@ -255,12 +255,7 @@
             "js.cybermonitor.com",
             "js.dmtry.com",
             "malwareremovalbot.repairandsecure.com",
-            "md.ournet-analytics.com"
-        ],
-        "to_test": [
-            "ads.kiosked.com",
-            "ads.linuxjournal.com",
-            "eu.npario-inc.net",
+            "md.ournet-analytics.com",
             "mediadome.ru",
             "metrics.hhgregg.com",
             "metrics.mercola.com",
@@ -275,7 +270,12 @@
             "oascentral.artistdirect.com",
             "oascentral.blackenterprise.com",
             "oascentral.escapistmagazine.com",
-            "oascentral.salemweb.net",
+            "oascentral.salemweb.net"
+        ],
+        "to_test": [
+            "ads.kiosked.com",
+            "ads.linuxjournal.com",
+            "eu.npario-inc.net",
             "openad.tf1.fr",
             "openadext.tf1.fr",
             "ox-d.ask.servedbyopenx.com",
