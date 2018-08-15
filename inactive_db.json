@@ -270,14 +270,7 @@
             "oascentral.artistdirect.com",
             "oascentral.blackenterprise.com",
             "oascentral.escapistmagazine.com",
-            "oascentral.salemweb.net"
-        ],
-        "to_test": [
-            "ads.kiosked.com",
-            "ads.linuxjournal.com",
-            "eu.npario-inc.net",
-            "openad.tf1.fr",
-            "openadext.tf1.fr",
+            "oascentral.salemweb.net",
             "ox-d.ask.servedbyopenx.com",
             "ox-d.bizjournals.servedbyopenx.com",
             "ox-d.blogtalkradio.com",
@@ -334,7 +327,14 @@
             "redirect.xmladfeed.com",
             "rotator.axiatraders.com",
             "rq.adtrackdirect.com",
-            "rq.trackingadirect.com",
+            "rq.trackingadirect.com"
+        ],
+        "to_test": [
+            "ads.kiosked.com",
+            "ads.linuxjournal.com",
+            "eu.npario-inc.net",
+            "openad.tf1.fr",
+            "openadext.tf1.fr",
             "s.ad121m.com",
             "s.uadx.com",
             "safedownloadsrus157.com",
