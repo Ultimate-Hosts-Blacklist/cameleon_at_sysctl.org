@@ -1,6 +1,6 @@
 {
     "/home/travis/build/Ultimate-Hosts-Blacklist/cameleon_at_sysctl.org/domains.list": {
-        "1534341555": [
+        "1534601852": [
             "0c9d8370d.se",
             "10bestsearch.com",
             "117.mylongtail.com",
@@ -27,10 +27,20 @@
             "a.visualrevenue.com",
             "aabe3b.se",
             "aad73c550c.se",
-            "abc801.cn",
             "abosearch.com",
             "ace-webmaster.com",
-            "activeannonce.com",
+            "activeannonce.com"
+        ],
+        "to_test": [
+            "ads.kiosked.com",
+            "ads.linuxjournal.com",
+            "eu.npario-inc.net",
+            "openad.tf1.fr",
+            "openadext.tf1.fr",
+            "www.adultpopunders.com",
+            "www.ezthemes.com",
+            "www.fastfind.org",
+            "www.findit-quick.com",
             "ad.adxmarket.com",
             "ad.blackystars.com",
             "ad.creafi.com",
@@ -447,18 +457,7 @@
             "z.amiblood.com",
             "z.junksport.com",
             "z.nightchan.com",
-            "zde-affinity.edgecaching.net"
-        ],
-        "to_test": [
-            "ads.kiosked.com",
-            "ads.linuxjournal.com",
-            "eu.npario-inc.net",
-            "openad.tf1.fr",
-            "openadext.tf1.fr",
-            "www.adultpopunders.com",
-            "www.ezthemes.com",
-            "www.fastfind.org",
-            "www.findit-quick.com",
+            "zde-affinity.edgecaching.net",
             "093qpeuqpmz6ebfa.com"
         ]
     }
