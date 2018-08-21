@@ -1,7 +1,8 @@
 {
     "/home/travis/build/Ultimate-Hosts-Blacklist/cameleon_at_sysctl.org/domains.list": {
-        "1534601852": [
+        "1534860542": [
             "0c9d8370d.se",
+            "100tosdefotos.com",
             "10bestsearch.com",
             "117.mylongtail.com",
             "11954.filter.bullhornsearch.com",
@@ -24,7 +25,21 @@
             "7security.info",
             "a.adserv.cn",
             "a.jumptap.com",
-            "a.visualrevenue.com",
+            "a.visualrevenue.com"
+        ],
+        "to_test": [
+            "www.adultpopunders.com",
+            "ad.adxmarket.com",
+            "ads.telegraph.co.uk",
+            "ads.thebulgarianpost.com",
+            "ads.thehorse.com",
+            "download.malwareremovingtool.com",
+            "download.ucmore.com",
+            "redirect.xmladfeed.com",
+            "stat.ringier.cz",
+            "www.dblpmp.com",
+            "www.deskwizz.com",
+            "www.slotchbar.com",
             "aabe3b.se",
             "aad73c550c.se",
             "abosearch.com",
@@ -453,21 +468,7 @@
             "z.amiblood.com",
             "z.junksport.com",
             "z.nightchan.com",
-            "zde-affinity.edgecaching.net"
-        ],
-        "to_test": [
-            "www.adultpopunders.com",
-            "ad.adxmarket.com",
-            "ads.telegraph.co.uk",
-            "ads.thebulgarianpost.com",
-            "ads.thehorse.com",
-            "download.malwareremovingtool.com",
-            "download.ucmore.com",
-            "redirect.xmladfeed.com",
-            "stat.ringier.cz",
-            "www.dblpmp.com",
-            "www.deskwizz.com",
-            "www.slotchbar.com",
+            "zde-affinity.edgecaching.net",
             "093qpeuqpmz6ebfa.com"
         ]
     }
