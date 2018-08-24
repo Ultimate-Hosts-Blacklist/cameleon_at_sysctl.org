@@ -1,6 +1,6 @@
 {
     "/home/travis/build/Ultimate-Hosts-Blacklist/cameleon_at_sysctl.org/domains.list": {
-        "1534860542": [
+        "1535119350": [
             "0c9d8370d.se",
             "100tosdefotos.com",
             "10bestsearch.com",
@@ -26,9 +26,21 @@
             "a.adserv.cn",
             "a.jumptap.com",
             "a.visualrevenue.com",
+            "aabe3b.se",
+            "aad73c550c.se",
             "abosearch.com",
             "ace-webmaster.com",
-            "activeannonce.com",
+            "activeannonce.com"
+        ],
+        "to_test": [
+            "creative.ad121m.com",
+            "eu.npario-inc.net",
+            "ilamba.com",
+            "partner.finditquick.com",
+            "partners.betfredaffiliates.com",
+            "pay.tranent.nl",
+            "www.gpr.hu",
+            "www.guardcyclequick.com",
             "ad.adxmarket.com",
             "ad.blackystars.com",
             "ad.creafi.com",
@@ -456,19 +468,7 @@
             "z.amiblood.com",
             "z.junksport.com",
             "z.nightchan.com",
-            "zde-affinity.edgecaching.net"
-        ],
-        "to_test": [
-            "aabe3b.se",
-            "aad73c550c.se",
-            "creative.ad121m.com",
-            "eu.npario-inc.net",
-            "ilamba.com",
-            "partner.finditquick.com",
-            "partners.betfredaffiliates.com",
-            "pay.tranent.nl",
-            "www.gpr.hu",
-            "www.guardcyclequick.com",
+            "zde-affinity.edgecaching.net",
             "093qpeuqpmz6ebfa.com"
         ]
     }
