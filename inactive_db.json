@@ -77,10 +77,7 @@
             "ad1.netshelter.net",
             "ad1.nownews.com",
             "ad1.trafficx.com",
-            "ad1.zbads.com"
-        ],
-        "to_test": [
-            "ad.aboutit.de",
+            "ad1.zbads.com",
             "ad2.asit.de",
             "ad2.mamma.com",
             "ad2.netshelter.net",
@@ -89,13 +86,17 @@
             "ad468.prbn.ru",
             "ad5.netshelter.net",
             "adb.nikkei.co.jp",
+            "adcdn.33universal.com",
             "adcentral.gtmi.net",
             "addie.verticalnetwork.de",
             "adg.bzgint.com",
             "adimage.asia1.com.sg",
             "adimage.asiaone.com.sg",
             "adimages.scrippsnetworks.com",
-            "adindex.ocweekly.com",
+            "adindex.ocweekly.com"
+        ],
+        "to_test": [
+            "ad.aboutit.de",
             "adloyal.pl",
             "adman.in.gr",
             "admedia.ro",
