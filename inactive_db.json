@@ -93,12 +93,7 @@
             "adimage.asia1.com.sg",
             "adimage.asiaone.com.sg",
             "adimages.scrippsnetworks.com",
-            "adindex.ocweekly.com"
-        ],
-        "to_test": [
-            "ad.aboutit.de",
-            "adloyal.pl",
-            "adman.in.gr",
+            "adindex.ocweekly.com",
             "admedia.ro",
             "admin.popupsponsor.com",
             "admon1.count.brat-online.ro",
@@ -152,7 +147,12 @@
             "ads.mezimedia.com",
             "ads.mixbg.net",
             "ads.mmediatags.com",
-            "ads.newsgeek.co.il",
+            "ads.newsgeek.co.il"
+        ],
+        "to_test": [
+            "ad.aboutit.de",
+            "adloyal.pl",
+            "adman.in.gr",
             "ads.onlineathens.com",
             "ads.pennyweb.com",
             "ads.planet49.com",
