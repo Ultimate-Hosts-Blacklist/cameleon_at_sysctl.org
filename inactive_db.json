@@ -53,10 +53,7 @@
             "acvs.mediaonenetwork.net",
             "acvsrv.mediaonenetwork.net",
             "ad-incisive.grapeshot.co.uk",
-            "ad-us-east-1.pxlad.io"
-        ],
-        "to_test": [
-            "ad.aboutit.de",
+            "ad-us-east-1.pxlad.io",
             "ad.blackystars.com",
             "ad.candybar.co.kr",
             "ad.creafi.com",
@@ -78,8 +75,12 @@
             "ad.vuiads.net",
             "ad.zonabg.info",
             "ad1.netshelter.net",
+            "ad1.nownews.com",
             "ad1.trafficx.com",
-            "ad1.zbads.com",
+            "ad1.zbads.com"
+        ],
+        "to_test": [
+            "ad.aboutit.de",
             "ad2.asit.de",
             "ad2.mamma.com",
             "ad2.netshelter.net",
