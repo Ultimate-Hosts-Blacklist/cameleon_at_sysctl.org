@@ -147,14 +147,7 @@
             "ads.mezimedia.com",
             "ads.mixbg.net",
             "ads.mmediatags.com",
-            "ads.newsgeek.co.il"
-        ],
-        "to_test": [
-            "ad.aboutit.de",
-            "adloyal.pl",
-            "adman.in.gr",
-            "ads.onlineathens.com",
-            "ads.pennyweb.com",
+            "ads.newsgeek.co.il",
             "ads.planet49.com",
             "ads.popfolkstars.com",
             "ads.popularno.mk",
@@ -180,7 +173,14 @@
             "ads1.cricbuzz.com",
             "ads1.zenoviaexchange.com",
             "ads2.victoriaadvocate.com",
-            "ads2.zenotecnico.com",
+            "ads2.zenotecnico.com"
+        ],
+        "to_test": [
+            "ad.aboutit.de",
+            "adloyal.pl",
+            "adman.in.gr",
+            "ads.onlineathens.com",
+            "ads.pennyweb.com",
             "ads3.freebannertrade.com",
             "ads3.zenotecnico.com",
             "ads32.vertamedia.com",
