@@ -6935,6 +6935,16 @@
             "expiration_date": "11-jan-2019",
             "state": "future"
         },
+        "eads.org": {
+            "epoch": "1812153600",
+            "expiration_date": "05-jun-2027",
+            "state": "future"
+        },
+        "eadsrv.com": {
+            "epoch": "1614384000",
+            "expiration_date": "27-feb-2021",
+            "state": "future"
+        },
         "ecpm.com": {
             "epoch": "1573516800",
             "expiration_date": "12-nov-2019",
