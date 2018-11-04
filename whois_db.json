@@ -1151,8 +1151,8 @@
             "state": "future"
         },
         "a-d-w-a-r-e.com": {
-            "epoch": "1541203200",
-            "expiration_date": "03-nov-2018",
+            "epoch": "1572739200",
+            "expiration_date": "03-nov-2019",
             "state": "future"
         },
         "a-maze.com": {
@@ -4403,6 +4403,11 @@
         "analystic.org": {
             "epoch": "1568505600",
             "expiration_date": "15-sep-2019",
+            "state": "future"
+        },
+        "analytics-google.info": {
+            "epoch": "1546214400",
+            "expiration_date": "31-dec-2018",
             "state": "future"
         },
         "anarchyporn.com": {
