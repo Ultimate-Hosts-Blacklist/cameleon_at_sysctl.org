@@ -245,6 +245,11 @@
             "expiration_date": "19-aug-2019",
             "state": "future"
         },
+        "123topsearch.com": {
+            "epoch": "1573430400",
+            "expiration_date": "11-nov-2019",
+            "state": "future"
+        },
         "123webmarketing.com": {
             "epoch": "1548028800",
             "expiration_date": "21-jan-2019",
@@ -328,7 +333,7 @@
         "1empiredirect.com": {
             "epoch": "1541894400",
             "expiration_date": "11-nov-2018",
-            "state": "future"
+            "state": "past"
         },
         "1ere-position.com": {
             "epoch": "1552089600",
@@ -1606,8 +1611,8 @@
             "state": "future"
         },
         "acustat.com": {
-            "epoch": "1541721600",
-            "expiration_date": "09-nov-2018",
+            "epoch": "1573257600",
+            "expiration_date": "09-nov-2019",
             "state": "future"
         },
         "acxiom.com": {
