@@ -7113,7 +7113,7 @@
         "ecpmrocks.com": {
             "epoch": "1543276800",
             "expiration_date": "27-nov-2018",
-            "state": "future"
+            "state": "past"
         },
         "edmedsnow.com": {
             "epoch": "1579910400",
@@ -7536,8 +7536,8 @@
             "state": "future"
         },
         "freebitmoney.com": {
-            "epoch": "1543017600",
-            "expiration_date": "24-nov-2018",
+            "epoch": "1574553600",
+            "expiration_date": "24-nov-2019",
             "state": "future"
         },
         "freegeoip.net": {
@@ -7716,8 +7716,8 @@
             "state": "future"
         },
         "getimpressed.com": {
-            "epoch": "1543017600",
-            "expiration_date": "24-nov-2018",
+            "epoch": "1574553600",
+            "expiration_date": "24-nov-2019",
             "state": "future"
         },
         "getiton.com": {
@@ -7726,9 +7726,9 @@
             "state": "future"
         },
         "getmailcounter.com": {
-            "epoch": "1542931200",
-            "expiration_date": "23-nov-2018",
-            "state": "past"
+            "epoch": "1574467200",
+            "expiration_date": "23-nov-2019",
+            "state": "future"
         },
         "getrank.net": {
             "epoch": "1565481600",
