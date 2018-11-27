@@ -10033,7 +10033,7 @@
         "slotch.com": {
             "epoch": "1543276800",
             "expiration_date": "27-nov-2018",
-            "state": "future"
+            "state": "past"
         },
         "slotchbar.com": {
             "epoch": "1560470400",
@@ -10086,8 +10086,8 @@
             "state": "future"
         },
         "spawnet.com": {
-            "epoch": "1543017600",
-            "expiration_date": "24-nov-2018",
+            "epoch": "1574553600",
+            "expiration_date": "24-nov-2019",
             "state": "future"
         },
         "special-movies.com": {
