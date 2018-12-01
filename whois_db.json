@@ -5211,8 +5211,8 @@
             "state": "future"
         },
         "baxet.com": {
-            "epoch": "1543536000",
-            "expiration_date": "30-nov-2018",
+            "epoch": "1575072000",
+            "expiration_date": "30-nov-2019",
             "state": "future"
         },
         "baypops.com": {
@@ -5333,7 +5333,7 @@
         "bestproduct.in": {
             "epoch": "1543622400",
             "expiration_date": "01-dec-2018",
-            "state": "future"
+            "state": "past"
         },
         "bestrxcanada.com": {
             "epoch": "1570838400",
