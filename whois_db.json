@@ -2908,7 +2908,7 @@
         "adultden.com": {
             "epoch": "1543881600",
             "expiration_date": "04-dec-2018",
-            "state": "future"
+            "state": "past"
         },
         "adultdialersolution.com": {
             "epoch": "1572220800",
@@ -3221,8 +3221,8 @@
             "state": "future"
         },
         "advertising.ru": {
-            "epoch": "1543708800",
-            "expiration_date": "02-dec-2018",
+            "epoch": "1575244800",
+            "expiration_date": "02-dec-2019",
             "state": "future"
         },
         "advertising.tv": {
@@ -3671,8 +3671,8 @@
             "state": "future"
         },
         "aifind.info": {
-            "epoch": "1543795200",
-            "expiration_date": "03-dec-2018",
+            "epoch": "1575331200",
+            "expiration_date": "03-dec-2019",
             "state": "future"
         },
         "aim4media.com": {
@@ -3681,9 +3681,9 @@
             "state": "future"
         },
         "aimdolls.com": {
-            "epoch": "1536883200",
-            "expiration_date": "14-sep-2018",
-            "state": "past"
+            "epoch": "1575244800",
+            "expiration_date": "02-dec-2019",
+            "state": "future"
         },
         "aimes.com": {
             "epoch": "1572566400",
