@@ -9433,7 +9433,7 @@
         "pscdns.biz": {
             "epoch": "1544140800",
             "expiration_date": "07-dec-2018",
-            "state": "future"
+            "state": "past"
         },
         "ptp4ever.net": {
             "epoch": "1578700800",
@@ -9776,8 +9776,8 @@
             "state": "future"
         },
         "samvaulter.com": {
-            "epoch": "1544140800",
-            "expiration_date": "07-dec-2018",
+            "epoch": "1575676800",
+            "expiration_date": "07-dec-2019",
             "state": "future"
         },
         "sascentral.com": {
@@ -9831,8 +9831,8 @@
             "state": "future"
         },
         "searchclickads.net": {
-            "epoch": "1543968000",
-            "expiration_date": "05-dec-2018",
+            "epoch": "1575504000",
+            "expiration_date": "05-dec-2019",
             "state": "future"
         },
         "searchclickbuy.com": {
