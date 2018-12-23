@@ -1801,8 +1801,8 @@
             "state": "future"
         },
         "adbility.com": {
-            "epoch": "1545264000",
-            "expiration_date": "20-dec-2018",
+            "epoch": "1576800000",
+            "expiration_date": "20-dec-2019",
             "state": "future"
         },
         "adblaster.com": {
@@ -1816,8 +1816,8 @@
             "state": "future"
         },
         "adblock.com": {
-            "epoch": "1545436800",
-            "expiration_date": "22-dec-2018",
+            "epoch": "1576972800",
+            "expiration_date": "22-dec-2019",
             "state": "future"
         },
         "adbonus.com": {
@@ -2088,7 +2088,7 @@
         "adhome.biz": {
             "epoch": "1544659200",
             "expiration_date": "13-dec-2018",
-            "state": "future"
+            "state": "past"
         },
         "adhone.com": {
             "epoch": "1573430400",
