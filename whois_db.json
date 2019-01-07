@@ -11041,8 +11041,8 @@
             "state": "future"
         },
         "xxx-r.com": {
-            "epoch": "1546732800",
-            "expiration_date": "06-jan-2019",
+            "epoch": "1578268800",
+            "expiration_date": "06-jan-2020",
             "state": "future"
         },
         "xxx4live.com": {
@@ -11143,7 +11143,7 @@
         "yousearchdirect.com": {
             "epoch": "1546819200",
             "expiration_date": "07-jan-2019",
-            "state": "future"
+            "state": "past"
         },
         "ysbweb.com": {
             "epoch": "1572912000",
