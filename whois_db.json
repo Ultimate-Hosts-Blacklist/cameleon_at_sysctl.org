@@ -6848,7 +6848,7 @@
         "dns-look-up.com": {
             "epoch": "1547164800",
             "expiration_date": "11-jan-2019",
-            "state": "future"
+            "state": "past"
         },
         "docsofyours.com": {
             "epoch": "1548288000",
@@ -7008,7 +7008,7 @@
         "dzheker.com": {
             "epoch": "1547164800",
             "expiration_date": "11-jan-2019",
-            "state": "future"
+            "state": "past"
         },
         "eads.org": {
             "epoch": "1812153600",
