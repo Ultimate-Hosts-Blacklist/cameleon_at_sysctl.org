@@ -2526,8 +2526,8 @@
             "state": "future"
         },
         "adserver.com": {
-            "epoch": "1546905600",
-            "expiration_date": "08-jan-2019",
+            "epoch": "1578441600",
+            "expiration_date": "08-jan-2020",
             "state": "future"
         },
         "adserver.pl": {
@@ -2538,7 +2538,7 @@
         "adserversolutions.com": {
             "epoch": "1547164800",
             "expiration_date": "11-jan-2019",
-            "state": "future"
+            "state": "past"
         },
         "adserverus.info": {
             "epoch": "1551916800",
