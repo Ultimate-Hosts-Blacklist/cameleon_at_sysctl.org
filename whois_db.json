@@ -5136,8 +5136,8 @@
             "state": "future"
         },
         "banners.net": {
-            "epoch": "1547164800",
-            "expiration_date": "11-jan-2019",
+            "epoch": "1578700800",
+            "expiration_date": "11-jan-2020",
             "state": "future"
         },
         "bannerserver.com": {
@@ -5573,7 +5573,7 @@
         "blogicar.com": {
             "epoch": "1547164800",
             "expiration_date": "11-jan-2019",
-            "state": "future"
+            "state": "past"
         },
         "bluehparking.com": {
             "epoch": "1571702400",
