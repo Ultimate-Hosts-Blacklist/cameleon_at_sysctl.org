@@ -6303,7 +6303,7 @@
         "clubfeed.org": {
             "epoch": "1547856000",
             "expiration_date": "19-jan-2019",
-            "state": "future"
+            "state": "past"
         },
         "clubmillionswow.cn": {
             "epoch": "1571875200",
@@ -6706,8 +6706,8 @@
             "state": "future"
         },
         "defencelab.com": {
-            "epoch": "1547856000",
-            "expiration_date": "19-jan-2019",
+            "epoch": "1579392000",
+            "expiration_date": "19-jan-2020",
             "state": "future"
         },
         "defenza.com": {
