@@ -4488,7 +4488,7 @@
         "anin.org": {
             "epoch": "1550016000",
             "expiration_date": "13-feb-2019",
-            "state": "future"
+            "state": "past"
         },
         "anip.com": {
             "epoch": "1573603200",
@@ -5096,8 +5096,8 @@
             "state": "future"
         },
         "bannerco-op.com": {
-            "epoch": "1549843200",
-            "expiration_date": "11-feb-2019",
+            "epoch": "1581379200",
+            "expiration_date": "11-feb-2020",
             "state": "future"
         },
         "bannercpm.com": {
