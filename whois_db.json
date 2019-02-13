@@ -2711,8 +2711,8 @@
             "state": "future"
         },
         "adtagger.com": {
-            "epoch": "1549929600",
-            "expiration_date": "12-feb-2019",
+            "epoch": "1581465600",
+            "expiration_date": "12-feb-2020",
             "state": "future"
         },
         "adtastic.com": {
@@ -2876,8 +2876,8 @@
             "state": "future"
         },
         "adultau.com": {
-            "epoch": "1549929600",
-            "expiration_date": "12-feb-2019",
+            "epoch": "1581465600",
+            "expiration_date": "12-feb-2020",
             "state": "future"
         },
         "adultbookings.com": {
@@ -4278,7 +4278,7 @@
         "amazing-gals.com": {
             "epoch": "1550016000",
             "expiration_date": "13-feb-2019",
-            "state": "future"
+            "state": "past"
         },
         "amazingindian.com": {
             "epoch": "1562889600",
