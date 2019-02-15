@@ -9073,7 +9073,7 @@
         "ourbesthits.com": {
             "epoch": "1550188800",
             "expiration_date": "15-feb-2019",
-            "state": "future"
+            "state": "past"
         },
         "ourbestsearch.info": {
             "epoch": "1554508800",
@@ -9233,6 +9233,11 @@
         "pingomatic.com": {
             "epoch": "1553212800",
             "expiration_date": "22-mar-2019",
+            "state": "future"
+        },
+        "pinoy-topsites.com": {
+            "epoch": "1581724800",
+            "expiration_date": "15-feb-2020",
             "state": "future"
         },
         "piwik.org": {
@@ -9536,8 +9541,8 @@
             "state": "future"
         },
         "quinst.com": {
-            "epoch": "1550188800",
-            "expiration_date": "15-feb-2019",
+            "epoch": "1581724800",
+            "expiration_date": "15-feb-2020",
             "state": "future"
         },
         "radarstats.com": {
