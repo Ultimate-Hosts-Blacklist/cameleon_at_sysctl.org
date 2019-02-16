@@ -86,7 +86,9 @@ def generate_extra_files():  # pylint: disable=too-many-branches
     """
 
     if bool(int(INFO["clean_original"])):  # pylint: disable=too-many-nested-blocks
-        clean_list = temp_clean_list = volatile_list = []
+        clean_list = []
+        temp_clean_list = []
+        volatile_list = []
 
         list_special_content = Helpers.Regex(
             Helpers.File(Settings.file_to_test).to_list(), r"ALL\s"
@@ -121,6 +123,11 @@ def generate_extra_files():  # pylint: disable=too-many-branches
                             ).lower()
                             == "active"
                         ):
+                            print(
+                                "Introduction of `{}` into `{}`".format(
+                                    element[4:], Settings.volatile_list_file
+                                )
+                            )
                             volatile_list.append(element[4:])
                         else:
                             if (
@@ -130,7 +137,18 @@ def generate_extra_files():  # pylint: disable=too-many-branches
                                 ).lower()
                                 == "active"
                             ):
+                                print(
+                                    "Introduction of `{}` into `{}`".format(
+                                        "www.{}".format(element),
+                                        Settings.volatile_list_file,
+                                    )
+                                )
                                 volatile_list.append("www.{}".format(element))
+                    print(
+                        "Introduction of `{}` into `{}`".format(
+                            element, Settings.volatile_list_file
+                        )
+                    )
                     volatile_list.append(element)
 
         temp_clean_list = Helpers.List(temp_clean_list).format()
