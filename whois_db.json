@@ -988,7 +988,7 @@
         "7adpower.com": {
             "epoch": "1550448000",
             "expiration_date": "18-feb-2019",
-            "state": "future"
+            "state": "past"
         },
         "7art-screensavers.com": {
             "epoch": "1559606400",
@@ -1351,8 +1351,8 @@
             "state": "future"
         },
         "about-sexy.com": {
-            "epoch": "1550448000",
-            "expiration_date": "18-feb-2019",
+            "epoch": "1581984000",
+            "expiration_date": "18-feb-2020",
             "state": "future"
         },
         "about.com": {
