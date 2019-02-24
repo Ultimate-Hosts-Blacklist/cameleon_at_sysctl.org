@@ -5308,7 +5308,7 @@
         "bestga.biz": {
             "epoch": "1550880000",
             "expiration_date": "23-feb-2019",
-            "state": "future"
+            "state": "past"
         },
         "besthardporn.com": {
             "epoch": "1575763200",
@@ -5506,9 +5506,9 @@
             "state": "future"
         },
         "binarybliss.com": {
-            "epoch": "1550448000",
-            "expiration_date": "18-feb-2019",
-            "state": "past"
+            "epoch": "1581984000",
+            "expiration_date": "18-feb-2020",
+            "state": "future"
         },
         "bingstart.com": {
             "epoch": "1559001600",
@@ -5791,8 +5791,8 @@
             "state": "future"
         },
         "buypillz.com": {
-            "epoch": "1550793600",
-            "expiration_date": "22-feb-2019",
+            "epoch": "1582329600",
+            "expiration_date": "22-feb-2020",
             "state": "future"
         },
         "byet.org": {
