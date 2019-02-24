@@ -10138,7 +10138,7 @@
         "spyspotter.com": {
             "epoch": "1550966400",
             "expiration_date": "24-feb-2019",
-            "state": "future"
+            "state": "past"
         },
         "spywarecrusher.com": {
             "epoch": "1557878400",
@@ -10411,8 +10411,8 @@
             "state": "future"
         },
         "tns-counter.ru": {
-            "epoch": "1550534400",
-            "expiration_date": "19-feb-2019",
+            "epoch": "1582070400",
+            "expiration_date": "19-feb-2020",
             "state": "future"
         },
         "tns-gallup.dk": {
