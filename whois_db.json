@@ -4238,7 +4238,7 @@
         "alyon.net": {
             "epoch": "1551398400",
             "expiration_date": "01-mar-2019",
-            "state": "future"
+            "state": "past"
         },
         "am-display.com": {
             "epoch": "1562976000",
@@ -4931,8 +4931,8 @@
             "state": "future"
         },
         "asutra.org": {
-            "epoch": "1551312000",
-            "expiration_date": "28-feb-2019",
+            "epoch": "1582848000",
+            "expiration_date": "28-feb-2020",
             "state": "future"
         },
         "atemda.com": {
