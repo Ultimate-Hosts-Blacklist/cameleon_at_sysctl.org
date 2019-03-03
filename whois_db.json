@@ -2785,6 +2785,11 @@
             "expiration_date": "10-oct-2019",
             "state": "future"
         },
+        "adscampaign.com": {
+            "epoch": "1582502400",
+            "expiration_date": "24-feb-2020",
+            "state": "future"
+        },
         "adscampaign.net": {
             "epoch": "1582502400",
             "expiration_date": "24-feb-2020",
@@ -2808,6 +2813,16 @@
         "adsenger.com": {
             "epoch": "1559001600",
             "expiration_date": "28-may-2019",
+            "state": "future"
+        },
+        "adsensecustomsearchads.com": {
+            "epoch": "1580169600",
+            "expiration_date": "28-jan-2020",
+            "state": "future"
+        },
+        "adsentra.com": {
+            "epoch": "1569196800",
+            "expiration_date": "23-sep-2019",
             "state": "future"
         },
         "adserv.net": {
@@ -2835,6 +2850,11 @@
             "expiration_date": "20-sep-2019",
             "state": "future"
         },
+        "adserver5.com": {
+            "epoch": "1576800000",
+            "expiration_date": "20-dec-2019",
+            "state": "future"
+        },
         "adserversolutions.com": {
             "epoch": "1578700800",
             "expiration_date": "11-jan-2020",
@@ -2850,6 +2870,11 @@
             "expiration_date": "04-mar-2019",
             "state": "future"
         },
+        "adservtech.com": {
+            "epoch": "1572652800",
+            "expiration_date": "02-nov-2019",
+            "state": "future"
+        },
         "adsfac.net": {
             "epoch": "1567555200",
             "expiration_date": "04-sep-2019",
@@ -2858,6 +2883,11 @@
         "adsfac.us": {
             "epoch": "1566345600",
             "expiration_date": "21-aug-2019",
+            "state": "future"
+        },
+        "adsforindians.com": {
+            "epoch": "1577318400",
+            "expiration_date": "26-dec-2019",
             "state": "future"
         },
         "adsgangsta.com": {
@@ -2945,6 +2975,11 @@
             "expiration_date": "10-jun-2020",
             "state": "future"
         },
+        "adspeed.com": {
+            "epoch": "1824076800",
+            "expiration_date": "21-oct-2027",
+            "state": "future"
+        },
         "adspics.com": {
             "epoch": "1582848000",
             "expiration_date": "28-feb-2020",
@@ -2958,7 +2993,7 @@
         "adspyre.com": {
             "epoch": "1551571200",
             "expiration_date": "03-mar-2019",
-            "state": "future"
+            "state": "past"
         },
         "adsraise.com": {
             "epoch": "1557273600",
@@ -2978,6 +3013,16 @@
         "adstoclick.com": {
             "epoch": "1555200000",
             "expiration_date": "14-apr-2019",
+            "state": "future"
+        },
+        "adsupply.com": {
+            "epoch": "1597276800",
+            "expiration_date": "13-aug-2020",
+            "state": "future"
+        },
+        "adsurve.com": {
+            "epoch": "1569283200",
+            "expiration_date": "24-sep-2019",
             "state": "future"
         },
         "adsvert.com": {
@@ -3005,6 +3050,11 @@
             "expiration_date": "06-feb-2020",
             "state": "future"
         },
+        "adszooks.com": {
+            "epoch": "1551744000",
+            "expiration_date": "05-mar-2019",
+            "state": "future"
+        },
         "adtactics.com": {
             "epoch": "1556755200",
             "expiration_date": "02-may-2019",
@@ -3013,6 +3063,11 @@
         "adtagger.com": {
             "epoch": "1581465600",
             "expiration_date": "12-feb-2020",
+            "state": "future"
+        },
+        "adtaily.com": {
+            "epoch": "1554336000",
+            "expiration_date": "04-apr-2019",
             "state": "future"
         },
         "adtastic.com": {
@@ -3090,6 +3145,11 @@
             "expiration_date": "01-oct-2019",
             "state": "future"
         },
+        "adtraff.ru": {
+            "epoch": "1562025600",
+            "expiration_date": "02-jul-2019",
+            "state": "future"
+        },
         "adtrak.net": {
             "epoch": "1553904000",
             "expiration_date": "30-mar-2019",
@@ -3155,6 +3215,11 @@
             "expiration_date": "05-nov-2019",
             "state": "future"
         },
+        "adultadbroker.com": {
+            "epoch": "1559088000",
+            "expiration_date": "29-may-2019",
+            "state": "future"
+        },
         "adultadscash.com": {
             "epoch": "1561852800",
             "expiration_date": "30-jun-2019",
@@ -3163,6 +3228,11 @@
         "adultadtrade.com": {
             "epoch": "1557878400",
             "expiration_date": "15-may-2019",
+            "state": "future"
+        },
+        "adultadvertising.net": {
+            "epoch": "1562976000",
+            "expiration_date": "13-jul-2019",
             "state": "future"
         },
         "adultapp.com": {
@@ -3178,6 +3248,11 @@
         "adultau.com": {
             "epoch": "1581465600",
             "expiration_date": "12-feb-2020",
+            "state": "future"
+        },
+        "adultblogtoplist.com": {
+            "epoch": "1581292800",
+            "expiration_date": "10-feb-2020",
             "state": "future"
         },
         "adultbookings.com": {
