@@ -8473,7 +8473,7 @@
         "disablespyware.com": {
             "epoch": "1552348800",
             "expiration_date": "12-mar-2019",
-            "state": "future"
+            "state": "past"
         },
         "discountclick.com": {
             "epoch": "1568073600",
@@ -8681,8 +8681,8 @@
             "state": "future"
         },
         "drunksexygirls.com": {
-            "epoch": "1552262400",
-            "expiration_date": "11-mar-2019",
+            "epoch": "1583884800",
+            "expiration_date": "11-mar-2020",
             "state": "future"
         },
         "dsnextgen.com": {
@@ -8816,8 +8816,8 @@
             "state": "future"
         },
         "ebannertraffic.com": {
-            "epoch": "1552348800",
-            "expiration_date": "12-mar-2019",
+            "epoch": "1583971200",
+            "expiration_date": "12-mar-2020",
             "state": "future"
         },
         "ebates.com": {
@@ -9056,8 +9056,8 @@
             "state": "future"
         },
         "empire404.com": {
-            "epoch": "1552262400",
-            "expiration_date": "11-mar-2019",
+            "epoch": "1583884800",
+            "expiration_date": "11-mar-2020",
             "state": "future"
         },
         "emporn.com": {
@@ -9693,7 +9693,7 @@
         "freehitwebsitecounter.com": {
             "epoch": "1552348800",
             "expiration_date": "12-mar-2019",
-            "state": "future"
+            "state": "past"
         },
         "freelogs.com": {
             "epoch": "1608076800",
@@ -10153,6 +10153,11 @@
         "goi.com": {
             "epoch": "1572998400",
             "expiration_date": "06-nov-2019",
+            "state": "future"
+        },
+        "goldadvert.cz": {
+            "epoch": "1567641600",
+            "expiration_date": "05-sep-2019",
             "state": "future"
         },
         "gomusic.com": {
