@@ -2988,7 +2988,7 @@
         "adsnic.com": {
             "epoch": "1552348800",
             "expiration_date": "12-mar-2019",
-            "state": "future"
+            "state": "past"
         },
         "adsoftware.com": {
             "epoch": "1578960000",
@@ -3663,7 +3663,7 @@
         "advertbar.com": {
             "epoch": "1552348800",
             "expiration_date": "12-mar-2019",
-            "state": "future"
+            "state": "past"
         },
         "adverteasy.fr": {
             "epoch": "1555459200",
@@ -4466,8 +4466,8 @@
             "state": "future"
         },
         "alfy.com": {
-            "epoch": "1552262400",
-            "expiration_date": "11-mar-2019",
+            "epoch": "1583884800",
+            "expiration_date": "11-mar-2020",
             "state": "future"
         },
         "alibabaslots.com": {
