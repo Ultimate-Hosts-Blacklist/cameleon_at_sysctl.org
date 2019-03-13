@@ -2229,9 +2229,7 @@
             "z.wackshack.net",
             "za2.zeroredirect8.com",
             "zd1.zeroredirect6.com",
-            "zde-affinity.edgecaching.net"
-        ],
-        "to_test": [
+            "zde-affinity.edgecaching.net",
             "ad113.ezcybersearch.com",
             "ad114.ezcybersearch.com",
             "ad115.ezcybersearch.com",
@@ -2270,7 +2268,9 @@
             "ad142.ezcybersearch.com",
             "ad143.ezcybersearch.com",
             "ad144.ezcybersearch.com",
-            "ad145.ezcybersearch.com",
+            "ad145.ezcybersearch.com"
+        ],
+        "to_test": [
             "ad146.ezcybersearch.com",
             "ad147.ezcybersearch.com",
             "ad148.ezcybersearch.com",
