@@ -7441,9 +7441,9 @@
             "state": "future"
         },
         "clickhouse.com": {
-            "epoch": "1552348800",
-            "expiration_date": "12-mar-2019",
-            "state": "past"
+            "epoch": "1583971200",
+            "expiration_date": "12-mar-2020",
+            "state": "future"
         },
         "clicklog.info": {
             "epoch": "1572566400",
@@ -8278,7 +8278,7 @@
         "deepcom.com": {
             "epoch": "1552521600",
             "expiration_date": "14-mar-2019",
-            "state": "future"
+            "state": "past"
         },
         "defencelab.com": {
             "epoch": "1579392000",
