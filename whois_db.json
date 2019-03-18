@@ -418,7 +418,7 @@
         "1shoppingcart.com": {
             "epoch": "1552867200",
             "expiration_date": "18-mar-2019",
-            "state": "future"
+            "state": "past"
         },
         "1st-fuss.com": {
             "epoch": "1553126400",
@@ -708,7 +708,7 @@
         "36site.com": {
             "epoch": "1552867200",
             "expiration_date": "18-mar-2019",
-            "state": "future"
+            "state": "past"
         },
         "3721.com": {
             "epoch": "1581724800",
@@ -1136,8 +1136,8 @@
             "state": "future"
         },
         "800chat.com": {
-            "epoch": "1552780800",
-            "expiration_date": "17-mar-2019",
+            "epoch": "1584403200",
+            "expiration_date": "17-mar-2020",
             "state": "future"
         },
         "80211planet.com": {
