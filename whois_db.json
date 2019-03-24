@@ -7626,8 +7626,8 @@
             "state": "future"
         },
         "clubxtacy.com": {
-            "epoch": "1553299200",
-            "expiration_date": "23-mar-2019",
+            "epoch": "1584921600",
+            "expiration_date": "23-mar-2020",
             "state": "future"
         },
         "clustrmaps.com": {
@@ -7701,8 +7701,8 @@
             "state": "future"
         },
         "commonname.com": {
-            "epoch": "1553299200",
-            "expiration_date": "23-mar-2019",
+            "epoch": "1584921600",
+            "expiration_date": "23-mar-2020",
             "state": "future"
         },
         "comonets.com": {
@@ -7793,7 +7793,7 @@
         "coolwebstats.com": {
             "epoch": "1553385600",
             "expiration_date": "24-mar-2019",
-            "state": "future"
+            "state": "past"
         },
         "copperheadsecurity.com": {
             "epoch": "1558742400",
@@ -7811,8 +7811,8 @@
             "state": "future"
         },
         "couldnotfind.com": {
-            "epoch": "1553299200",
-            "expiration_date": "23-mar-2019",
+            "epoch": "1584921600",
+            "expiration_date": "23-mar-2020",
             "state": "future"
         },
         "counnter.cn": {
@@ -8473,6 +8473,11 @@
         "dirtychicken.com": {
             "epoch": "1580169600",
             "expiration_date": "28-jan-2020",
+            "state": "future"
+        },
+        "disable-uac.com": {
+            "epoch": "1584921600",
+            "expiration_date": "23-mar-2020",
             "state": "future"
         },
         "disablespyware.com": {
