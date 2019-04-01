@@ -9313,7 +9313,7 @@
         "expo-max.com": {
             "epoch": "1554076800",
             "expiration_date": "01-apr-2019",
-            "state": "future"
+            "state": "past"
         },
         "extreme-dm.com": {
             "epoch": "1572307200",
@@ -10616,8 +10616,8 @@
             "state": "future"
         },
         "http-proxy.com": {
-            "epoch": "1553990400",
-            "expiration_date": "31-mar-2019",
+            "epoch": "1585612800",
+            "expiration_date": "31-mar-2020",
             "state": "future"
         },
         "hub.com.pl": {
