@@ -7140,6 +7140,11 @@
             "expiration_date": "17-oct-2019",
             "state": "future"
         },
+        "cdnmedia.xyz": {
+            "epoch": "1559520000",
+            "expiration_date": "03-jun-2019",
+            "state": "future"
+        },
         "cecash.com": {
             "epoch": "1568073600",
             "expiration_date": "10-sep-2019",
@@ -7988,7 +7993,7 @@
         "crackdb.com": {
             "epoch": "1554076800",
             "expiration_date": "01-apr-2019",
-            "state": "future"
+            "state": "past"
         },
         "crackportal.com": {
             "epoch": "1583193600",
@@ -8008,7 +8013,7 @@
         "cracksplanet.com": {
             "epoch": "1554076800",
             "expiration_date": "01-apr-2019",
-            "state": "future"
+            "state": "past"
         },
         "crackway.com": {
             "epoch": "1576886400",
@@ -8018,7 +8023,7 @@
         "crackzplanet.com": {
             "epoch": "1554076800",
             "expiration_date": "01-apr-2019",
-            "state": "future"
+            "state": "past"
         },
         "crakmedia.com": {
             "epoch": "1604188800",
@@ -8736,9 +8741,9 @@
             "state": "future"
         },
         "e-mailpromotion.com": {
-            "epoch": "1547078400",
-            "expiration_date": "10-jan-2019",
-            "state": "past"
+            "epoch": "1585612800",
+            "expiration_date": "31-mar-2020",
+            "state": "future"
         },
         "e-referrer.com": {
             "epoch": "1578182400",
@@ -8846,9 +8851,9 @@
             "state": "future"
         },
         "ebocornac.com": {
-            "epoch": "1553904000",
-            "expiration_date": "30-mar-2019",
-            "state": "past"
+            "epoch": "1585526400",
+            "expiration_date": "30-mar-2020",
+            "state": "future"
         },
         "ebonybymail.com": {
             "epoch": "1564012800",
