@@ -2071,8 +2071,8 @@
             "state": "future"
         },
         "addbags.com": {
-            "epoch": "1554249600",
-            "expiration_date": "03-apr-2019",
+            "epoch": "1585872000",
+            "expiration_date": "03-apr-2020",
             "state": "future"
         },
         "addbonus.com": {
@@ -2738,7 +2738,7 @@
         "ads-cpm.com": {
             "epoch": "1554249600",
             "expiration_date": "03-apr-2019",
-            "state": "future"
+            "state": "past"
         },
         "ads-links.com": {
             "epoch": "1578960000",
