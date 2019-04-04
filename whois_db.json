@@ -15308,7 +15308,7 @@
         "top-rank.pl": {
             "epoch": "1554336000",
             "expiration_date": "04-apr-2019",
-            "state": "future"
+            "state": "past"
         },
         "top1.ro": {
             "epoch": "1570665600",
@@ -15541,9 +15541,9 @@
             "state": "future"
         },
         "trackalyzer.com": {
-            "epoch": "1554163200",
-            "expiration_date": "02-apr-2019",
-            "state": "past"
+            "epoch": "1585785600",
+            "expiration_date": "02-apr-2020",
+            "state": "future"
         },
         "trackbacksecure.com": {
             "epoch": "1561248000",
@@ -15708,7 +15708,7 @@
         "traktrafficflow.com": {
             "epoch": "1554336000",
             "expiration_date": "04-apr-2019",
-            "state": "future"
+            "state": "past"
         },
         "traktum.com": {
             "epoch": "1831766400",
