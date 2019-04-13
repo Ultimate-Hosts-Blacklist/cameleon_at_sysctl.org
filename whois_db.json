@@ -7131,8 +7131,8 @@
             "state": "future"
         },
         "ccbill.com": {
-            "epoch": "1555113600",
-            "expiration_date": "13-apr-2019",
+            "epoch": "1586736000",
+            "expiration_date": "13-apr-2020",
             "state": "future"
         },
         "ccbilleu.com": {
@@ -7503,7 +7503,7 @@
         "clickthru.net": {
             "epoch": "1555113600",
             "expiration_date": "13-apr-2019",
-            "state": "future"
+            "state": "past"
         },
         "clickthruserver.com": {
             "epoch": "1560297600",
@@ -8101,8 +8101,8 @@
             "state": "future"
         },
         "crocoads.com": {
-            "epoch": "1555113600",
-            "expiration_date": "13-apr-2019",
+            "epoch": "1586736000",
+            "expiration_date": "13-apr-2020",
             "state": "future"
         },
         "ctrck.com": {
