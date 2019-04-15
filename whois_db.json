@@ -7236,14 +7236,14 @@
             "state": "future"
         },
         "checkstat.com": {
-            "epoch": "1555286400",
-            "expiration_date": "15-apr-2019",
+            "epoch": "1649980800",
+            "expiration_date": "15-apr-2022",
             "state": "future"
         },
         "checkstat.net": {
             "epoch": "1555286400",
             "expiration_date": "15-apr-2019",
-            "state": "future"
+            "state": "past"
         },
         "cheekybanners.com": {
             "epoch": "1558483200",
@@ -7496,14 +7496,14 @@
             "state": "future"
         },
         "clickterra.net": {
-            "epoch": "1555200000",
-            "expiration_date": "14-apr-2019",
+            "epoch": "1586822400",
+            "expiration_date": "14-apr-2020",
             "state": "future"
         },
         "clickthru.net": {
-            "epoch": "1555113600",
-            "expiration_date": "13-apr-2019",
-            "state": "past"
+            "epoch": "1586736000",
+            "expiration_date": "13-apr-2020",
+            "state": "future"
         },
         "clickthruserver.com": {
             "epoch": "1560297600",
@@ -7841,8 +7841,8 @@
             "state": "future"
         },
         "counted.com": {
-            "epoch": "1555200000",
-            "expiration_date": "14-apr-2019",
+            "epoch": "1586822400",
+            "expiration_date": "14-apr-2020",
             "state": "future"
         },
         "counter-gratis.com": {
