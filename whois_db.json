@@ -581,8 +581,8 @@
             "state": "future"
         },
         "24pmad.com": {
-            "epoch": "1555718400",
-            "expiration_date": "20-apr-2019",
+            "epoch": "1587340800",
+            "expiration_date": "20-apr-2020",
             "state": "future"
         },
         "24start.com": {
@@ -766,9 +766,9 @@
             "state": "future"
         },
         "3xtraffic.com": {
-            "epoch": "1555632000",
-            "expiration_date": "19-apr-2019",
-            "state": "past"
+            "epoch": "1587254400",
+            "expiration_date": "19-apr-2020",
+            "state": "future"
         },
         "4-v.net": {
             "epoch": "1557705600",
@@ -1216,9 +1216,9 @@
             "state": "future"
         },
         "98kiss.com": {
-            "epoch": "1555632000",
-            "expiration_date": "19-apr-2019",
-            "state": "past"
+            "epoch": "1587254400",
+            "expiration_date": "19-apr-2020",
+            "state": "future"
         },
         "99bb.com": {
             "epoch": "1563667200",
@@ -1258,6 +1258,11 @@
         "a-d-w-a-r-e.com": {
             "epoch": "1572739200",
             "expiration_date": "03-nov-2019",
+            "state": "future"
+        },
+        "a-fast.com": {
+            "epoch": "1618963200",
+            "expiration_date": "21-apr-2021",
             "state": "future"
         },
         "a-maze.com": {
@@ -1661,8 +1666,8 @@
             "state": "future"
         },
         "actionflash.com": {
-            "epoch": "1555718400",
-            "expiration_date": "20-apr-2019",
+            "epoch": "1587340800",
+            "expiration_date": "20-apr-2020",
             "state": "future"
         },
         "actionsplash.com": {
