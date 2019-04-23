@@ -778,7 +778,7 @@
         "4-wheelers.com": {
             "epoch": "1555977600",
             "expiration_date": "23-apr-2019",
-            "state": "future"
+            "state": "past"
         },
         "404dns.net": {
             "epoch": "1590710400",
@@ -891,8 +891,8 @@
             "state": "future"
         },
         "4netmedia.com": {
-            "epoch": "1555891200",
-            "expiration_date": "22-apr-2019",
+            "epoch": "1587513600",
+            "expiration_date": "22-apr-2020",
             "state": "future"
         },
         "4pokertips.com": {
@@ -1566,8 +1566,8 @@
             "state": "future"
         },
         "accessoryad.com": {
-            "epoch": "1555891200",
-            "expiration_date": "22-apr-2019",
+            "epoch": "1587513600",
+            "expiration_date": "22-apr-2020",
             "state": "future"
         },
         "accesstracking.com": {
@@ -1761,8 +1761,8 @@
             "state": "future"
         },
         "ad-blaster.com": {
-            "epoch": "1555977600",
-            "expiration_date": "23-apr-2019",
+            "epoch": "1587600000",
+            "expiration_date": "23-apr-2020",
             "state": "future"
         },
         "ad-delivery.net": {
