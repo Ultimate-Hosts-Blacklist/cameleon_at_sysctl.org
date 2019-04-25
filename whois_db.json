@@ -1846,8 +1846,8 @@
             "state": "future"
         },
         "ad2win.com": {
-            "epoch": "1556064000",
-            "expiration_date": "24-apr-2019",
+            "epoch": "1587686400",
+            "expiration_date": "24-apr-2020",
             "state": "future"
         },
         "ad45.com": {
@@ -2688,7 +2688,7 @@
         "adrianbelew.com": {
             "epoch": "1556150400",
             "expiration_date": "25-apr-2019",
-            "state": "future"
+            "state": "past"
         },
         "adriver.ru": {
             "epoch": "1577836800",
