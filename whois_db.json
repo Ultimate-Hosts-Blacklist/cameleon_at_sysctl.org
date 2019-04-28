@@ -13413,7 +13413,7 @@
         "pureadexchange.com": {
             "epoch": "1556323200",
             "expiration_date": "27-apr-2019",
-            "state": "future"
+            "state": "past"
         },
         "pureleads.com": {
             "epoch": "1579651200",
@@ -13993,7 +13993,7 @@
         "screamingvideos.com": {
             "epoch": "1556409600",
             "expiration_date": "28-apr-2019",
-            "state": "future"
+            "state": "past"
         },
         "screengizmos.com": {
             "epoch": "1557532800",
@@ -14348,7 +14348,7 @@
         "sexwave.com": {
             "epoch": "1556409600",
             "expiration_date": "28-apr-2019",
-            "state": "future"
+            "state": "past"
         },
         "sexy-screen-savers.com": {
             "epoch": "1579910400",
@@ -14401,9 +14401,9 @@
             "state": "future"
         },
         "shinystat.it": {
-            "epoch": "1554940800",
-            "expiration_date": "11-apr-2019",
-            "state": "past"
+            "epoch": "1586563200",
+            "expiration_date": "11-apr-2020",
+            "state": "future"
         },
         "shooshtimeinc.com": {
             "epoch": "1568851200",
@@ -14503,7 +14503,7 @@
         "sitetracker.com": {
             "epoch": "1556409600",
             "expiration_date": "28-apr-2019",
-            "state": "future"
+            "state": "past"
         },
         "sitewebstats.com": {
             "epoch": "1561593600",
@@ -14646,8 +14646,8 @@
             "state": "future"
         },
         "spiderbait.com": {
-            "epoch": "1556236800",
-            "expiration_date": "26-apr-2019",
+            "epoch": "1587859200",
+            "expiration_date": "26-apr-2020",
             "state": "future"
         },
         "spinbox.net": {
