@@ -14888,7 +14888,7 @@
         "streamatelive.com": {
             "epoch": "1556409600",
             "expiration_date": "28-apr-2019",
-            "state": "future"
+            "state": "past"
         },
         "streamen.com": {
             "epoch": "1558051200",
@@ -15618,7 +15618,7 @@
         "tradeadexchange.com": {
             "epoch": "1556323200",
             "expiration_date": "27-apr-2019",
-            "state": "future"
+            "state": "past"
         },
         "tradedoubler.com": {
             "epoch": "1696896000",
@@ -16036,9 +16036,9 @@
             "state": "future"
         },
         "v-links.net": {
-            "epoch": "1556236800",
-            "expiration_date": "26-apr-2019",
-            "state": "past"
+            "epoch": "1587859200",
+            "expiration_date": "26-apr-2020",
+            "state": "future"
         },
         "validatedsite.com": {
             "epoch": "1574035200",
@@ -16083,7 +16083,7 @@
         "venturead.com": {
             "epoch": "1556323200",
             "expiration_date": "27-apr-2019",
-            "state": "future"
+            "state": "past"
         },
         "veryfastsearch.com": {
             "epoch": "1557273600",
