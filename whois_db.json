@@ -183,7 +183,7 @@
         "103bees.com": {
             "epoch": "1556841600",
             "expiration_date": "03-may-2019",
-            "state": "future"
+            "state": "past"
         },
         "11alivenews.com": {
             "epoch": "1613606400",
@@ -511,8 +511,8 @@
             "state": "future"
         },
         "2009-search.com": {
-            "epoch": "1556755200",
-            "expiration_date": "02-may-2019",
+            "epoch": "1588377600",
+            "expiration_date": "02-may-2020",
             "state": "future"
         },
         "2020search.com": {
@@ -1766,8 +1766,8 @@
             "state": "future"
         },
         "ad-delivery.net": {
-            "epoch": "1556841600",
-            "expiration_date": "03-may-2019",
+            "epoch": "1588464000",
+            "expiration_date": "03-may-2020",
             "state": "future"
         },
         "ad-eliminator.com": {
