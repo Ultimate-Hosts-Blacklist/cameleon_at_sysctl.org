@@ -2277,9 +2277,7 @@
             "za2.zeroredirect8.com",
             "zd1.zeroredirect6.com",
             "zde-affinity.edgecaching.net",
-            "zoek.zugo.com"
-        ],
-        "to_test": [
+            "zoek.zugo.com",
             "ad152.ezcybersearch.com",
             "ad153.ezcybersearch.com",
             "ad154.ezcybersearch.com",
@@ -2349,7 +2347,9 @@
             "ad21.ezcybersearch.com",
             "ad210.ezcybersearch.com",
             "ad211.ezcybersearch.com",
-            "ad212.ezcybersearch.com",
+            "ad212.ezcybersearch.com"
+        ],
+        "to_test": [
             "ad213.ezcybersearch.com",
             "ad214.ezcybersearch.com",
             "ad215.ezcybersearch.com",
