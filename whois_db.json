@@ -5375,9 +5375,9 @@
         "state": "future"
     },
     "antivirusdefense.com": {
-        "epoch": "1557360000",
-        "expiration_date": "09-may-2019",
-        "state": "past"
+        "epoch": 1588982400,
+        "expiration_date": "09-may-2020",
+        "state": "future"
     },
     "antivirusgolden.com": {
         "epoch": "1571011200",
@@ -5605,8 +5605,8 @@
         "state": "future"
     },
     "artella.biz": {
-        "epoch": "1557705600",
-        "expiration_date": "13-may-2019",
+        "epoch": 1589328000,
+        "expiration_date": "13-may-2020",
         "state": "future"
     },
     "asacp.org": {
@@ -6615,8 +6615,8 @@
         "state": "future"
     },
     "blvdstatus.com": {
-        "epoch": "1557878400",
-        "expiration_date": "15-may-2019",
+        "epoch": 1589500800,
+        "expiration_date": "15-may-2020",
         "state": "future"
     },
     "blyapizdets.info": {
