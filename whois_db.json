@@ -1590,8 +1590,8 @@
         "state": "future"
     },
     "acemedia.info": {
-        "epoch": "1558137600",
-        "expiration_date": "18-may-2019",
+        "epoch": 1589760000,
+        "expiration_date": "18-may-2020",
         "state": "future"
     },
     "acemedic.com": {
@@ -2585,9 +2585,9 @@
         "state": "future"
     },
     "adoringyou.com": {
-        "epoch": "1558310400",
+        "epoch": 1558310400,
         "expiration_date": "20-may-2019",
-        "state": "future"
+        "state": "past"
     },
     "adotube.com": {
         "epoch": "1613347200",
@@ -9540,8 +9540,8 @@
         "state": "future"
     },
     "firstbookmark.com": {
-        "epoch": "1558310400",
-        "expiration_date": "20-may-2019",
+        "epoch": 1589932800,
+        "expiration_date": "20-may-2020",
         "state": "future"
     },
     "fish-screensaver.com": {
