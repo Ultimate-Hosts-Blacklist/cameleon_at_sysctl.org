@@ -2570,8 +2570,8 @@
         "state": "future"
     },
     "adoperator.com": {
-        "epoch": "1559347200",
-        "expiration_date": "01-jun-2019",
+        "epoch": 1590969600,
+        "expiration_date": "01-jun-2020",
         "state": "future"
     },
     "adoptim.com": {
@@ -6345,9 +6345,9 @@
         "state": "future"
     },
     "bigfatsearch.biz": {
-        "epoch": 1551312000,
-        "expiration_date": "28-feb-2019",
-        "state": "past"
+        "epoch": 1590796800,
+        "expiration_date": "30-may-2020",
+        "state": "future"
     },
     "bighits.net": {
         "epoch": "1581120000",
@@ -6785,9 +6785,9 @@
         "state": "future"
     },
     "budsinc.com": {
-        "epoch": "1559347200",
+        "epoch": 1559347200,
         "expiration_date": "01-jun-2019",
-        "state": "future"
+        "state": "past"
     },
     "bugsforum.com": {
         "epoch": "1561075200",
@@ -15295,8 +15295,8 @@
         "state": "future"
     },
     "tinnily.info": {
-        "epoch": "1559174400",
-        "expiration_date": "30-may-2019",
+        "epoch": 1590796800,
+        "expiration_date": "30-may-2020",
         "state": "future"
     },
     "tkqlhce.com": {
