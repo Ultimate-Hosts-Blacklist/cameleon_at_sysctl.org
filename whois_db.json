@@ -8565,9 +8565,9 @@
         "state": "future"
     },
     "dofollinz.net": {
-        "epoch": "1557878400",
+        "epoch": 1557878400,
         "expiration_date": "15-may-2019",
-        "state": "future"
+        "state": "past"
     },
     "doityourselfbuilder.com": {
         "epoch": "1560211200",
@@ -17079,4 +17079,5 @@
         "expiration_date": "26-dec-2019",
         "state": "future"
     }
+} }
 }
