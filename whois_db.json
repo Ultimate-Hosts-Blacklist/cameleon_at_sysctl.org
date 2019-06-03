@@ -44,9 +44,24 @@
         "expiration_date": "28-may-2020",
         "state": "future"
     },
+    "adult-toon.net": {
+        "epoch": 1554336000,
+        "expiration_date": "04-apr-2019",
+        "state": "past"
+    },
+    "adultfriendfinders.us": {
+        "epoch": 1591228800,
+        "expiration_date": "04-jun-2020",
+        "state": "future"
+    },
     "gbcash.com": {
         "epoch": 1576800000,
         "expiration_date": "20-dec-2019",
+        "state": "future"
+    },
+    "htl.bid": {
+        "epoch": 1560384000,
+        "expiration_date": "13-jun-2019",
         "state": "future"
     },
     "icentric.net": {
@@ -59,6 +74,16 @@
         "expiration_date": "06-jul-2019",
         "state": "future"
     },
+    "kmindex.ru": {
+        "epoch": 1562025600,
+        "expiration_date": "02-jul-2019",
+        "state": "future"
+    },
+    "mediatex.in": {
+        "epoch": 1555545600,
+        "expiration_date": "18-apr-2019",
+        "state": "past"
+    },
     "mmtrkpy.com": {
         "epoch": 1574208000,
         "expiration_date": "20-nov-2019",
@@ -69,14 +94,34 @@
         "expiration_date": "31-dec-2020",
         "state": "future"
     },
+    "nuxepras.info": {
+        "epoch": 1572998400,
+        "expiration_date": "06-nov-2019",
+        "state": "future"
+    },
+    "pc-test.net": {
+        "epoch": 1567728000,
+        "expiration_date": "06-sep-2019",
+        "state": "future"
+    },
     "pixelpmm.info": {
         "epoch": 1586736000,
         "expiration_date": "13-apr-2020",
         "state": "future"
     },
+    "spywarenuker.com": {
+        "epoch": 1567036800,
+        "expiration_date": "29-aug-2019",
+        "state": "future"
+    },
     "statistiq.com": {
         "epoch": 1562803200,
         "expiration_date": "11-jul-2019",
+        "state": "future"
+    },
+    "toplistim.com": {
+        "epoch": 1584403200,
+        "expiration_date": "17-mar-2020",
         "state": "future"
     },
     "trafficmp.com": {
@@ -92,6 +137,11 @@
     "yandexadexchange.net": {
         "epoch": 1581984000,
         "expiration_date": "18-feb-2020",
+        "state": "future"
+    },
+    "z2jakqoshx.com": {
+        "epoch": 1590796800,
+        "expiration_date": "30-may-2020",
         "state": "future"
     },
     "zdbb.net": {
