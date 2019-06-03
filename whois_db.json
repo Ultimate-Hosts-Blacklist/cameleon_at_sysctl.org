@@ -264,6 +264,11 @@
         "expiration_date": "04-apr-2019",
         "state": "past"
     },
+    "adult-women.com": {
+        "epoch": 1589328000,
+        "expiration_date": "13-may-2020",
+        "state": "future"
+    },
     "adultadtrade.com": {
         "epoch": 1589500800,
         "expiration_date": "15-may-2020",
