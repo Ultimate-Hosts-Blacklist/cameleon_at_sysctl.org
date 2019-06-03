@@ -234,6 +234,11 @@
         "expiration_date": "04-apr-2019",
         "state": "past"
     },
+    "adultadtrade.com": {
+        "epoch": 1589500800,
+        "expiration_date": "15-may-2020",
+        "state": "future"
+    },
     "adultfriendfinders.us": {
         "epoch": 1591228800,
         "expiration_date": "04-jun-2020",
