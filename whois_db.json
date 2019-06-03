@@ -44,6 +44,11 @@
         "expiration_date": "31-aug-2019",
         "state": "future"
     },
+    "411affiliates.ca": {
+        "epoch": 1575158400,
+        "expiration_date": "01-dec-2019",
+        "state": "future"
+    },
     "41m.com": {
         "epoch": 1641772800,
         "expiration_date": "10-jan-2022",
@@ -472,6 +477,11 @@
     "textads.biz": {
         "epoch": 1605398400,
         "expiration_date": "15-nov-2020",
+        "state": "future"
+    },
+    "theads.me": {
+        "epoch": 1586995200,
+        "expiration_date": "16-apr-2020",
         "state": "future"
     },
     "thebighits.com": {
