@@ -124,6 +124,11 @@
         "expiration_date": "30-mar-2020",
         "state": "future"
     },
+    "aclickads.com": {
+        "epoch": 1591660800,
+        "expiration_date": "09-jun-2020",
+        "state": "future"
+    },
     "ad-annex.com": {
         "epoch": 1573603200,
         "expiration_date": "13-nov-2019",
@@ -217,6 +222,11 @@
     "adsnic.com": {
         "epoch": 1590796800,
         "expiration_date": "30-may-2020",
+        "state": "future"
+    },
+    "adsvids.com": {
+        "epoch": 1578614400,
+        "expiration_date": "10-jan-2020",
         "state": "future"
     },
     "adszooks.com": {
