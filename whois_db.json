@@ -189,6 +189,11 @@
         "expiration_date": "05-apr-2019",
         "state": "past"
     },
+    "adrotate.se": {
+        "epoch": 1582329600,
+        "expiration_date": "22-feb-2020",
+        "state": "future"
+    },
     "adrotator.se": {
         "epoch": 1582329600,
         "expiration_date": "22-feb-2020",
@@ -474,6 +479,11 @@
         "expiration_date": "12-nov-2019",
         "state": "future"
     },
+    "nameadmininc.com": {
+        "epoch": 1598918400,
+        "expiration_date": "01-sep-2020",
+        "state": "future"
+    },
     "nedstat.com": {
         "epoch": 1589846400,
         "expiration_date": "19-may-2020",
@@ -489,9 +499,19 @@
         "expiration_date": "31-dec-2020",
         "state": "future"
     },
+    "newwebmaster.net": {
+        "epoch": 1553299200,
+        "expiration_date": "23-mar-2019",
+        "state": "past"
+    },
     "nuxepras.info": {
         "epoch": 1572998400,
         "expiration_date": "06-nov-2019",
+        "state": "future"
+    },
+    "oamtrk.com": {
+        "epoch": 1572393600,
+        "expiration_date": "30-oct-2019",
         "state": "future"
     },
     "odzb5nkp.com": {
@@ -517,6 +537,11 @@
     "pornogames.net": {
         "epoch": 1578873600,
         "expiration_date": "13-jan-2020",
+        "state": "future"
+    },
+    "protizer.ru": {
+        "epoch": 1595894400,
+        "expiration_date": "28-jul-2020",
         "state": "future"
     },
     "richmedia247.com": {
