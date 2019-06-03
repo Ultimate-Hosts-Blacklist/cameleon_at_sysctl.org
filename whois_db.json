@@ -514,9 +514,19 @@
         "expiration_date": "02-jul-2019",
         "state": "future"
     },
+    "kompass-intl.com": {
+        "epoch": 1586649600,
+        "expiration_date": "12-apr-2020",
+        "state": "future"
+    },
     "leadxml.com": {
         "epoch": 1589673600,
         "expiration_date": "17-may-2020",
+        "state": "future"
+    },
+    "livecount.fr": {
+        "epoch": 1588464000,
+        "expiration_date": "03-may-2020",
         "state": "future"
     },
     "m57ku6sm.com": {
@@ -538,6 +548,11 @@
         "epoch": 1555545600,
         "expiration_date": "18-apr-2019",
         "state": "past"
+    },
+    "mftracking.com": {
+        "epoch": 1563753600,
+        "expiration_date": "22-jul-2019",
+        "state": "future"
     },
     "midkotatraffic.net": {
         "epoch": 1554508800,
@@ -599,6 +614,11 @@
         "expiration_date": "10-oct-2019",
         "state": "future"
     },
+    "ozertesa.com": {
+        "epoch": 1565136000,
+        "expiration_date": "07-aug-2019",
+        "state": "future"
+    },
     "pc-test.net": {
         "epoch": 1567728000,
         "expiration_date": "06-sep-2019",
@@ -632,6 +652,11 @@
     "qikdownloads.com": {
         "epoch": 1593216000,
         "expiration_date": "27-jun-2020",
+        "state": "future"
+    },
+    "resultsz.com": {
+        "epoch": 1585872000,
+        "expiration_date": "03-apr-2020",
         "state": "future"
     },
     "richmedia247.com": {
