@@ -2729,6 +2729,11 @@
         "expiration_date": "02-mar-2022",
         "state": "future"
     },
+    "bronsite.com": {
+        "epoch": 1584921600,
+        "expiration_date": "23-mar-2020",
+        "state": "future"
+    },
     "bttrack.com": {
         "epoch": 1577836800,
         "expiration_date": "01-jan-2020",
@@ -3052,6 +3057,11 @@
     "clicksgear.com": {
         "epoch": 1568851200,
         "expiration_date": "19-sep-2019",
+        "state": "future"
+    },
+    "clicksn.com": {
+        "epoch": 1560556800,
+        "expiration_date": "15-jun-2019",
         "state": "future"
     },
     "clickterra.net": {
@@ -3919,6 +3929,11 @@
         "expiration_date": "26-oct-2019",
         "state": "future"
     },
+    "flavinha.com": {
+        "epoch": 1584576000,
+        "expiration_date": "19-mar-2020",
+        "state": "future"
+    },
     "flurry.com": {
         "epoch": 1588464000,
         "expiration_date": "03-may-2020",
@@ -4684,6 +4699,11 @@
         "expiration_date": "02-feb-2020",
         "state": "future"
     },
+    "lduhtrp.net": {
+        "epoch": 1586131200,
+        "expiration_date": "06-apr-2020",
+        "state": "future"
+    },
     "lead-123.com": {
         "epoch": 1563321600,
         "expiration_date": "17-jul-2019",
@@ -4994,6 +5014,11 @@
         "expiration_date": "27-dec-2019",
         "state": "future"
     },
+    "mmotraffic.com": {
+        "epoch": 1566432000,
+        "expiration_date": "22-aug-2019",
+        "state": "future"
+    },
     "mmtracking.com": {
         "epoch": 1588377600,
         "expiration_date": "02-may-2020",
@@ -5107,6 +5132,11 @@
     "mysearchweb.net": {
         "epoch": 1565481600,
         "expiration_date": "11-aug-2019",
+        "state": "future"
+    },
+    "myshovel.com": {
+        "epoch": 1560556800,
+        "expiration_date": "15-jun-2019",
         "state": "future"
     },
     "mystat.pl": {
@@ -5887,6 +5917,11 @@
     "rx-options.com": {
         "epoch": 1578528000,
         "expiration_date": "09-jan-2020",
+        "state": "future"
+    },
+    "rxpharma24hs.com": {
+        "epoch": 1586908800,
+        "expiration_date": "15-apr-2020",
         "state": "future"
     },
     "s4le.net": {
