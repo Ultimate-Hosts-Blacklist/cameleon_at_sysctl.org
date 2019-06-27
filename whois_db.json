@@ -1644,6 +1644,11 @@
         "expiration_date": "29-sep-2019",
         "state": "future"
     },
+    "ad-groups.com": {
+        "epoch": 1582848000,
+        "expiration_date": "28-feb-2020",
+        "state": "future"
+    },
     "ad-logics.com": {
         "epoch": 1578096000,
         "expiration_date": "04-jan-2020",
@@ -5364,6 +5369,11 @@
         "expiration_date": "09-apr-2020",
         "state": "future"
     },
+    "avenfeld.com": {
+        "epoch": 1578960000,
+        "expiration_date": "14-jan-2020",
+        "state": "future"
+    },
     "avforce.com": {
         "epoch": 1563494400,
         "expiration_date": "19-jul-2019",
@@ -7002,6 +7012,11 @@
     "clickga.com": {
         "epoch": 1565740800,
         "expiration_date": "14-aug-2019",
+        "state": "future"
+    },
+    "clickhelp.net": {
+        "epoch": 1588377600,
+        "expiration_date": "02-may-2020",
         "state": "future"
     },
     "clickheretofind.com": {
@@ -9024,6 +9039,11 @@
         "expiration_date": "09-jan-2023",
         "state": "future"
     },
+    "flashadtools.com": {
+        "epoch": 1562457600,
+        "expiration_date": "07-jul-2019",
+        "state": "future"
+    },
     "flavinha.com": {
         "epoch": 1584576000,
         "expiration_date": "19-mar-2020",
@@ -10592,6 +10612,11 @@
     "kompass-intl.com": {
         "epoch": 1586649600,
         "expiration_date": "12-apr-2020",
+        "state": "future"
+    },
+    "kontera.com": {
+        "epoch": 1603411200,
+        "expiration_date": "23-oct-2020",
         "state": "future"
     },
     "kqzyfj.com": {
@@ -14735,8 +14760,8 @@
         "state": "future"
     },
     "trackad.cz": {
-        "epoch": 1566259200,
-        "expiration_date": "20-aug-2019",
+        "epoch": 15662592008400,
+        "expiration_date": "04-apr-2020",
         "state": "future"
     },
     "trackaffpix.com": {
