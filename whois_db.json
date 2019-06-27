@@ -6010,8 +6010,8 @@
         "state": "future"
     },
     "bill-support.com": {
-        "epoch": 1561507200,
-        "expiration_date": "26-jun-2019",
+        "epoch": 1593129600,
+        "expiration_date": "26-jun-2020",
         "state": "future"
     },
     "billhlp.com": {
@@ -11829,6 +11829,11 @@
         "expiration_date": "30-oct-2019",
         "state": "future"
     },
+    "obanner.net": {
+        "epoch": 1576800000,
+        "expiration_date": "20-dec-2019",
+        "state": "future"
+    },
     "obeus.com": {
         "epoch": 1565913600,
         "expiration_date": "16-aug-2019",
@@ -15369,6 +15374,11 @@
         "expiration_date": "05-nov-2019",
         "state": "future"
     },
+    "vivo7.com": {
+        "epoch": 1556841600,
+        "expiration_date": "03-may-2019",
+        "state": "past"
+    },
     "vizisense.net": {
         "epoch": 1584230400,
         "expiration_date": "15-mar-2020",
@@ -15822,6 +15832,11 @@
     "xclicks.net": {
         "epoch": 1578096000,
         "expiration_date": "04-jan-2020",
+        "state": "future"
+    },
+    "xctrk.com": {
+        "epoch": 1575590400,
+        "expiration_date": "06-dec-2019",
         "state": "future"
     },
     "xed.pl": {
