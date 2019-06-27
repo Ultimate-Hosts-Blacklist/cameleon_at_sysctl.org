@@ -8829,6 +8829,11 @@
         "expiration_date": "25-mar-2020",
         "state": "future"
     },
+    "fastadvert.com": {
+        "epoch": 1587427200,
+        "expiration_date": "21-apr-2020",
+        "state": "future"
+    },
     "fastclick.co": {
         "epoch": 1563408000,
         "expiration_date": "18-jul-2019",
@@ -10489,6 +10494,11 @@
         "expiration_date": "28-feb-2022",
         "state": "future"
     },
+    "keywordmax.com": {
+        "epoch": 1573689600,
+        "expiration_date": "14-nov-2019",
+        "state": "future"
+    },
     "kickassratios.com": {
         "epoch": 1646006400,
         "expiration_date": "28-feb-2022",
@@ -10512,6 +10522,11 @@
     "kiwialpha.com": {
         "epoch": 1586044800,
         "expiration_date": "05-apr-2020",
+        "state": "future"
+    },
+    "kjdhendieldiouyu.com": {
+        "epoch": 1584403200,
+        "expiration_date": "17-mar-2020",
         "state": "future"
     },
     "klikadvertising.com": {
@@ -10957,6 +10972,11 @@
     "mb01.com": {
         "epoch": 1618444800,
         "expiration_date": "15-apr-2021",
+        "state": "future"
+    },
+    "mb57.com": {
+        "epoch": 1574899200,
+        "expiration_date": "28-nov-2019",
         "state": "future"
     },
     "mbkwbar.com": {
@@ -12302,7 +12322,7 @@
     "popadscdn.net": {
         "epoch": 1561593600,
         "expiration_date": "27-jun-2019",
-        "state": "future"
+        "state": "past"
     },
     "popadvert.com": {
         "epoch": 1698969600,
@@ -14599,6 +14619,11 @@
         "expiration_date": "10-oct-2019",
         "state": "future"
     },
+    "toptravel10.com": {
+        "epoch": 1583107200,
+        "expiration_date": "02-mar-2020",
+        "state": "future"
+    },
     "tornnow.com": {
         "epoch": 1564790400,
         "expiration_date": "03-aug-2019",
@@ -14710,8 +14735,8 @@
         "state": "future"
     },
     "trackingmode.com": {
-        "epoch": 1560556800,
-        "expiration_date": "15-jun-2019",
+        "epoch": 1592179200,
+        "expiration_date": "15-jun-2020",
         "state": "future"
     },
     "tracklead.net": {
