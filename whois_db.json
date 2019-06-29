@@ -1912,7 +1912,7 @@
     "adclickservice.com": {
         "epoch": 1561766400,
         "expiration_date": "29-jun-2019",
-        "state": "future"
+        "state": "past"
     },
     "adclix.com": {
         "epoch": 1567382400,
@@ -3660,8 +3660,8 @@
         "state": "future"
     },
     "adwareprofessional.com": {
-        "epoch": 1561680000,
-        "expiration_date": "28-jun-2019",
+        "epoch": 1593302400,
+        "expiration_date": "28-jun-2020",
         "state": "future"
     },
     "adwareremovergold.com": {
@@ -4477,6 +4477,11 @@
     "alphawipe.com": {
         "epoch": 1581811200,
         "expiration_date": "16-feb-2020",
+        "state": "future"
+    },
+    "alprazolam-xanax.com": {
+        "epoch": 1593302400,
+        "expiration_date": "28-jun-2020",
         "state": "future"
     },
     "alreadynude.com": {
@@ -5499,6 +5504,11 @@
         "expiration_date": "27-feb-2020",
         "state": "future"
     },
+    "babylonx.com": {
+        "epoch": 1590624000,
+        "expiration_date": "28-may-2020",
+        "state": "future"
+    },
     "badassjv.com": {
         "epoch": 1583884800,
         "expiration_date": "11-mar-2020",
@@ -5995,8 +6005,8 @@
         "state": "future"
     },
     "bigtopleads.cn": {
-        "epoch": 1561766400,
-        "expiration_date": "29-jun-2019",
+        "epoch": 1593388800,
+        "expiration_date": "29-jun-2020",
         "state": "future"
     },
     "bigtracker.com": {
@@ -11770,8 +11780,8 @@
         "state": "future"
     },
     "noadnetwork.com": {
-        "epoch": 1561593600,
-        "expiration_date": "27-jun-2019",
+        "epoch": 1593216000,
+        "expiration_date": "27-jun-2020",
         "state": "future"
     },
     "noowho.com": {
@@ -13419,6 +13429,11 @@
         "expiration_date": "15-apr-2025",
         "state": "future"
     },
+    "searchignited.com": {
+        "epoch": 1590451200,
+        "expiration_date": "26-may-2020",
+        "state": "future"
+    },
     "searchmachine.com": {
         "epoch": 1581638400,
         "expiration_date": "14-feb-2020",
@@ -14237,6 +14252,11 @@
     "surfaccuracy.com": {
         "epoch": 1581206400,
         "expiration_date": "09-feb-2020",
+        "state": "future"
+    },
+    "surfernetwork.com": {
+        "epoch": 1610928000,
+        "expiration_date": "18-jan-2021",
         "state": "future"
     },
     "surfmatch.com": {
