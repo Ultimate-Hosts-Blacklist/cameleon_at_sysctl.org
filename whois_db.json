@@ -694,6 +694,11 @@
         "expiration_date": "10-feb-2020",
         "state": "future"
     },
+    "3xtraffic.com": {
+        "epoch": 1587254400,
+        "expiration_date": "19-apr-2020",
+        "state": "future"
+    },
     "4-v.net": {
         "epoch": 1589328000,
         "expiration_date": "13-may-2020",
@@ -10534,6 +10539,11 @@
         "expiration_date": "14-aug-2019",
         "state": "future"
     },
+    "k2med.com": {
+        "epoch": 1571356800,
+        "expiration_date": "18-oct-2019",
+        "state": "future"
+    },
     "k5zoom.com": {
         "epoch": 1589414400,
         "expiration_date": "14-may-2020",
@@ -14292,6 +14302,11 @@
     "t5.ro": {
         "epoch": 1691193600,
         "expiration_date": "05-aug-2023",
+        "state": "future"
+    },
+    "tackthisclick.com": {
+        "epoch": 1571184000,
+        "expiration_date": "16-oct-2019",
         "state": "future"
     },
     "taffr.com": {
