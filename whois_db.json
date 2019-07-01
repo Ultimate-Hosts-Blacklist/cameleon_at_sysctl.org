@@ -10882,7 +10882,7 @@
     "linkbuddies.com": {
         "epoch": 1561939200,
         "expiration_date": "01-jul-2019",
-        "state": "future"
+        "state": "past"
     },
     "linkconnector.com": {
         "epoch": 1569196800,
@@ -10935,8 +10935,8 @@
         "state": "future"
     },
     "linktarget.com": {
-        "epoch": 1561593600,
-        "expiration_date": "27-jun-2019",
+        "epoch": 1593216000,
+        "expiration_date": "27-jun-2020",
         "state": "future"
     },
     "linkworth.com": {
