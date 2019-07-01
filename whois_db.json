@@ -4492,7 +4492,7 @@
     "alltheweb.ru": {
         "epoch": 1561766400,
         "expiration_date": "29-jun-2019",
-        "state": "future"
+        "state": "past"
     },
     "allwords.com": {
         "epoch": 1654560000,
@@ -9940,7 +9940,7 @@
         "state": "future"
     },
     "helpingtrk.com": {
-        "epoch": 158112000020000,
+        "epoch": 15811200002000000,
         "expiration_date": "08-feb-2020",
         "state": "future"
     },
