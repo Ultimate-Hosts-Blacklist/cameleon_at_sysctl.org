@@ -1970,9 +1970,9 @@
         "state": "future"
     },
     "adclickservice.com": {
-        "epoch": 1561766400,
-        "expiration_date": "29-jun-2019",
-        "state": "past"
+        "epoch": 1593388800,
+        "expiration_date": "29-jun-2020",
+        "state": "future"
     },
     "adclix.com": {
         "epoch": 1567382400,
@@ -15382,6 +15382,11 @@
     "twistermp3.com": {
         "epoch": 1569974400,
         "expiration_date": "02-oct-2019",
+        "state": "future"
+    },
+    "twittercounter.com": {
+        "epoch": 1622073600,
+        "expiration_date": "27-may-2021",
         "state": "future"
     },
     "tx2.ru": {
