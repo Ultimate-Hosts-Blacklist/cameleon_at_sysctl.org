@@ -2667,7 +2667,7 @@
     "ads.dk": {
         "epoch": 1561852800,
         "expiration_date": "30-jun-2019",
-        "state": "future"
+        "state": "past"
     },
     "ads180.com": {
         "epoch": 1575504000,
@@ -5022,6 +5022,11 @@
     "anonymizer.com": {
         "epoch": 1629244800,
         "expiration_date": "18-aug-2021",
+        "state": "future"
+    },
+    "anonymoussurfing.net": {
+        "epoch": 1750809600,
+        "expiration_date": "25-jun-2025",
         "state": "future"
     },
     "anquiro.com": {
@@ -10825,8 +10830,8 @@
         "state": "future"
     },
     "kmindex.ru": {
-        "epoch": 1562025600,
-        "expiration_date": "02-jul-2019",
+        "epoch": 1593648000,
+        "expiration_date": "02-jul-2020",
         "state": "future"
     },
     "knacads.com": {
