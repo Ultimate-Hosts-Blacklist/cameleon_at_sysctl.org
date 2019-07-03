@@ -1789,6 +1789,11 @@
         "expiration_date": "08-apr-2022",
         "state": "future"
     },
+    "adailymovie.com": {
+        "epoch": 1607299200,
+        "expiration_date": "07-dec-2020",
+        "state": "future"
+    },
     "adamhaley.com": {
         "epoch": 1587254400,
         "expiration_date": "19-apr-2020",
@@ -3492,6 +3497,11 @@
     "adverlead.com": {
         "epoch": 1574899200,
         "expiration_date": "28-nov-2019",
+        "state": "future"
+    },
+    "adverline.com": {
+        "epoch": 1572393600,
+        "expiration_date": "30-oct-2019",
         "state": "future"
     },
     "adversal.com": {
