@@ -7365,8 +7365,8 @@
         "state": "future"
     },
     "clock-desktop.com": {
-        "epoch": 1562112000,
-        "expiration_date": "03-jul-2019",
+        "epoch": 1593734400,
+        "expiration_date": "03-jul-2020",
         "state": "future"
     },
     "clocklink.com": {
@@ -8634,6 +8634,11 @@
         "expiration_date": "15-jun-2020",
         "state": "future"
     },
+    "ecomadserver.com": {
+        "epoch": 1586736000,
+        "expiration_date": "13-apr-2020",
+        "state": "future"
+    },
     "ecpm.com": {
         "epoch": 1573516800,
         "expiration_date": "12-nov-2019",
@@ -8705,8 +8710,8 @@
         "state": "future"
     },
     "ekads.com": {
-        "epoch": 1562198400,
-        "expiration_date": "04-jul-2019",
+        "epoch": 1593820800,
+        "expiration_date": "04-jul-2020",
         "state": "future"
     },
     "ekerberos.com": {
