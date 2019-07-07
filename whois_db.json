@@ -1090,8 +1090,8 @@
         "state": "future"
     },
     "82430.com": {
-        "epoch": 1562198400,
-        "expiration_date": "04-jul-2019",
+        "epoch": 1593820800,
+        "expiration_date": "04-jul-2020",
         "state": "future"
     },
     "82435.com": {
@@ -9709,6 +9709,11 @@
         "expiration_date": "29-sep-2019",
         "state": "future"
     },
+    "gammaentertainment.com": {
+        "epoch": 1566518400,
+        "expiration_date": "23-aug-2019",
+        "state": "future"
+    },
     "gammasites.com": {
         "epoch": 1572566400,
         "expiration_date": "01-nov-2019",
@@ -12710,9 +12715,9 @@
         "state": "future"
     },
     "popadscdn.net": {
-        "epoch": 1561593600,
-        "expiration_date": "27-jun-2019",
-        "state": "past"
+        "epoch": 1593216000,
+        "expiration_date": "27-jun-2020",
+        "state": "future"
     },
     "popadvert.com": {
         "epoch": 1698969600,
