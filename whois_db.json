@@ -4239,6 +4239,11 @@
         "expiration_date": "14-mar-2021",
         "state": "future"
     },
+    "ajokeaday.com": {
+        "epoch": 1571011200,
+        "expiration_date": "14-oct-2019",
+        "state": "future"
+    },
     "aka-root.com": {
         "epoch": 1585958400,
         "expiration_date": "04-apr-2020",
@@ -4920,8 +4925,8 @@
         "state": "future"
     },
     "andyhoppe.com": {
-        "epoch": 1562284800,
-        "expiration_date": "05-jul-2019",
+        "epoch": 1593907200,
+        "expiration_date": "05-jul-2020",
         "state": "future"
     },
     "andystand.com": {
