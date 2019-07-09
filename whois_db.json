@@ -2665,9 +2665,9 @@
         "state": "future"
     },
     "ads.dk": {
-        "epoch": 1561852800,
-        "expiration_date": "30-jun-2019",
-        "state": "past"
+        "epoch": 1593475200,
+        "expiration_date": "30-jun-2020",
+        "state": "future"
     },
     "ads180.com": {
         "epoch": 1575504000,
@@ -7875,8 +7875,8 @@
         "state": "future"
     },
     "cttracking08.com": {
-        "epoch": 1562457600,
-        "expiration_date": "07-jul-2019",
+        "epoch": 1594080000,
+        "expiration_date": "07-jul-2020",
         "state": "future"
     },
     "cumonamateurs.com": {
@@ -13362,6 +13362,11 @@
     "relevantknowledge.com": {
         "epoch": 1571270400,
         "expiration_date": "17-oct-2019",
+        "state": "future"
+    },
+    "relmaxtop.com": {
+        "epoch": 1640304000,
+        "expiration_date": "24-dec-2021",
         "state": "future"
     },
     "replaceuac.com": {
