@@ -50,8 +50,8 @@
         "state": "future"
     },
     "0aaa.com": {
-        "epoch": 1563321600,
-        "expiration_date": "17-jul-2019",
+        "epoch": 1594944000,
+        "expiration_date": "17-jul-2020",
         "state": "future"
     },
     "0catch.com": {
@@ -590,8 +590,8 @@
         "state": "future"
     },
     "2pills.com": {
-        "epoch": 1563408000,
-        "expiration_date": "18-jul-2019",
+        "epoch": 1595030400,
+        "expiration_date": "18-jul-2020",
         "state": "future"
     },
     "2searchsold.info": {
@@ -9132,7 +9132,7 @@
     "fastclick.co": {
         "epoch": 1563408000,
         "expiration_date": "18-jul-2019",
-        "state": "future"
+        "state": "past"
     },
     "fastclick.com": {
         "epoch": 1565136000,
