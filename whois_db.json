@@ -2424,6 +2424,11 @@
         "expiration_date": "04-mar-2020",
         "state": "future"
     },
+    "adservtech.com": {
+        "epoch": 1572652800,
+        "expiration_date": "02-nov-2019",
+        "state": "future"
+    },
     "adsfac.net": {
         "epoch": 1567555200,
         "expiration_date": "04-sep-2019",
@@ -13631,8 +13636,8 @@
     },
     "universesearches.com": {
         "epoch": 1559174400,
-        "expiration_date": "08-oct-2023",
-        "state": "future"
+        "expiration_date": "30-may-2019",
+        "state": "past"
     },
     "unlimits.net": {
         "epoch": 1696723200,
