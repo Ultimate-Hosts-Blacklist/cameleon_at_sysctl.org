@@ -6944,6 +6944,11 @@
         "expiration_date": "30-jun-2020",
         "state": "future"
     },
+    "dacounter.com": {
+        "epoch": 1560470400,
+        "expiration_date": "14-jun-2019",
+        "state": "past"
+    },
     "daditraff.cn": {
         "epoch": 1595030400,
         "expiration_date": "18-jul-2020",
@@ -7865,9 +7870,9 @@
         "state": "future"
     },
     "experteerads.com": {
-        "epoch": 1557360000,
-        "expiration_date": "09-may-2019",
-        "state": "past"
+        "epoch": 1595980800,
+        "expiration_date": "29-jul-2020",
+        "state": "future"
     },
     "expired-targeted.com": {
         "epoch": 1661126400,
@@ -8383,6 +8388,11 @@
         "epoch": 1570665600,
         "expiration_date": "10-oct-2019",
         "state": "future"
+    },
+    "gallerytrafficservice.com": {
+        "epoch": 1560038400,
+        "expiration_date": "09-jun-2019",
+        "state": "past"
     },
     "gallfree.com": {
         "epoch": 1592524800,
