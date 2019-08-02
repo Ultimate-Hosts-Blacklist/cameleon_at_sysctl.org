@@ -629,6 +629,11 @@
         "expiration_date": "11-sep-2019",
         "state": "future"
     },
+    "34j.com": {
+        "epoch": 1590796800,
+        "expiration_date": "30-may-2020",
+        "state": "future"
+    },
     "369.com": {
         "epoch": 1843084800,
         "expiration_date": "28-may-2028",
@@ -3989,6 +3994,11 @@
         "expiration_date": "17-sep-2023",
         "state": "future"
     },
+    "ajcclassifieds.com": {
+        "epoch": 1578355200,
+        "expiration_date": "07-jan-2020",
+        "state": "future"
+    },
     "ajmclean.com": {
         "epoch": 1615680000,
         "expiration_date": "14-mar-2021",
@@ -5377,6 +5387,11 @@
     "banner-mania.com": {
         "epoch": 1567296000,
         "expiration_date": "01-sep-2019",
+        "state": "future"
+    },
+    "banner.com": {
+        "epoch": 1685664000,
+        "expiration_date": "02-jun-2023",
         "state": "future"
     },
     "banner.cz": {
@@ -10779,6 +10794,11 @@
         "expiration_date": "12-may-2019",
         "state": "past"
     },
+    "mediaplex.com": {
+        "epoch": 1581292800,
+        "expiration_date": "10-feb-2020",
+        "state": "future"
+    },
     "mediatraffic.com": {
         "epoch": 1577404800,
         "expiration_date": "27-dec-2019",
@@ -11704,6 +11724,11 @@
         "expiration_date": "03-nov-2019",
         "state": "future"
     },
+    "ournet-analytics.com": {
+        "epoch": 1595116800,
+        "expiration_date": "19-jul-2020",
+        "state": "future"
+    },
     "outboundlink.net": {
         "epoch": 1567814400,
         "expiration_date": "07-sep-2019",
@@ -12012,6 +12037,11 @@
     "pkpojhc.com": {
         "epoch": 1574121600,
         "expiration_date": "19-nov-2019",
+        "state": "future"
+    },
+    "pkracv.com": {
+        "epoch": 1593561600,
+        "expiration_date": "01-jul-2020",
         "state": "future"
     },
     "platinumbucks.com": {
@@ -12665,8 +12695,8 @@
         "state": "future"
     },
     "replaceuac.com": {
-        "epoch": 1564531200,
-        "expiration_date": "31-jul-2019",
+        "epoch": 1596153600,
+        "expiration_date": "31-jul-2020",
         "state": "future"
     },
     "republer.com": {
@@ -14401,7 +14431,7 @@
     },
     "trackbacksecure.com": {
         "epoch": 1592870400,
-        "expiration_date": "23-jun-2020",
+        "expiration_date": "31-jul-2021",
         "state": "future"
     },
     "trackcmp.net": {
@@ -14410,8 +14440,8 @@
         "state": "future"
     },
     "trackdiscovery.net": {
-        "epoch": 1576022400,
-        "expiration_date": "11-dec-2019",
+        "epoch": 1567296000,
+        "expiration_date": "01-sep-2019",
         "state": "future"
     },
     "tracki112.com": {
@@ -14532,6 +14562,11 @@
     "trafficzap.com": {
         "epoch": 1593302400,
         "expiration_date": "28-jun-2020",
+        "state": "future"
+    },
+    "traffz.com": {
+        "epoch": 1597968000,
+        "expiration_date": "21-aug-2020",
         "state": "future"
     },
     "trafic.ro": {
