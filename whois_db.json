@@ -3234,6 +3234,11 @@
         "expiration_date": "06-may-2020",
         "state": "future"
     },
+    "adultlinkexchange.com": {
+        "epoch": 1590278400,
+        "expiration_date": "24-may-2020",
+        "state": "future"
+    },
     "adultlinksco.com": {
         "epoch": 1571011200,
         "expiration_date": "14-oct-2019",
@@ -5362,6 +5367,11 @@
     "atomictime.net": {
         "epoch": 1766534400,
         "expiration_date": "24-dec-2025",
+        "state": "future"
+    },
+    "atrx7.com": {
+        "epoch": 1595030400,
+        "expiration_date": "18-jul-2020",
         "state": "future"
     },
     "audionewz.net": {
@@ -8315,8 +8325,8 @@
         "state": "future"
     },
     "eajmp.com": {
-        "epoch": 1564876800,
-        "expiration_date": "04-aug-2019",
+        "epoch": 1596499200,
+        "expiration_date": "04-aug-2020",
         "state": "future"
     },
     "earnify.com": {
@@ -8587,6 +8597,11 @@
     "ellads.com": {
         "epoch": 1594425600,
         "expiration_date": "11-jul-2020",
+        "state": "future"
+    },
+    "email-reflex.com": {
+        "epoch": 1579996800,
+        "expiration_date": "26-jan-2020",
         "state": "future"
     },
     "emaildireto.com.br": {
@@ -15386,7 +15401,7 @@
     },
     "visit-tracker.com": {
         "epoch": 1583971200,
-        "expiration_date": "12-mar-2020",
+        "expiration_date": "23-jun-2021",
         "state": "future"
     },
     "visitor-track.com": {
