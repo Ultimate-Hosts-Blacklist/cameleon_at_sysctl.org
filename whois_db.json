@@ -24,6 +24,11 @@
         "expiration_date": "03-mar-2020",
         "state": "future"
     },
+    "032439.com": {
+        "epoch": 1577491200,
+        "expiration_date": "28-dec-2019",
+        "state": "future"
+    },
     "0427d7.se": {
         "epoch": 1589068800,
         "expiration_date": "10-may-2020",
@@ -6730,8 +6735,8 @@
         "state": "future"
     },
     "cashcount.com": {
-        "epoch": 1565049600,
-        "expiration_date": "06-aug-2019",
+        "epoch": 1596672000,
+        "expiration_date": "06-aug-2020",
         "state": "future"
     },
     "cashengines.com": {
@@ -12040,8 +12045,8 @@
         "state": "future"
     },
     "onlyfind.net": {
-        "epoch": 1564617600,
-        "expiration_date": "01-aug-2019",
+        "epoch": 1596240000,
+        "expiration_date": "01-aug-2020",
         "state": "future"
     },
     "onmpeg.com": {
