@@ -2094,6 +2094,11 @@
         "expiration_date": "04-mar-2020",
         "state": "future"
     },
+    "adflight.com": {
+        "epoch": 1583020800,
+        "expiration_date": "01-mar-2020",
+        "state": "future"
+    },
     "adflow.com": {
         "epoch": 1589155200,
         "expiration_date": "11-may-2020",
@@ -6064,6 +6069,11 @@
         "expiration_date": "02-jan-2020",
         "state": "future"
     },
+    "bigpenisguide.com": {
+        "epoch": 1571011200,
+        "expiration_date": "14-oct-2019",
+        "state": "future"
+    },
     "bigrewards.com": {
         "epoch": 1584662400,
         "expiration_date": "20-mar-2020",
@@ -6745,8 +6755,8 @@
         "state": "future"
     },
     "cash4members.com": {
-        "epoch": 1565049600,
-        "expiration_date": "06-aug-2019",
+        "epoch": 1596672000,
+        "expiration_date": "06-aug-2020",
         "state": "future"
     },
     "cashcount.com": {
@@ -10167,6 +10177,11 @@
     "htl.bid": {
         "epoch": 1592006400,
         "expiration_date": "13-jun-2020",
+        "state": "future"
+    },
+    "htmate2.com": {
+        "epoch": 1601683200,
+        "expiration_date": "03-oct-2020",
         "state": "future"
     },
     "http-proxy.com": {
