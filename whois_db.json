@@ -3650,8 +3650,8 @@
         "state": "future"
     },
     "advnt05.com": {
-        "epoch": 1565136000,
-        "expiration_date": "07-aug-2019",
+        "epoch": 1596758400,
+        "expiration_date": "07-aug-2020",
         "state": "future"
     },
     "advombat.ru": {
@@ -7485,8 +7485,8 @@
         "state": "future"
     },
     "coolwebsearch.com": {
-        "epoch": 1565136000,
-        "expiration_date": "07-aug-2019",
+        "epoch": 1596758400,
+        "expiration_date": "07-aug-2020",
         "state": "future"
     },
     "coolwebstats.com": {
@@ -7762,6 +7762,11 @@
     "crispads.com": {
         "epoch": 1576886400,
         "expiration_date": "21-dec-2019",
+        "state": "future"
+    },
+    "criteo.com": {
+        "epoch": 1592352000,
+        "expiration_date": "17-jun-2020",
         "state": "future"
     },
     "criticalmass.com": {
