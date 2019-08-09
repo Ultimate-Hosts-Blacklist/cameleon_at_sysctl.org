@@ -11534,6 +11534,11 @@
         "expiration_date": "13-aug-2019",
         "state": "future"
     },
+    "mpxxtrk.com": {
+        "epoch": 1565654400,
+        "expiration_date": "13-aug-2019",
+        "state": "future"
+    },
     "ms-mvp.org": {
         "epoch": 1582329600,
         "expiration_date": "22-feb-2020",
@@ -15137,6 +15142,11 @@
     "trafficmp.com": {
         "epoch": 1592697600,
         "expiration_date": "21-jun-2020",
+        "state": "future"
+    },
+    "trafficpace.com": {
+        "epoch": 1598745600,
+        "expiration_date": "30-aug-2020",
         "state": "future"
     },
     "trafficrevenue.net": {
