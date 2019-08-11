@@ -3969,6 +3969,11 @@
         "expiration_date": "16-jan-2020",
         "state": "future"
     },
+    "affiliatetarget.com": {
+        "epoch": 1589068800,
+        "expiration_date": "10-may-2020",
+        "state": "future"
+    },
     "affiliatetracking.com": {
         "epoch": 1649548800,
         "expiration_date": "10-apr-2022",
@@ -4107,6 +4112,11 @@
     "aimes.com": {
         "epoch": 1635724800,
         "expiration_date": "01-nov-2021",
+        "state": "future"
+    },
+    "aimthings.com": {
+        "epoch": 1579219200,
+        "expiration_date": "17-jan-2020",
         "state": "future"
     },
     "aimtop100.com": {
@@ -10901,7 +10911,7 @@
     },
     "link.ru": {
         "epoch": 1588377600,
-        "expiration_date": "02-may-2020",
+        "expiration_date": "29-jun-2020",
         "state": "future"
     },
     "link2blogs.com": {
@@ -11860,8 +11870,8 @@
         "state": "future"
     },
     "net-pratique.fr": {
-        "epoch": 1565222400,
-        "expiration_date": "08-aug-2019",
+        "epoch": 1596844800,
+        "expiration_date": "08-aug-2020",
         "state": "future"
     },
     "netagent.cz": {
