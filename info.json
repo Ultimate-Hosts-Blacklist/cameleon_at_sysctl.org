@@ -1,19 +1,19 @@
 {
     "current_stats": {
-        "builds": 2,
+        "builds": 3,
         "counter": {
-            "down": 123,
+            "down": 176,
             "invalid": 0,
-            "tested": 5057,
-            "up": 4934
+            "tested": 7537,
+            "up": 7361
         }
     },
     "currently_under_test": "1",
     "days_until_next_test": 2,
     "end_datetime": "Sun Aug 11 22:50:44 2019",
     "end_epoch": 1565563844.295603,
-    "last_autosave_datetime": "Tue Aug 13 17:52:18 2019",
-    "last_autosave_epoch": 1565718738.692178,
+    "last_autosave_datetime": "Tue Aug 13 18:27:01 2019",
+    "last_autosave_epoch": 1565720821.385998,
     "name": "cameleon_at_sysctl.org",
     "previous_stats": {
         "builds": 11,
