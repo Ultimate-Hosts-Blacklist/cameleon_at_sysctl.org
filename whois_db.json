@@ -709,6 +709,11 @@
         "expiration_date": "10-feb-2020",
         "state": "future"
     },
+    "50dollargiftcard.com": {
+        "epoch": 1594166400,
+        "expiration_date": "08-jul-2020",
+        "state": "future"
+    },
     "51234.com": {
         "epoch": 1582416000,
         "expiration_date": "23-feb-2020",
@@ -9567,6 +9572,11 @@
     "metricsimage.com": {
         "epoch": 1574553600,
         "expiration_date": "24-nov-2019",
+        "state": "future"
+    },
+    "mftracking.com": {
+        "epoch": 1595376000,
+        "expiration_date": "22-jul-2020",
         "state": "future"
     },
     "mgid.com": {
