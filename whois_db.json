@@ -2859,6 +2859,11 @@
         "expiration_date": "04-apr-2020",
         "state": "future"
     },
+    "adtastic.com": {
+        "epoch": 1586822400,
+        "expiration_date": "14-apr-2020",
+        "state": "future"
+    },
     "adtegrity.com": {
         "epoch": 1632441600,
         "expiration_date": "24-sep-2021",
@@ -8009,6 +8014,11 @@
         "expiration_date": "18-nov-2020",
         "state": "future"
     },
+    "downloadupload.com": {
+        "epoch": 1581811200,
+        "expiration_date": "16-feb-2020",
+        "state": "future"
+    },
     "downseek.com": {
         "epoch": 1617148800,
         "expiration_date": "31-mar-2021",
@@ -8655,8 +8665,8 @@
         "state": "future"
     },
     "extremevideoz.net": {
-        "epoch": 1580515200,
-        "expiration_date": "01-feb-2020",
+        "epoch": 1575504000,
+        "expiration_date": "05-dec-2019",
         "state": "future"
     },
     "ez-tracks.com": {
@@ -8872,6 +8882,11 @@
     "flvdirect.com": {
         "epoch": 1582848000,
         "expiration_date": "28-feb-2020",
+        "state": "future"
+    },
+    "flvpro.com": {
+        "epoch": 1586908800,
+        "expiration_date": "15-apr-2020",
         "state": "future"
     },
     "flvtube.net": {
@@ -11665,8 +11680,8 @@
         "state": "future"
     },
     "onestatfree.com": {
-        "epoch": 1566086400,
-        "expiration_date": "18-aug-2019",
+        "epoch": 1597708800,
+        "expiration_date": "18-aug-2020",
         "state": "future"
     },
     "oneund.ru": {
