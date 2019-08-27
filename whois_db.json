@@ -3564,6 +3564,11 @@
         "expiration_date": "11-oct-2019",
         "state": "future"
     },
+    "advertjunction.com": {
+        "epoch": 1568678400,
+        "expiration_date": "17-sep-2019",
+        "state": "future"
+    },
     "advertlets.com": {
         "epoch": 1578096000,
         "expiration_date": "04-jan-2020",
@@ -4532,7 +4537,7 @@
     "altoentertainment.com": {
         "epoch": 1566864000,
         "expiration_date": "27-aug-2019",
-        "state": "future"
+        "state": "past"
     },
     "altogames.com": {
         "epoch": 1584576000,
@@ -13465,8 +13470,8 @@
         "state": "future"
     },
     "searchclickads.net": {
-        "epoch": 1575504000,
-        "expiration_date": "05-dec-2019",
+        "epoch": 1584576000,
+        "expiration_date": "19-mar-2020",
         "state": "future"
     },
     "searchdiscovered.com": {
