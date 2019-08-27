@@ -2894,6 +2894,11 @@
         "expiration_date": "14-apr-2020",
         "state": "future"
     },
+    "adsurve.com": {
+        "epoch": 1600905600,
+        "expiration_date": "24-sep-2020",
+        "state": "future"
+    },
     "adsvert.com": {
         "epoch": 1590105600,
         "expiration_date": "22-may-2020",
@@ -3927,6 +3932,11 @@
     "affiliatetarget.com": {
         "epoch": 1589068800,
         "expiration_date": "10-may-2020",
+        "state": "future"
+    },
+    "affiliatetracking.com": {
+        "epoch": 1649548800,
+        "expiration_date": "10-apr-2022",
         "state": "future"
     },
     "affiliatetracking.net": {
@@ -10900,7 +10910,7 @@
         "state": "future"
     },
     "linktarget.com": {
-        "epoch": 159321600000,
+        "epoch": 15932160000000,
         "expiration_date": "06-mar-2021",
         "state": "future"
     },
