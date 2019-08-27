@@ -2724,6 +2724,11 @@
         "expiration_date": "28-may-2020",
         "state": "future"
     },
+    "adsensecustomsearchads.com": {
+        "epoch": 1580169600,
+        "expiration_date": "28-jan-2020",
+        "state": "future"
+    },
     "adsentra.com": {
         "epoch": 1600819200,
         "expiration_date": "23-sep-2020",
@@ -2907,6 +2912,11 @@
     "adstoclick.com": {
         "epoch": 1586822400,
         "expiration_date": "14-apr-2020",
+        "state": "future"
+    },
+    "adsupply.com": {
+        "epoch": 1597276800,
+        "expiration_date": "13-aug-2020",
         "state": "future"
     },
     "adsurve.com": {
@@ -12277,6 +12287,11 @@
     "pagefair.com": {
         "epoch": 1591833600,
         "expiration_date": "11-jun-2020",
+        "state": "future"
+    },
+    "pagerank10.co.uk": {
+        "epoch": 1587081600,
+        "expiration_date": "17-apr-2020",
         "state": "future"
     },
     "paidstats.com": {
