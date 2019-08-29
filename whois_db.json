@@ -869,6 +869,11 @@
         "expiration_date": "08-jul-2020",
         "state": "future"
     },
+    "50websads.com": {
+        "epoch": 1588636800,
+        "expiration_date": "05-may-2020",
+        "state": "future"
+    },
     "51234.com": {
         "epoch": 1582416000,
         "expiration_date": "23-feb-2020",
@@ -13325,9 +13330,9 @@
         "state": "future"
     },
     "rivasearchpage.com": {
-        "epoch": 1560297600,
-        "expiration_date": "12-jun-2019",
-        "state": "past"
+        "epoch": 1598572800,
+        "expiration_date": "28-aug-2020",
+        "state": "future"
     },
     "rkdms.com": {
         "epoch": 1612742400,
