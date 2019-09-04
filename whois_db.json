@@ -8229,6 +8229,11 @@
         "expiration_date": "19-mar-2025",
         "state": "future"
     },
+    "freestats.tv": {
+        "epoch": 1595548800,
+        "expiration_date": "24-jul-2020",
+        "state": "future"
+    },
     "freeticketcash.com": {
         "epoch": 1573344000,
         "expiration_date": "10-nov-2019",
@@ -10265,8 +10270,8 @@
         "state": "future"
     },
     "nalook.com": {
-        "epoch": 1567468800,
-        "expiration_date": "03-sep-2019",
+        "epoch": 1599091200,
+        "expiration_date": "03-sep-2020",
         "state": "future"
     },
     "nameadmininc.com": {
@@ -14007,6 +14012,11 @@
     "wms-tools.com": {
         "epoch": 1597622400,
         "expiration_date": "17-aug-2020",
+        "state": "future"
+    },
+    "wonderlandads.com": {
+        "epoch": 1588118400,
+        "expiration_date": "29-apr-2020",
         "state": "future"
     },
     "woolyboys.com": {
