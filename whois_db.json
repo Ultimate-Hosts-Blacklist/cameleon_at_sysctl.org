@@ -1349,6 +1349,11 @@
         "expiration_date": "17-aug-2021",
         "state": "future"
     },
+    "accelerationsw.com": {
+        "epoch": 1594339200,
+        "expiration_date": "10-jul-2020",
+        "state": "future"
+    },
     "accerispartners.com": {
         "epoch": 1578355200,
         "expiration_date": "07-jan-2020",
@@ -3319,6 +3324,11 @@
         "expiration_date": "15-jan-2020",
         "state": "future"
     },
+    "advertising.com": {
+        "epoch": 1641254400,
+        "expiration_date": "04-jan-2022",
+        "state": "future"
+    },
     "advertising.dk": {
         "epoch": 1588204800,
         "expiration_date": "30-apr-2020",
@@ -4397,6 +4407,11 @@
     "amazingindian.com": {
         "epoch": 1594512000,
         "expiration_date": "12-jul-2020",
+        "state": "future"
+    },
+    "amctheater.com": {
+        "epoch": 1678406400,
+        "expiration_date": "10-mar-2023",
         "state": "future"
     },
     "amefin.com": {
@@ -10439,6 +10454,11 @@
         "expiration_date": "12-jun-2020",
         "state": "future"
     },
+    "luminate.com": {
+        "epoch": 1702512000,
+        "expiration_date": "14-dec-2023",
+        "state": "future"
+    },
     "lustler.com": {
         "epoch": 1579651200,
         "expiration_date": "22-jan-2020",
@@ -12175,8 +12195,8 @@
         "state": "future"
     },
     "pulsix.com": {
-        "epoch": 1580774400,
-        "expiration_date": "04-feb-2020",
+        "epoch": 1592092800,
+        "expiration_date": "14-jun-2020",
         "state": "future"
     },
     "puppykibble.com": {
@@ -12367,6 +12387,11 @@
     "rb-net.com": {
         "epoch": 1585353600,
         "expiration_date": "28-mar-2020",
+        "state": "future"
+    },
+    "rd-direct.com": {
+        "epoch": 1573344000,
+        "expiration_date": "10-nov-2019",
         "state": "future"
     },
     "reactads.com": {
@@ -15029,6 +15054,11 @@
         "expiration_date": "05-nov-2020",
         "state": "future"
     },
+    "whoisonline.net": {
+        "epoch": 1583020800,
+        "expiration_date": "01-mar-2020",
+        "state": "future"
+    },
     "whosread.com": {
         "epoch": 1610668800,
         "expiration_date": "15-jan-2021",
@@ -15037,6 +15067,11 @@
     "wickedpictures.com": {
         "epoch": 1594944000,
         "expiration_date": "17-jul-2020",
+        "state": "future"
+    },
+    "widebanner.com": {
+        "epoch": 1611187200,
+        "expiration_date": "21-jan-2021",
         "state": "future"
     },
     "widesearchengine.com": {
