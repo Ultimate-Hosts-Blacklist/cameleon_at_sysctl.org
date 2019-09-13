@@ -6364,6 +6364,11 @@
         "expiration_date": "04-aug-2020",
         "state": "future"
     },
+    "burstnet.com": {
+        "epoch": 1580083200,
+        "expiration_date": "27-jan-2020",
+        "state": "future"
+    },
     "buscamundo.com": {
         "epoch": 1590278400,
         "expiration_date": "24-may-2020",
@@ -10782,6 +10787,11 @@
     "maximumcash.com": {
         "epoch": 1635206400,
         "expiration_date": "26-oct-2021",
+        "state": "future"
+    },
+    "maxonclick.com": {
+        "epoch": 1587945600,
+        "expiration_date": "27-apr-2020",
         "state": "future"
     },
     "maxtracker.net": {
