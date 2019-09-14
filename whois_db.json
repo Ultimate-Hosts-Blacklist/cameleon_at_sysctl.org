@@ -2279,6 +2279,11 @@
         "expiration_date": "30-nov-2019",
         "state": "future"
     },
+    "adloyal.pl": {
+        "epoch": 1569974400,
+        "expiration_date": "02-oct-2019",
+        "state": "future"
+    },
     "admanage.com": {
         "epoch": 1597276800,
         "expiration_date": "13-aug-2020",
@@ -8579,6 +8584,11 @@
         "expiration_date": "27-jan-2020",
         "state": "future"
     },
+    "ek21.com": {
+        "epoch": 1591747200,
+        "expiration_date": "10-jun-2020",
+        "state": "future"
+    },
     "ekads.com": {
         "epoch": 1593820800,
         "expiration_date": "04-jul-2020",
@@ -9422,6 +9432,11 @@
     "ftjcfx.com": {
         "epoch": 1586131200,
         "expiration_date": "06-apr-2020",
+        "state": "future"
+    },
+    "fttcj.com": {
+        "epoch": 1581984000,
+        "expiration_date": "18-feb-2020",
         "state": "future"
     },
     "ftvcash.com": {
@@ -14997,6 +15012,11 @@
     "traffic-trades.com": {
         "epoch": 1581379200,
         "expiration_date": "11-feb-2020",
+        "state": "future"
+    },
+    "traffic.ru": {
+        "epoch": 1593648000,
+        "expiration_date": "02-jul-2020",
         "state": "future"
     },
     "trafficadept.com": {
