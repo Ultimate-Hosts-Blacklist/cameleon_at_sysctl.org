@@ -2789,6 +2789,11 @@
         "expiration_date": "26-dec-2019",
         "state": "future"
     },
+    "adsgangsta.com": {
+        "epoch": 1590278400,
+        "expiration_date": "24-may-2020",
+        "state": "future"
+    },
     "adsharenetwork.com": {
         "epoch": 1596067200,
         "expiration_date": "30-jul-2020",
@@ -2837,6 +2842,11 @@
     "adsmart.ru": {
         "epoch": 1591228800,
         "expiration_date": "04-jun-2020",
+        "state": "future"
+    },
+    "adsname.com": {
+        "epoch": 1575331200,
+        "expiration_date": "03-dec-2019",
         "state": "future"
     },
     "adsnavigator.com": {
@@ -8000,9 +8010,9 @@
         "state": "future"
     },
     "detectspywares.info": {
-        "epoch": 1568332800,
-        "expiration_date": "13-sep-2019",
-        "state": "past"
+        "epoch": 1599955200,
+        "expiration_date": "13-sep-2020",
+        "state": "future"
     },
     "dezines.com": {
         "epoch": 1580083200,
@@ -16172,6 +16182,11 @@
     "yfdmedia.com": {
         "epoch": 1572307200,
         "expiration_date": "29-oct-2019",
+        "state": "future"
+    },
+    "yidsense.com": {
+        "epoch": 1589500800,
+        "expiration_date": "15-may-2020",
         "state": "future"
     },
     "yieldtraffic.com": {
