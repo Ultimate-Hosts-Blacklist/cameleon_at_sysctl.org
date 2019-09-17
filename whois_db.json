@@ -2234,6 +2234,11 @@
         "expiration_date": "23-jan-2020",
         "state": "future"
     },
+    "adipics.com": {
+        "epoch": 1576627200,
+        "expiration_date": "18-dec-2019",
+        "state": "future"
+    },
     "adireland.com": {
         "epoch": 1575849600,
         "expiration_date": "09-dec-2019",
@@ -9915,8 +9920,8 @@
         "state": "future"
     },
     "gradportal.org": {
-        "epoch": 1568505600,
-        "expiration_date": "15-sep-2019",
+        "epoch": 1600128000,
+        "expiration_date": "15-sep-2020",
         "state": "future"
     },
     "greasypalm.co.uk": {
@@ -12840,8 +12845,8 @@
         "state": "future"
     },
     "protect-x.com": {
-        "epoch": 1568505600,
-        "expiration_date": "15-sep-2019",
+        "epoch": 1600128000,
+        "expiration_date": "15-sep-2020",
         "state": "future"
     },
     "protizer.ru": {
