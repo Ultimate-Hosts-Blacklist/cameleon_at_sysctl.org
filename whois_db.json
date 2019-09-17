@@ -7049,6 +7049,11 @@
         "expiration_date": "01-may-2020",
         "state": "future"
     },
+    "ckstatic.com": {
+        "epoch": 1620000000,
+        "expiration_date": "03-may-2021",
+        "state": "future"
+    },
     "classicequipment.com": {
         "epoch": 1613433600,
         "expiration_date": "16-feb-2021",
@@ -7937,6 +7942,11 @@
     "datais.net": {
         "epoch": 1571356800,
         "expiration_date": "18-oct-2019",
+        "state": "future"
+    },
+    "dateclix.com": {
+        "epoch": 1598140800,
+        "expiration_date": "23-aug-2020",
         "state": "future"
     },
     "dating-banners.com": {
@@ -13779,6 +13789,11 @@
         "expiration_date": "24-nov-2019",
         "state": "future"
     },
+    "serials.ws": {
+        "epoch": 1582848000,
+        "expiration_date": "28-feb-2020",
+        "state": "future"
+    },
     "servedbyadbutler.com": {
         "epoch": 1635033600,
         "expiration_date": "24-oct-2021",
@@ -14630,8 +14645,8 @@
         "state": "future"
     },
     "text-link-ads.com": {
-        "epoch": 1568592000,
-        "expiration_date": "16-sep-2019",
+        "epoch": 1600214400,
+        "expiration_date": "16-sep-2020",
         "state": "future"
     },
     "textad.net": {
