@@ -940,8 +940,8 @@
         "state": "future"
     },
     "6o9.com": {
-        "epoch": 1568592000,
-        "expiration_date": "16-sep-2019",
+        "epoch": 1600214400,
+        "expiration_date": "16-sep-2020",
         "state": "future"
     },
     "700xxx.com": {
@@ -9200,8 +9200,8 @@
         "state": "future"
     },
     "fix-my-pc.org": {
-        "epoch": 1568678400,
-        "expiration_date": "17-sep-2019",
+        "epoch": 1600300800,
+        "expiration_date": "17-sep-2020",
         "state": "future"
     },
     "fix-registry-here.com": {
@@ -10122,6 +10122,11 @@
     "hitslap.com": {
         "epoch": 1576368000,
         "expiration_date": "15-dec-2019",
+        "state": "future"
+    },
+    "hitslink.com": {
+        "epoch": 1636848000,
+        "expiration_date": "14-nov-2021",
         "state": "future"
     },
     "hitslog.com": {
