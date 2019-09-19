@@ -3202,7 +3202,7 @@
     "adultchech.com": {
         "epoch": 1568764800,
         "expiration_date": "18-sep-2019",
-        "state": "future"
+        "state": "past"
     },
     "adultcomix.biz": {
         "epoch": 1580947200,
@@ -13982,6 +13982,11 @@
     "silver-path.com": {
         "epoch": 1576800000,
         "expiration_date": "20-dec-2019",
+        "state": "future"
+    },
+    "silveragesoftware.com": {
+        "epoch": 1576886400,
+        "expiration_date": "21-dec-2019",
         "state": "future"
     },
     "silvercash.com": {
