@@ -777,7 +777,7 @@
     "411classifieds.com": {
         "epoch": 1571356800,
         "expiration_date": "18-oct-2019",
-        "state": "future"
+        "state": "past"
     },
     "411debtsolutions.com": {
         "epoch": 1597363200,
@@ -4525,8 +4525,8 @@
         "state": "future"
     },
     "allstats4u.com": {
-        "epoch": 1570406400,
-        "expiration_date": "07-oct-2019",
+        "epoch": 1602028800,
+        "expiration_date": "07-oct-2020",
         "state": "future"
     },
     "allteenmodel.com": {
@@ -13315,8 +13315,8 @@
         "state": "future"
     },
     "relevantknowledge.com": {
-        "epoch": 1571270400,
-        "expiration_date": "17-oct-2019",
+        "epoch": 1602892800,
+        "expiration_date": "17-oct-2020",
         "state": "future"
     },
     "relmaxtop.com": {
