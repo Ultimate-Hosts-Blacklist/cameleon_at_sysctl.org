@@ -5315,8 +5315,8 @@
         "state": "future"
     },
     "applicationsdeliveryupdate.com": {
-        "epoch": 1571356800,
-        "expiration_date": "18-oct-2019",
+        "epoch": 1602979200,
+        "expiration_date": "18-oct-2020",
         "state": "future"
     },
     "applicationstat.com": {
@@ -15582,6 +15582,11 @@
     "v-links.net": {
         "epoch": 1587859200,
         "expiration_date": "26-apr-2020",
+        "state": "future"
+    },
+    "val17.com": {
+        "epoch": 1603065600,
+        "expiration_date": "19-oct-2020",
         "state": "future"
     },
     "validatedsite.com": {
