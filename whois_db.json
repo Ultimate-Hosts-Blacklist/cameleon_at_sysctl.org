@@ -39,6 +39,11 @@
         "expiration_date": "13-aug-2020",
         "state": "future"
     },
+    "1phads.com": {
+        "epoch": 1581465600,
+        "expiration_date": "12-feb-2020",
+        "state": "future"
+    },
     "2007-search.com": {
         "epoch": 1566000000,
         "expiration_date": "17-aug-2019",
@@ -394,6 +399,11 @@
         "expiration_date": "05-oct-2020",
         "state": "future"
     },
+    "am-display.com": {
+        "epoch": 1594598400,
+        "expiration_date": "13-jul-2020",
+        "state": "future"
+    },
     "anestetik.com": {
         "epoch": 1588809600,
         "expiration_date": "07-may-2020",
@@ -462,6 +472,11 @@
     "astoplist.com": {
         "epoch": 1602892800,
         "expiration_date": "17-oct-2020",
+        "state": "future"
+    },
+    "av.com": {
+        "epoch": 1886630400,
+        "expiration_date": "14-oct-2029",
         "state": "future"
     },
     "banner-mania.com": {
@@ -899,6 +914,11 @@
         "expiration_date": "20-dec-2019",
         "state": "future"
     },
+    "juggsday.com": {
+        "epoch": 1588204800,
+        "expiration_date": "30-apr-2020",
+        "state": "future"
+    },
     "juiceadv.com": {
         "epoch": 1580256000,
         "expiration_date": "29-jan-2020",
@@ -967,6 +987,11 @@
     "mp3downloadhq.com": {
         "epoch": 1592611200,
         "expiration_date": "20-jun-2020",
+        "state": "future"
+    },
+    "myglobalsearch.com": {
+        "epoch": 1634256000,
+        "expiration_date": "15-oct-2021",
         "state": "future"
     },
     "myquicksearch.com": {
@@ -1087,6 +1112,11 @@
     "pscdns.biz": {
         "epoch": 1588896000,
         "expiration_date": "08-may-2020",
+        "state": "future"
+    },
+    "qikdownloads.com": {
+        "epoch": 1593216000,
+        "expiration_date": "27-jun-2020",
         "state": "future"
     },
     "quinst.com": {
@@ -1214,6 +1244,11 @@
         "expiration_date": "28-mar-2022",
         "state": "future"
     },
+    "teenboobstube.com": {
+        "epoch": 1602201600,
+        "expiration_date": "09-oct-2020",
+        "state": "future"
+    },
     "thesurfshield.com": {
         "epoch": 1622937600,
         "expiration_date": "06-jun-2021",
@@ -1233,6 +1268,11 @@
         "epoch": 1570406400,
         "expiration_date": "07-oct-2019",
         "state": "past"
+    },
+    "tororango.com": {
+        "epoch": 1578787200,
+        "expiration_date": "12-jan-2020",
+        "state": "future"
     },
     "tr100.net": {
         "epoch": 1580515200,
@@ -1302,6 +1342,11 @@
     "wpdstat.com": {
         "epoch": 1603670400,
         "expiration_date": "26-oct-2020",
+        "state": "future"
+    },
+    "www4search.net": {
+        "epoch": 1601164800,
+        "expiration_date": "27-sep-2020",
         "state": "future"
     },
     "yesadvertising.com": {
