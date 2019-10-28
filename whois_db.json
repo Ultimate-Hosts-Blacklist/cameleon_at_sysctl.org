@@ -799,6 +799,11 @@
         "expiration_date": "02-may-2022",
         "state": "future"
     },
+    "favicon.com": {
+        "epoch": 1587600000,
+        "expiration_date": "23-apr-2020",
+        "state": "future"
+    },
     "femeedia.com": {
         "epoch": 1602892800,
         "expiration_date": "17-oct-2020",
@@ -1309,9 +1314,19 @@
         "expiration_date": "31-jul-2021",
         "state": "future"
     },
+    "tracklead.net": {
+        "epoch": 1581465600,
+        "expiration_date": "12-feb-2020",
+        "state": "future"
+    },
     "trafficmp.com": {
         "epoch": 1592697600,
         "expiration_date": "21-jun-2020",
+        "state": "future"
+    },
+    "traktum.com": {
+        "epoch": 1831766400,
+        "expiration_date": "18-jan-2028",
         "state": "future"
     },
     "truesuite.com": {
