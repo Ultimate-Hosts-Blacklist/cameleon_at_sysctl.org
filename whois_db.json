@@ -24,6 +24,11 @@
         "expiration_date": "28-may-2020",
         "state": "future"
     },
+    "123found.com": {
+        "epoch": 1572998400,
+        "expiration_date": "06-nov-2019",
+        "state": "future"
+    },
     "123go.net": {
         "epoch": 1592697600,
         "expiration_date": "21-jun-2020",
@@ -487,6 +492,11 @@
     "av.com": {
         "epoch": 1886630400,
         "expiration_date": "14-oct-2029",
+        "state": "future"
+    },
+    "axaldjqt.cn": {
+        "epoch": 1603497600,
+        "expiration_date": "24-oct-2020",
         "state": "future"
     },
     "banner-mania.com": {
