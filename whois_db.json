@@ -34,6 +34,11 @@
         "expiration_date": "21-jun-2020",
         "state": "future"
     },
+    "123mania.com": {
+        "epoch": 1565827200,
+        "expiration_date": "15-aug-2019",
+        "state": "past"
+    },
     "143fuck.com": {
         "epoch": 1638316800,
         "expiration_date": "01-dec-2021",
@@ -404,6 +409,11 @@
         "expiration_date": "12-oct-2020",
         "state": "future"
     },
+    "allmath.com": {
+        "epoch": 1574467200,
+        "expiration_date": "23-nov-2019",
+        "state": "future"
+    },
     "allneedsearch.com": {
         "epoch": 1588032000,
         "expiration_date": "28-apr-2020",
@@ -714,6 +724,11 @@
         "expiration_date": "02-oct-2019",
         "state": "past"
     },
+    "datais.net": {
+        "epoch": 1602979200,
+        "expiration_date": "18-oct-2020",
+        "state": "future"
+    },
     "de17a.com": {
         "epoch": 1581811200,
         "expiration_date": "16-feb-2020",
@@ -733,6 +748,11 @@
         "epoch": 1567382400,
         "expiration_date": "02-sep-2019",
         "state": "past"
+    },
+    "destinationurl.com": {
+        "epoch": 1591228800,
+        "expiration_date": "04-jun-2020",
+        "state": "future"
     },
     "detectspywares.info": {
         "epoch": 1599955200,
@@ -999,6 +1019,11 @@
         "expiration_date": "21-aug-2019",
         "state": "past"
     },
+    "immanalytics.com": {
+        "epoch": 1600992000,
+        "expiration_date": "25-sep-2020",
+        "state": "future"
+    },
     "intermediaceli.com": {
         "epoch": 1598140800,
         "expiration_date": "23-aug-2020",
@@ -1263,6 +1288,11 @@
         "epoch": 1593216000,
         "expiration_date": "27-jun-2020",
         "state": "future"
+    },
+    "quickbitsdownloads.com": {
+        "epoch": 1569628800,
+        "expiration_date": "28-sep-2019",
+        "state": "past"
     },
     "quinst.com": {
         "epoch": 1581724800,
