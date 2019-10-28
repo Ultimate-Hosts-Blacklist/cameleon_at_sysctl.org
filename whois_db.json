@@ -754,6 +754,11 @@
         "expiration_date": "30-mar-2020",
         "state": "future"
     },
+    "efficienttraffic.com": {
+        "epoch": 1597449600,
+        "expiration_date": "15-aug-2020",
+        "state": "future"
+    },
     "ehho.com": {
         "epoch": 1578614400,
         "expiration_date": "10-jan-2020",
@@ -862,6 +867,11 @@
     "go777site.com": {
         "epoch": 1586304000,
         "expiration_date": "08-apr-2020",
+        "state": "future"
+    },
+    "googleadservices.com": {
+        "epoch": 1592524800,
+        "expiration_date": "19-jun-2020",
         "state": "future"
     },
     "googletagservices.com": {
