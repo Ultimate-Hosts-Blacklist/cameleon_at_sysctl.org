@@ -474,6 +474,11 @@
         "expiration_date": "16-sep-2020",
         "state": "future"
     },
+    "antivirusxp08.com": {
+        "epoch": 1568073600,
+        "expiration_date": "10-sep-2019",
+        "state": "past"
+    },
     "aotracker.com": {
         "epoch": 1574899200,
         "expiration_date": "28-nov-2019",
