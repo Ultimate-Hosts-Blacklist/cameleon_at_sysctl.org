@@ -819,6 +819,11 @@
         "expiration_date": "08-sep-2019",
         "state": "past"
     },
+    "emaildireto.com.br": {
+        "epoch": 1563753600,
+        "expiration_date": "22-jul-2019",
+        "state": "past"
+    },
     "enoratraffic.com": {
         "epoch": 1586822400,
         "expiration_date": "14-apr-2020",
@@ -927,6 +932,11 @@
     "googletagservices.com": {
         "epoch": 1576540800,
         "expiration_date": "17-dec-2019",
+        "state": "future"
+    },
+    "greasypalm.co.uk": {
+        "epoch": 1606521600,
+        "expiration_date": "28-nov-2020",
         "state": "future"
     },
     "gxplugin.com": {
@@ -1214,6 +1224,11 @@
         "expiration_date": "20-apr-2020",
         "state": "future"
     },
+    "protizer.ru": {
+        "epoch": 1595894400,
+        "expiration_date": "28-jul-2020",
+        "state": "future"
+    },
     "proudclick.com": {
         "epoch": 1590105600,
         "expiration_date": "22-may-2020",
@@ -1342,6 +1357,11 @@
     "special-movies.com": {
         "epoch": 1596844800,
         "expiration_date": "08-aug-2020",
+        "state": "future"
+    },
+    "spinbox.net": {
+        "epoch": 1607299200,
+        "expiration_date": "07-dec-2020",
         "state": "future"
     },
     "spywarenuker.com": {
