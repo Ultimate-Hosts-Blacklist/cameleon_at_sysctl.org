@@ -49,6 +49,11 @@
         "expiration_date": "17-aug-2019",
         "state": "past"
     },
+    "2020search.com": {
+        "epoch": 1586649600,
+        "expiration_date": "12-apr-2020",
+        "state": "future"
+    },
     "2026.com": {
         "epoch": 1620172800,
         "expiration_date": "05-may-2021",
