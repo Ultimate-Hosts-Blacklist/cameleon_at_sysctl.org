@@ -219,6 +219,11 @@
         "expiration_date": "02-feb-2020",
         "state": "future"
     },
+    "adhexa.com": {
+        "epoch": 1651276800,
+        "expiration_date": "30-apr-2022",
+        "state": "future"
+    },
     "adhitzads.com": {
         "epoch": 1578960000,
         "expiration_date": "14-jan-2020",
@@ -532,6 +537,11 @@
     "artella.biz": {
         "epoch": 1589328000,
         "expiration_date": "13-may-2020",
+        "state": "future"
+    },
+    "av.com": {
+        "epoch": 1886630400,
+        "expiration_date": "14-oct-2029",
         "state": "future"
     },
     "away.com": {
@@ -1062,6 +1072,11 @@
     "livefyre.com": {
         "epoch": 1599868800,
         "expiration_date": "12-sep-2020",
+        "state": "future"
+    },
+    "luxup.ru": {
+        "epoch": 1610841600,
+        "expiration_date": "17-jan-2021",
         "state": "future"
     },
     "lzjl.com": {
