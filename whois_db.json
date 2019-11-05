@@ -144,6 +144,11 @@
         "expiration_date": "02-nov-2020",
         "state": "future"
     },
+    "aavc.com": {
+        "epoch": 1605139200,
+        "expiration_date": "12-nov-2020",
+        "state": "future"
+    },
     "abrp.net": {
         "epoch": 1569024000,
         "expiration_date": "21-sep-2019",
@@ -157,6 +162,11 @@
     "accuserveadsystem.com": {
         "epoch": 1585526400,
         "expiration_date": "30-mar-2020",
+        "state": "future"
+    },
+    "acjp.com": {
+        "epoch": 1605052800,
+        "expiration_date": "11-nov-2020",
         "state": "future"
     },
     "aclickads.com": {
@@ -644,6 +654,11 @@
         "expiration_date": "18-jul-2020",
         "state": "future"
     },
+    "bingstart.com": {
+        "epoch": 1590624000,
+        "expiration_date": "28-may-2020",
+        "state": "future"
+    },
     "bkrtx.com": {
         "epoch": 1583280000,
         "expiration_date": "04-mar-2020",
@@ -992,6 +1007,11 @@
     "herezera.com": {
         "epoch": 1602460800,
         "expiration_date": "12-oct-2020",
+        "state": "future"
+    },
+    "hitq.com": {
+        "epoch": 1603670400,
+        "expiration_date": "26-oct-2020",
         "state": "future"
     },
     "hitstats.co.uk": {
