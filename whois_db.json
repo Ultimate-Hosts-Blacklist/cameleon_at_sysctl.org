@@ -1329,6 +1329,11 @@
         "expiration_date": "28-sep-2019",
         "state": "past"
     },
+    "quinst.com": {
+        "epoch": 1581724800,
+        "expiration_date": "15-feb-2020",
+        "state": "future"
+    },
     "redirectx.net": {
         "epoch": 1566604800,
         "expiration_date": "24-aug-2019",
@@ -1467,6 +1472,11 @@
     "superstat.info": {
         "epoch": 1603670400,
         "expiration_date": "26-oct-2020",
+        "state": "future"
+    },
+    "swtkes.com": {
+        "epoch": 1604361600,
+        "expiration_date": "03-nov-2020",
         "state": "future"
     },
     "sxtracking.com": {
