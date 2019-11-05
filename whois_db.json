@@ -9,6 +9,11 @@
         "expiration_date": "16-sep-2020",
         "state": "future"
     },
+    "0aaa.com": {
+        "epoch": 1594944000,
+        "expiration_date": "17-jul-2020",
+        "state": "future"
+    },
     "0cj.net": {
         "epoch": 1578441600,
         "expiration_date": "08-jan-2020",
@@ -979,6 +984,11 @@
         "expiration_date": "23-mar-2020",
         "state": "future"
     },
+    "hypercounter.com": {
+        "epoch": 1583107200,
+        "expiration_date": "02-mar-2020",
+        "state": "future"
+    },
     "ibmvideo.com": {
         "epoch": 1599955200,
         "expiration_date": "13-sep-2020",
@@ -1102,6 +1112,11 @@
     "mnet-ad.net": {
         "epoch": 1579651200,
         "expiration_date": "22-jan-2020",
+        "state": "future"
+    },
+    "mochiads.com": {
+        "epoch": 1579564800,
+        "expiration_date": "21-jan-2020",
         "state": "future"
     },
     "mp3downloadhq.com": {
