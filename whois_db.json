@@ -254,6 +254,11 @@
         "expiration_date": "09-dec-2019",
         "state": "future"
     },
+    "adknowledge.com": {
+        "epoch": 1642291200,
+        "expiration_date": "16-jan-2022",
+        "state": "future"
+    },
     "admotion.com.ar": {
         "epoch": 1596758400,
         "expiration_date": "07-aug-2020",
@@ -453,6 +458,11 @@
         "epoch": 1589068800,
         "expiration_date": "10-may-2020",
         "state": "future"
+    },
+    "allyoursearch.com": {
+        "epoch": 1569024000,
+        "expiration_date": "21-sep-2019",
+        "state": "past"
     },
     "alphanetmarketing.com": {
         "epoch": 1577318400,
@@ -864,6 +874,11 @@
         "expiration_date": "13-oct-2020",
         "state": "future"
     },
+    "everestpoker.com": {
+        "epoch": 1702684800,
+        "expiration_date": "16-dec-2023",
+        "state": "future"
+    },
     "evidencenuker.com": {
         "epoch": 1586908800,
         "expiration_date": "15-apr-2020",
@@ -1017,6 +1032,11 @@
     "intermediaceli.com": {
         "epoch": 1598140800,
         "expiration_date": "23-aug-2020",
+        "state": "future"
+    },
+    "ipafind.com": {
+        "epoch": 1602201600,
+        "expiration_date": "09-oct-2020",
         "state": "future"
     },
     "isearchtech.com": {
@@ -1587,6 +1607,11 @@
     "yesadvertising.com": {
         "epoch": 1599264000,
         "expiration_date": "05-sep-2020",
+        "state": "future"
+    },
+    "yesup.com": {
+        "epoch": 1598659200,
+        "expiration_date": "29-aug-2020",
         "state": "future"
     },
     "yiqilai.com": {
