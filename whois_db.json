@@ -574,6 +574,11 @@
         "expiration_date": "01-sep-2020",
         "state": "future"
     },
+    "babylon-x.com": {
+        "epoch": 1582761600,
+        "expiration_date": "27-feb-2020",
+        "state": "future"
+    },
     "balook.com": {
         "epoch": 1599091200,
         "expiration_date": "03-sep-2020",
