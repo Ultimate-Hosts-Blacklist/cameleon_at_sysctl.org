@@ -74,9 +74,19 @@
         "expiration_date": "31-aug-2020",
         "state": "future"
     },
+    "41m.com": {
+        "epoch": 1673308800,
+        "expiration_date": "10-jan-2023",
+        "state": "future"
+    },
     "5000freebanners.com": {
         "epoch": 1597017600,
         "expiration_date": "10-aug-2020",
+        "state": "future"
+    },
+    "555y.com": {
+        "epoch": 1669420800,
+        "expiration_date": "26-nov-2022",
         "state": "future"
     },
     "75tz.com": {
@@ -118,6 +128,11 @@
         "epoch": 1569024000,
         "expiration_date": "21-sep-2019",
         "state": "past"
+    },
+    "absolutelyfreemovies.com": {
+        "epoch": 1590624000,
+        "expiration_date": "28-may-2020",
+        "state": "future"
     },
     "accuserveadsystem.com": {
         "epoch": 1585526400,
@@ -287,6 +302,11 @@
     "adtrade.net": {
         "epoch": 1600128000,
         "expiration_date": "15-sep-2020",
+        "state": "future"
+    },
+    "adtradradservices.com": {
+        "epoch": 1599091200,
+        "expiration_date": "03-sep-2020",
         "state": "future"
     },
     "adturn.com": {
@@ -564,6 +584,11 @@
         "expiration_date": "29-jul-2020",
         "state": "future"
     },
+    "bigtopleads.cn": {
+        "epoch": 1598486400,
+        "expiration_date": "27-aug-2020",
+        "state": "future"
+    },
     "bigwebtools.com": {
         "epoch": 1594684800,
         "expiration_date": "14-jul-2020",
@@ -732,6 +757,11 @@
     "dimkus.com": {
         "epoch": 1601769600,
         "expiration_date": "04-oct-2020",
+        "state": "future"
+    },
+    "directcertificates.com": {
+        "epoch": 1582070400,
+        "expiration_date": "19-feb-2020",
         "state": "future"
     },
     "directlinkq.cn": {
@@ -1009,6 +1039,11 @@
         "expiration_date": "20-apr-2020",
         "state": "future"
     },
+    "linksalpha.com": {
+        "epoch": 1620691200,
+        "expiration_date": "11-may-2021",
+        "state": "future"
+    },
     "lionstracking.com": {
         "epoch": 1585353600,
         "expiration_date": "28-mar-2020",
@@ -1057,6 +1092,11 @@
     "myglobalsearch.com": {
         "epoch": 1634256000,
         "expiration_date": "15-oct-2021",
+        "state": "future"
+    },
+    "mylottoadserv.com": {
+        "epoch": 1577404800,
+        "expiration_date": "27-dec-2019",
         "state": "future"
     },
     "myquicksearch.com": {
@@ -1377,6 +1417,11 @@
     "the-best-track.com": {
         "epoch": 1684454400,
         "expiration_date": "19-may-2023",
+        "state": "future"
+    },
+    "thebighits.com": {
+        "epoch": 1580774400,
+        "expiration_date": "04-feb-2020",
         "state": "future"
     },
     "thesurfshield.com": {
