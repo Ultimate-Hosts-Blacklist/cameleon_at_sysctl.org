@@ -6694,6 +6694,11 @@
         "expiration_date": "10-jun-2020",
         "state": "future"
     },
+    "electnext.com": {
+        "epoch": 1594166400.0,
+        "expiration_date": "08-jul-2020",
+        "state": "future"
+    },
     "electosake.com": {
         "epoch": 1601164800.0,
         "expiration_date": "27-sep-2020",
@@ -11745,7 +11750,7 @@
         "state": "future"
     },
     "tubedspots.com": {
-        "epoch": 1567468800,
+        "epoch": 1567468800.0,
         "expiration_date": "03-sep-2019",
         "state": "past"
     },
