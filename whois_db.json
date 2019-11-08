@@ -1225,7 +1225,7 @@
         "state": "future"
     },
     "activesecurityshield.com": {
-        "epoch": 1568592000,
+        "epoch": 1568592000.0,
         "expiration_date": "16-sep-2019",
         "state": "past"
     },
@@ -9517,6 +9517,11 @@
     "perfectgirls.net": {
         "epoch": 1821312000,
         "expiration_date": "19-sep-2027",
+        "state": "future"
+    },
+    "petrenko.biz": {
+        "epoch": 1581811200.0,
+        "expiration_date": "16-feb-2020",
         "state": "future"
     },
     "pgssl.com": {
