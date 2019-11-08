@@ -6210,7 +6210,7 @@
         "state": "future"
     },
     "deskwizz.com": {
-        "epoch": 1567382400,
+        "epoch": 1567382400.0,
         "expiration_date": "02-sep-2019",
         "state": "past"
     },
@@ -11487,6 +11487,11 @@
     "toptravel10.com": {
         "epoch": 1583107200,
         "expiration_date": "02-mar-2020",
+        "state": "future"
+    },
+    "tororango.com": {
+        "epoch": 1578787200.0,
+        "expiration_date": "12-jan-2020",
         "state": "future"
     },
     "totemcash.com": {
