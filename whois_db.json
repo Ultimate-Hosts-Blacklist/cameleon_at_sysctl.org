@@ -165,8 +165,8 @@
         "state": "future"
     },
     "123found.com": {
-        "epoch": 1572998400,
-        "expiration_date": "06-nov-2019",
+        "epoch": 1604620800.0,
+        "expiration_date": "06-nov-2020",
         "state": "future"
     },
     "123go.net": {
@@ -740,7 +740,7 @@
         "state": "future"
     },
     "777search.com": {
-        "epoch": 1567555200,
+        "epoch": 1567555200.0,
         "expiration_date": "04-sep-2019",
         "state": "past"
     },
@@ -1070,7 +1070,7 @@
         "state": "future"
     },
     "abrp.net": {
-        "epoch": 1569024000,
+        "epoch": 1569024000.0,
         "expiration_date": "21-sep-2019",
         "state": "past"
     },
@@ -2240,7 +2240,7 @@
         "state": "future"
     },
     "adspserving.com": {
-        "epoch": 1567728000,
+        "epoch": 1567728000.0,
         "expiration_date": "06-sep-2019",
         "state": "past"
     },
@@ -2480,7 +2480,7 @@
         "state": "future"
     },
     "adultchech.com": {
-        "epoch": 1568764800,
+        "epoch": 1568764800.0,
         "expiration_date": "18-sep-2019",
         "state": "past"
     },
