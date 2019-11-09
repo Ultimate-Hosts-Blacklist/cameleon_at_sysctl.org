@@ -7444,6 +7444,11 @@
         "expiration_date": "17-sep-2020",
         "state": "future"
     },
+    "geoworldonline.com": {
+        "epoch": 1569110400.0,
+        "expiration_date": "22-sep-2019",
+        "state": "past"
+    },
     "get-vids.com": {
         "epoch": 1600560000,
         "expiration_date": "20-sep-2020",
