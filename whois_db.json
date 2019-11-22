@@ -1079,6 +1079,11 @@
         "expiration_date": "30-dec-2019",
         "state": "future"
     },
+    "freeserials.com": {
+        "epoch": 1581811200.0,
+        "expiration_date": "16-feb-2020",
+        "state": "future"
+    },
     "freewebsites.com": {
         "epoch": 1647043200.0,
         "expiration_date": "12-mar-2022",
@@ -1098,6 +1103,11 @@
         "epoch": 1569110400.0,
         "expiration_date": "22-sep-2019",
         "state": "past"
+    },
+    "getweathercast.com": {
+        "epoch": 1590192000.0,
+        "expiration_date": "23-may-2020",
+        "state": "future"
     },
     "giftfunnew.com": {
         "epoch": 1576627200.0,
