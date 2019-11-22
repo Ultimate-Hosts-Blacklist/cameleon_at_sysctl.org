@@ -149,6 +149,11 @@
         "expiration_date": "29-dec-2020",
         "state": "future"
     },
+    "aaruka.com": {
+        "epoch": 1581206400.0,
+        "expiration_date": "09-feb-2020",
+        "state": "future"
+    },
     "aavc.com": {
         "epoch": 1605139200.0,
         "expiration_date": "12-nov-2020",
@@ -289,6 +294,11 @@
         "expiration_date": "29-sep-2020",
         "state": "future"
     },
+    "adlegend.com": {
+        "epoch": 1587168000.0,
+        "expiration_date": "18-apr-2020",
+        "state": "future"
+    },
     "admixxer.com": {
         "epoch": 1602374400.0,
         "expiration_date": "11-oct-2020",
@@ -307,6 +317,11 @@
     "adnovations.com": {
         "epoch": 1599523200.0,
         "expiration_date": "08-sep-2020",
+        "state": "future"
+    },
+    "adrotate.se": {
+        "epoch": 1582329600.0,
+        "expiration_date": "22-feb-2020",
         "state": "future"
     },
     "ads.cc": {
@@ -1214,6 +1229,11 @@
         "expiration_date": "30-apr-2020",
         "state": "future"
     },
+    "jutcom.com": {
+        "epoch": 1570752000.0,
+        "expiration_date": "11-oct-2019",
+        "state": "past"
+    },
     "jwpltx.com": {
         "epoch": 1597363200.0,
         "expiration_date": "14-aug-2020",
@@ -1278,6 +1298,11 @@
         "epoch": 1595808000.0,
         "expiration_date": "27-jul-2020",
         "state": "future"
+    },
+    "medsearch007.com": {
+        "epoch": 1570233600.0,
+        "expiration_date": "05-oct-2019",
+        "state": "past"
     },
     "megapornbucks.com": {
         "epoch": 1594166400.0,
@@ -1872,6 +1897,11 @@
     "zirve100.com": {
         "epoch": 1586995200.0,
         "expiration_date": "16-apr-2020",
+        "state": "future"
+    },
+    "zugosearch.com": {
+        "epoch": 1591920000.0,
+        "expiration_date": "12-jun-2020",
         "state": "future"
     }
 }
