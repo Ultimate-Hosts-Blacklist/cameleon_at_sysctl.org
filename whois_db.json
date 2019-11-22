@@ -219,6 +219,11 @@
         "expiration_date": "14-feb-2020",
         "state": "future"
     },
+    "adbanner.cz": {
+        "epoch": 1571616000.0,
+        "expiration_date": "21-oct-2019",
+        "state": "past"
+    },
     "adbars.com": {
         "epoch": 1602288000.0,
         "expiration_date": "10-oct-2020",
@@ -272,6 +277,11 @@
     "adireland.com": {
         "epoch": 1575849600.0,
         "expiration_date": "09-dec-2019",
+        "state": "future"
+    },
+    "adknowledge.com": {
+        "epoch": 1642291200.0,
+        "expiration_date": "16-jan-2022",
         "state": "future"
     },
     "adlandpro.com": {
@@ -489,6 +499,11 @@
         "expiration_date": "15-nov-2020",
         "state": "future"
     },
+    "amateurspin.com": {
+        "epoch": 1569196800.0,
+        "expiration_date": "23-sep-2019",
+        "state": "past"
+    },
     "amazing-gals.com": {
         "epoch": 1581552000.0,
         "expiration_date": "13-feb-2020",
@@ -612,6 +627,11 @@
     "babylon-x.com": {
         "epoch": 1582761600.0,
         "expiration_date": "27-feb-2020",
+        "state": "future"
+    },
+    "balook.com": {
+        "epoch": 1599091200.0,
+        "expiration_date": "03-sep-2020",
         "state": "future"
     },
     "bannerbank.ru": {
@@ -752,6 +772,11 @@
     "clickcash.com": {
         "epoch": 1600732800.0,
         "expiration_date": "22-sep-2020",
+        "state": "future"
+    },
+    "clickpapa.com": {
+        "epoch": 1583107200.0,
+        "expiration_date": "02-mar-2020",
         "state": "future"
     },
     "clicksor.com": {
@@ -1127,6 +1152,11 @@
     "icentric.net": {
         "epoch": 1591920000.0,
         "expiration_date": "12-jun-2020",
+        "state": "future"
+    },
+    "icracks.net": {
+        "epoch": 1583539200.0,
+        "expiration_date": "07-mar-2020",
         "state": "future"
     },
     "immanalytics.com": {
