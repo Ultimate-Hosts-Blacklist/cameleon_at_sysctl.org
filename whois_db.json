@@ -334,6 +334,11 @@
         "expiration_date": "08-sep-2020",
         "state": "future"
     },
+    "adonlistings.com": {
+        "epoch": 1575331200.0,
+        "expiration_date": "03-dec-2019",
+        "state": "future"
+    },
     "adrotate.se": {
         "epoch": 1582329600.0,
         "expiration_date": "22-feb-2020",
@@ -583,6 +588,11 @@
         "epoch": 1601337600.0,
         "expiration_date": "29-sep-2020",
         "state": "future"
+    },
+    "anti-viruses.net": {
+        "epoch": 1570233600.0,
+        "expiration_date": "05-oct-2019",
+        "state": "past"
     },
     "antispywareupdates.net": {
         "epoch": 1570492800.0,
@@ -1543,6 +1553,11 @@
         "epoch": 1593216000.0,
         "expiration_date": "27-jun-2020",
         "state": "future"
+    },
+    "quickbitsdownloads.com": {
+        "epoch": 1569628800.0,
+        "expiration_date": "28-sep-2019",
+        "state": "past"
     },
     "ranchapptag.com": {
         "epoch": 1575331200.0,
