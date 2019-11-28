@@ -49,6 +49,11 @@
         "expiration_date": "28-may-2020",
         "state": "future"
     },
+    "123counts.com": {
+        "epoch": 1597276800.0,
+        "expiration_date": "13-aug-2020",
+        "state": "future"
+    },
     "123search.com": {
         "epoch": 1606953600.0,
         "expiration_date": "03-dec-2020",
@@ -534,6 +539,11 @@
         "expiration_date": "02-nov-2021",
         "state": "future"
     },
+    "adsfac.net": {
+        "epoch": 1599177600.0,
+        "expiration_date": "04-sep-2020",
+        "state": "future"
+    },
     "adsforindians.com": {
         "epoch": 1577318400.0,
         "expiration_date": "26-dec-2019",
@@ -857,6 +867,11 @@
     "alfa-search.com": {
         "epoch": 1581379200.0,
         "expiration_date": "11-feb-2020",
+        "state": "future"
+    },
+    "allcontents.biz": {
+        "epoch": 1602460800.0,
+        "expiration_date": "12-oct-2020",
         "state": "future"
     },
     "allfree.com": {
@@ -1694,6 +1709,11 @@
         "expiration_date": "26-jan-2020",
         "state": "future"
     },
+    "ems2bmen.com": {
+        "epoch": 1580860800.0,
+        "expiration_date": "05-feb-2020",
+        "state": "future"
+    },
     "enhance.com": {
         "epoch": 1724284800.0,
         "expiration_date": "22-aug-2024",
@@ -2044,6 +2064,11 @@
         "expiration_date": "14-jan-2020",
         "state": "future"
     },
+    "intermediaceli.com": {
+        "epoch": 1598140800.0,
+        "expiration_date": "23-aug-2020",
+        "state": "future"
+    },
     "intrastats.com": {
         "epoch": 1583452800.0,
         "expiration_date": "06-mar-2020",
@@ -2107,6 +2132,11 @@
     "kiwialpha.com": {
         "epoch": 1586044800.0,
         "expiration_date": "05-apr-2020",
+        "state": "future"
+    },
+    "kjdhendieldiouyu.com": {
+        "epoch": 1584403200.0,
+        "expiration_date": "17-mar-2020",
         "state": "future"
     },
     "klikbonus.com": {
@@ -3107,6 +3137,11 @@
     "zr0.net": {
         "epoch": 1591315200.0,
         "expiration_date": "05-jun-2020",
+        "state": "future"
+    },
+    "zugosearch.com": {
+        "epoch": 1591920000.0,
+        "expiration_date": "12-jun-2020",
         "state": "future"
     }
 }
