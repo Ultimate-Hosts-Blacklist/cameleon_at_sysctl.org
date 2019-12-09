@@ -9464,6 +9464,11 @@
         "expiration_date": "06-nov-2021",
         "state": "future"
     },
+    "geoworldonline.com": {
+        "epoch": 1569110400.0,
+        "expiration_date": "22-sep-2019",
+        "state": "past"
+    },
     "gernewt.info": {
         "epoch": 1606694400.0,
         "expiration_date": "30-nov-2020",
@@ -13884,6 +13889,11 @@
         "expiration_date": "07-oct-2019",
         "state": "past"
     },
+    "spywarenuker.com": {
+        "epoch": 1598659200.0,
+        "expiration_date": "29-aug-2020",
+        "state": "future"
+    },
     "spywarescrapper.com": {
         "epoch": 1605225600.0,
         "expiration_date": "13-nov-2020",
@@ -14072,6 +14082,11 @@
     "supersonicads.com": {
         "epoch": 1579046400.0,
         "expiration_date": "15-jan-2020",
+        "state": "future"
+    },
+    "superstat.info": {
+        "epoch": 1603670400.0,
+        "expiration_date": "26-oct-2020",
         "state": "future"
     },
     "supremeadserver.com": {
