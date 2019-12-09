@@ -2709,6 +2709,11 @@
         "expiration_date": "04-mar-2020",
         "state": "future"
     },
+    "adservtech.com": {
+        "epoch": 1635811200.0,
+        "expiration_date": "02-nov-2021",
+        "state": "future"
+    },
     "adsfac.net": {
         "epoch": 1599177600.0,
         "expiration_date": "04-sep-2020",
@@ -14493,6 +14498,11 @@
         "epoch": 1602547200.0,
         "expiration_date": "13-oct-2020",
         "state": "future"
+    },
+    "top99.ro": {
+        "epoch": 1570406400.0,
+        "expiration_date": "07-oct-2019",
+        "state": "past"
     },
     "topadult.ro": {
         "epoch": 1601683200.0,
