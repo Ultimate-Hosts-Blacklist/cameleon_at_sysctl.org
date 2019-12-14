@@ -19,6 +19,11 @@
         "expiration_date": "05-feb-2020",
         "state": "future"
     },
+    "0xsearch.com": {
+        "epoch": 1607126400.0,
+        "expiration_date": "05-dec-2020",
+        "state": "future"
+    },
     "11alivenews.com": {
         "epoch": 1613606400.0,
         "expiration_date": "18-feb-2021",
@@ -144,6 +149,11 @@
         "expiration_date": "14-feb-2020",
         "state": "future"
     },
+    "adbanner.cz": {
+        "epoch": 1571616000.0,
+        "expiration_date": "21-oct-2019",
+        "state": "past"
+    },
     "adbars.com": {
         "epoch": 1602288000.0,
         "expiration_date": "10-oct-2020",
@@ -264,6 +274,11 @@
         "expiration_date": "05-mar-2020",
         "state": "future"
     },
+    "adtarget.ro": {
+        "epoch": 1606521600.0,
+        "expiration_date": "28-nov-2020",
+        "state": "future"
+    },
     "adtrader.com": {
         "epoch": 1601856000.0,
         "expiration_date": "05-oct-2020",
@@ -342,6 +357,11 @@
     "advertising.dk": {
         "epoch": 1588204800.0,
         "expiration_date": "30-apr-2020",
+        "state": "future"
+    },
+    "advertjunction.com": {
+        "epoch": 1607472000.0,
+        "expiration_date": "09-dec-2020",
         "state": "future"
     },
     "advertstats.com": {
