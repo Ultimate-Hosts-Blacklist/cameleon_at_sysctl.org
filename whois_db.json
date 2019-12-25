@@ -1654,6 +1654,11 @@
         "expiration_date": "17-jun-2020",
         "state": "future"
     },
+    "am15.net": {
+        "epoch": 1605398400.0,
+        "expiration_date": "15-nov-2020",
+        "state": "future"
+    },
     "amaritrade.com": {
         "epoch": 1624579200.0,
         "expiration_date": "25-jun-2021",
@@ -4844,6 +4849,11 @@
         "expiration_date": "24-nov-2020",
         "state": "future"
     },
+    "special-movies.com": {
+        "epoch": 1596844800.0,
+        "expiration_date": "08-aug-2020",
+        "state": "future"
+    },
     "sphere.com": {
         "epoch": 1637280000.0,
         "expiration_date": "19-nov-2021",
@@ -5177,6 +5187,11 @@
     "trk365.com": {
         "epoch": 1595203200.0,
         "expiration_date": "20-jul-2020",
+        "state": "future"
+    },
+    "truesuite.com": {
+        "epoch": 1626393600.0,
+        "expiration_date": "16-jul-2021",
         "state": "future"
     },
     "trusteddrugstore.com": {
