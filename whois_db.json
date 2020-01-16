@@ -2949,6 +2949,11 @@
         "expiration_date": "06-feb-2020",
         "state": "future"
     },
+    "adszooks.com": {
+        "epoch": 1583366400.0,
+        "expiration_date": "05-mar-2020",
+        "state": "future"
+    },
     "adtactics.com": {
         "epoch": 1588377600.0,
         "expiration_date": "02-may-2020",
@@ -11334,6 +11339,11 @@
         "expiration_date": "12-mar-2020",
         "state": "future"
     },
+    "myclickbankads.com": {
+        "epoch": 1573516800.0,
+        "expiration_date": "12-nov-2019",
+        "state": "past"
+    },
     "mycpvlife.com": {
         "epoch": 1583971200.0,
         "expiration_date": "12-mar-2020",
@@ -13344,6 +13354,11 @@
         "expiration_date": "16-mar-2021",
         "state": "future"
     },
+    "secure-processingcenter.com": {
+        "epoch": 1572825600.0,
+        "expiration_date": "04-nov-2019",
+        "state": "past"
+    },
     "securepaths.com": {
         "epoch": 1597622400.0,
         "expiration_date": "17-aug-2020",
@@ -15104,6 +15119,11 @@
         "expiration_date": "15-may-2021",
         "state": "future"
     },
+    "vaultsappsbyte.com": {
+        "epoch": 1575936000.0,
+        "expiration_date": "10-dec-2019",
+        "state": "past"
+    },
     "vclicks.net": {
         "epoch": 1598054400.0,
         "expiration_date": "22-aug-2020",
@@ -15823,6 +15843,11 @@
         "epoch": 1586304000.0,
         "expiration_date": "08-apr-2020",
         "state": "future"
+    },
+    "yfdmedia.com": {
+        "epoch": 1572307200.0,
+        "expiration_date": "29-oct-2019",
+        "state": "past"
     },
     "yidsense.com": {
         "epoch": 1589500800.0,
