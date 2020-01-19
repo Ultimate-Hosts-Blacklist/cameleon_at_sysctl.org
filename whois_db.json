@@ -11629,6 +11629,11 @@
         "expiration_date": "27-dec-2020",
         "state": "future"
     },
+    "nedstat.com": {
+        "epoch": 1589846400.0,
+        "expiration_date": "19-may-2020",
+        "state": "future"
+    },
     "nedstat.net": {
         "epoch": 1591142400.0,
         "expiration_date": "03-jun-2020",
@@ -12357,6 +12362,11 @@
     "pixel.watch": {
         "epoch": 1600387200.0,
         "expiration_date": "18-sep-2020",
+        "state": "future"
+    },
+    "pixelpmm.info": {
+        "epoch": 1586736000.0,
+        "expiration_date": "13-apr-2020",
         "state": "future"
     },
     "pixxur.com": {
