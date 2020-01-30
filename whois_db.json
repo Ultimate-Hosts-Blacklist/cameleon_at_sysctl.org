@@ -5669,6 +5669,11 @@
         "expiration_date": "02-nov-2020",
         "state": "future"
     },
+    "bannertracker-script.com": {
+        "epoch": 1611619200.0,
+        "expiration_date": "26-jan-2021",
+        "state": "future"
+    },
     "bardiscover.com": {
         "epoch": 1597276800.0,
         "expiration_date": "13-aug-2020",
@@ -10599,6 +10604,11 @@
         "expiration_date": "18-mar-2024",
         "state": "future"
     },
+    "kompass-intl.com": {
+        "epoch": 1586649600.0,
+        "expiration_date": "12-apr-2020",
+        "state": "future"
+    },
     "kontera.com": {
         "epoch": 1761177600.0,
         "expiration_date": "23-oct-2025",
@@ -14532,6 +14542,11 @@
     "top90.ro": {
         "epoch": 1602547200.0,
         "expiration_date": "13-oct-2020",
+        "state": "future"
+    },
+    "top99.ro": {
+        "epoch": 1601942400.0,
+        "expiration_date": "06-oct-2020",
         "state": "future"
     },
     "topadult.ro": {
