@@ -9754,6 +9754,11 @@
         "expiration_date": "08-aug-2025",
         "state": "future"
     },
+    "gxplugin.com": {
+        "epoch": 1590710400.0,
+        "expiration_date": "29-may-2020",
+        "state": "future"
+    },
     "handyarchive.com": {
         "epoch": 1587427200.0,
         "expiration_date": "21-apr-2020",
@@ -12809,6 +12814,11 @@
         "expiration_date": "14-nov-2020",
         "state": "future"
     },
+    "ranchapptag.com": {
+        "epoch": 1575331200.0,
+        "expiration_date": "03-dec-2019",
+        "state": "past"
+    },
     "random-logic.com": {
         "epoch": 1639440000.0,
         "expiration_date": "14-dec-2021",
@@ -14555,9 +14565,9 @@
         "state": "future"
     },
     "topdate.net": {
-        "epoch": 1572912000.0,
-        "expiration_date": "05-nov-2019",
-        "state": "past"
+        "epoch": 1611360000.0,
+        "expiration_date": "23-jan-2021",
+        "state": "future"
     },
     "topeuro.biz": {
         "epoch": 1615507200.0,
