@@ -609,6 +609,11 @@
         "expiration_date": "09-jul-2021",
         "state": "future"
     },
+    "experteerads.com": {
+        "epoch": 1595980800.0,
+        "expiration_date": "29-jul-2020",
+        "state": "future"
+    },
     "fastfind.org": {
         "epoch": 1651449600.0,
         "expiration_date": "02-may-2022",
@@ -933,6 +938,11 @@
         "epoch": 1604275200.0,
         "expiration_date": "02-nov-2020",
         "state": "future"
+    },
+    "searchclickads.net": {
+        "epoch": 1575504000.0,
+        "expiration_date": "05-dec-2019",
+        "state": "past"
     },
     "searchforit.com": {
         "epoch": 1588723200.0,
