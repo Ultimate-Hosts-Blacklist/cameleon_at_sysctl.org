@@ -134,6 +134,11 @@
         "expiration_date": "09-jun-2021",
         "state": "future"
     },
+    "aconti.net": {
+        "epoch": 1602806400.0,
+        "expiration_date": "16-oct-2020",
+        "state": "future"
+    },
     "ad-delivery.net": {
         "epoch": 1588464000.0,
         "expiration_date": "03-may-2020",
@@ -564,6 +569,11 @@
         "expiration_date": "05-feb-2020",
         "state": "future"
     },
+    "exitexchange.com": {
+        "epoch": 1625788800.0,
+        "expiration_date": "09-jul-2021",
+        "state": "future"
+    },
     "fastfind.org": {
         "epoch": 1651449600.0,
         "expiration_date": "02-may-2022",
@@ -772,6 +782,11 @@
     "nedstat.net": {
         "epoch": 1591142400.0,
         "expiration_date": "03-jun-2020",
+        "state": "future"
+    },
+    "ninjadollars.com": {
+        "epoch": 1597276800.0,
+        "expiration_date": "13-aug-2020",
         "state": "future"
     },
     "nxtck.com": {
