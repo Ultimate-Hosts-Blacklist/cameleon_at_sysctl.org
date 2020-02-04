@@ -99,6 +99,11 @@
         "expiration_date": "05-feb-2020",
         "state": "future"
     },
+    "900quickcash.com": {
+        "epoch": 1594339200.0,
+        "expiration_date": "10-jul-2020",
+        "state": "future"
+    },
     "94uyvwwh.com": {
         "epoch": 1580860800.0,
         "expiration_date": "05-feb-2020",
@@ -534,6 +539,11 @@
         "expiration_date": "09-feb-2020",
         "state": "future"
     },
+    "dreamad.org": {
+        "epoch": 1611446400.0,
+        "expiration_date": "24-jan-2021",
+        "state": "future"
+    },
     "dreamlands.net": {
         "epoch": 1591228800.0,
         "expiration_date": "04-jun-2020",
@@ -667,7 +677,7 @@
     "hot2015rewards.com": {
         "epoch": 1580688000.0,
         "expiration_date": "03-feb-2020",
-        "state": "future"
+        "state": "past"
     },
     "icentric.net": {
         "epoch": 1591920000.0,
@@ -768,6 +778,11 @@
         "epoch": 1575936000.0,
         "expiration_date": "10-dec-2019",
         "state": "past"
+    },
+    "medsearch007.com": {
+        "epoch": 1612310400.0,
+        "expiration_date": "03-feb-2021",
+        "state": "future"
     },
     "mftracking.com": {
         "epoch": 1595376000.0,
