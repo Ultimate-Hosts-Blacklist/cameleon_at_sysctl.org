@@ -1,32 +1,23 @@
 {
-    "current_stats": {
-        "builds": 31,
-        "counter": {
-            "down": 2452,
-            "invalid": 0,
-            "tested": 23712,
-            "up": 21260
-        }
-    },
-    "currently_under_test": "1",
+    "currently_under_test": "0",
     "days_until_next_test": 2,
-    "end_datetime": "Wed Feb  5 08:11:19 2020",
-    "end_epoch": 1580890279.658838,
+    "end_datetime": "Sun Feb  9 06:36:03 2020",
+    "end_epoch": 1581230163.976513,
     "last_autosave_datetime": "Sun Feb  9 06:11:57 2020",
     "last_autosave_epoch": 1581228717.792307,
     "name": "cameleon_at_sysctl.org",
     "previous_stats": {
-        "builds": 150,
-        "clean.list": 21461,
+        "builds": 32,
+        "clean.list": 21433,
         "counter": {
-            "down": 2450,
+            "down": 2464,
             "invalid": 0,
-            "tested": 23911,
-            "up": 21461
+            "tested": 23897,
+            "up": 21433
         },
-        "domains.list": 23911,
-        "volatile.list": 21885,
-        "whitelisted.list": 21457
+        "domains.list": 23897,
+        "volatile.list": 21857,
+        "whitelisted.list": 21429
     },
     "raw_link": "http://sysctl.org/cameleon/hosts",
     "start_datetime": "Thu Feb  6 18:41:39 2020",
