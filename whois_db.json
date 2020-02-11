@@ -2199,6 +2199,11 @@
         "expiration_date": "18-dec-2020",
         "state": "future"
     },
+    "adireland.com": {
+        "epoch": 1607472000.0,
+        "expiration_date": "09-dec-2020",
+        "state": "future"
+    },
     "adition.net": {
         "epoch": 1595030400.0,
         "expiration_date": "18-jul-2020",
@@ -7204,6 +7209,11 @@
         "expiration_date": "21-feb-2020",
         "state": "future"
     },
+    "cnstats.com": {
+        "epoch": 1610841600.0,
+        "expiration_date": "17-jan-2021",
+        "state": "future"
+    },
     "co2stats.com": {
         "epoch": 1600819200.0,
         "expiration_date": "23-sep-2020",
@@ -8412,6 +8422,11 @@
     "effectivemeasure.net": {
         "epoch": 1596758400.0,
         "expiration_date": "07-aug-2020",
+        "state": "future"
+    },
+    "efficienttraffic.com": {
+        "epoch": 1597449600.0,
+        "expiration_date": "15-aug-2020",
         "state": "future"
     },
     "efront.com": {
@@ -11569,6 +11584,11 @@
         "expiration_date": "26-apr-2020",
         "state": "future"
     },
+    "nedstat.co.uk": {
+        "epoch": 1609027200.0,
+        "expiration_date": "27-dec-2020",
+        "state": "future"
+    },
     "nedstat.com": {
         "epoch": 1589846400.0,
         "expiration_date": "19-may-2020",
@@ -12932,6 +12952,11 @@
     "registryfix.com": {
         "epoch": 1588377600.0,
         "expiration_date": "02-may-2020",
+        "state": "future"
+    },
+    "registrygenius.com": {
+        "epoch": 1609372800.0,
+        "expiration_date": "31-dec-2020",
         "state": "future"
     },
     "registrysweeper.com": {
