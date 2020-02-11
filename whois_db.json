@@ -4444,6 +4444,11 @@
         "expiration_date": "27-jan-2021",
         "state": "future"
     },
+    "alphanetmarketing.com": {
+        "epoch": 1577318400.0,
+        "expiration_date": "26-dec-2019",
+        "state": "past"
+    },
     "alphawipe.com": {
         "epoch": 1581811200.0,
         "expiration_date": "16-feb-2020",
@@ -8932,6 +8937,11 @@
     "findfavour.com": {
         "epoch": 1581724800.0,
         "expiration_date": "15-feb-2020",
+        "state": "future"
+    },
+    "findit-quick.com": {
+        "epoch": 1584057600.0,
+        "expiration_date": "13-mar-2020",
         "state": "future"
     },
     "findler.info": {
@@ -14492,6 +14502,11 @@
     "top90.ro": {
         "epoch": 1602547200.0,
         "expiration_date": "13-oct-2020",
+        "state": "future"
+    },
+    "top99.ro": {
+        "epoch": 1601942400.0,
+        "expiration_date": "06-oct-2020",
         "state": "future"
     },
     "topadult.ro": {
