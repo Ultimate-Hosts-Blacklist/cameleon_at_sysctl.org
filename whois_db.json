@@ -2374,6 +2374,11 @@
         "expiration_date": "08-sep-2020",
         "state": "future"
     },
+    "adnuker.com": {
+        "epoch": 1604966400.0,
+        "expiration_date": "10-nov-2020",
+        "state": "future"
+    },
     "adocean-lt.lt": {
         "epoch": 1590537600.0,
         "expiration_date": "27-may-2020",
@@ -11907,7 +11912,7 @@
     "onlineadserv.com": {
         "epoch": 1581552000.0,
         "expiration_date": "13-feb-2020",
-        "state": "future"
+        "state": "past"
     },
     "onlinerewardsclub.com": {
         "epoch": 1583193600.0,
