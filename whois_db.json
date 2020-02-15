@@ -2554,6 +2554,11 @@
         "expiration_date": "06-feb-2021",
         "state": "future"
     },
+    "adszooks.com": {
+        "epoch": 1583366400.0,
+        "expiration_date": "05-mar-2020",
+        "state": "future"
+    },
     "adtactics.com": {
         "epoch": 1588377600.0,
         "expiration_date": "02-may-2020",
@@ -6534,6 +6539,11 @@
         "expiration_date": "21-oct-2020",
         "state": "future"
     },
+    "cpmtrafficker.com": {
+        "epoch": 1577836800.0,
+        "expiration_date": "01-jan-2020",
+        "state": "past"
+    },
     "cpx24.com": {
         "epoch": 1592524800.0,
         "expiration_date": "19-jun-2020",
@@ -7767,6 +7777,11 @@
     "findfavour.com": {
         "epoch": 1581724800.0,
         "expiration_date": "15-feb-2020",
+        "state": "future"
+    },
+    "findit-quick.com": {
+        "epoch": 1584057600.0,
+        "expiration_date": "13-mar-2020",
         "state": "future"
     },
     "findler.info": {
