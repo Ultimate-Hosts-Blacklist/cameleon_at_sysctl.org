@@ -7344,6 +7344,11 @@
         "expiration_date": "10-apr-2020",
         "state": "future"
     },
+    "contentwidgets.net": {
+        "epoch": 1601078400.0,
+        "expiration_date": "26-sep-2020",
+        "state": "future"
+    },
     "contextuads.com": {
         "epoch": 1640822400.0,
         "expiration_date": "30-dec-2021",
@@ -8932,6 +8937,11 @@
     "fbgdc.com": {
         "epoch": 1612051200.0,
         "expiration_date": "31-jan-2021",
+        "state": "future"
+    },
+    "feedjit.com": {
+        "epoch": 1696550400.0,
+        "expiration_date": "06-oct-2023",
         "state": "future"
     },
     "feisearch.com": {
@@ -13269,6 +13279,11 @@
         "expiration_date": "22-dec-2020",
         "state": "future"
     },
+    "s4le.net": {
+        "epoch": 1603238400.0,
+        "expiration_date": "21-oct-2020",
+        "state": "future"
+    },
     "sacredphoenix.com": {
         "epoch": 1585353600.0,
         "expiration_date": "28-mar-2020",
@@ -14744,6 +14759,11 @@
         "expiration_date": "03-aug-2020",
         "state": "future"
     },
+    "toroadvertisingmedia.com": {
+        "epoch": 1584489600.0,
+        "expiration_date": "18-mar-2020",
+        "state": "future"
+    },
     "tororango.com": {
         "epoch": 1610409600.0,
         "expiration_date": "12-jan-2021",
@@ -16120,9 +16140,9 @@
         "state": "future"
     },
     "yuzt.com": {
-        "epoch": 1582329600.0,
-        "expiration_date": "22-feb-2020",
-        "state": "past"
+        "epoch": 1613952000.0,
+        "expiration_date": "22-feb-2021",
+        "state": "future"
     },
     "yvmads.com": {
         "epoch": 1589414400.0,
