@@ -2204,6 +2204,11 @@
         "expiration_date": "08-mar-2020",
         "state": "future"
     },
+    "adinterax.com": {
+        "epoch": 1611360000.0,
+        "expiration_date": "23-jan-2021",
+        "state": "future"
+    },
     "adipics.com": {
         "epoch": 1608249600.0,
         "expiration_date": "18-dec-2020",
@@ -6314,6 +6319,11 @@
         "expiration_date": "01-jun-2020",
         "state": "future"
     },
+    "bottomdollar.com": {
+        "epoch": 1625270400.0,
+        "expiration_date": "03-jul-2021",
+        "state": "future"
+    },
     "bounceexchange.com": {
         "epoch": 1806710400.0,
         "expiration_date": "03-apr-2027",
@@ -10390,8 +10400,8 @@
         "state": "future"
     },
     "internetwasher.com": {
-        "epoch": 1582502400.0,
-        "expiration_date": "24-feb-2020",
+        "epoch": 1614124800.0,
+        "expiration_date": "24-feb-2021",
         "state": "future"
     },
     "intrastats.com": {
@@ -15212,6 +15222,11 @@
     "ultimatetopsites.com": {
         "epoch": 1616457600.0,
         "expiration_date": "23-mar-2021",
+        "state": "future"
+    },
+    "umaxlogin.com": {
+        "epoch": 1606521600.0,
+        "expiration_date": "28-nov-2020",
         "state": "future"
     },
     "undertonenetworks.com": {
