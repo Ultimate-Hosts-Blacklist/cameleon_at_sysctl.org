@@ -1570,8 +1570,8 @@
         "state": "future"
     },
     "activeboard.com": {
-        "epoch": 1582502400.0,
-        "expiration_date": "24-feb-2020",
+        "epoch": 1614124800.0,
+        "expiration_date": "24-feb-2021",
         "state": "future"
     },
     "activebuddy.com": {
@@ -5082,6 +5082,11 @@
     "antivirusgolden.com": {
         "epoch": 1634169600.0,
         "expiration_date": "14-oct-2021",
+        "state": "future"
+    },
+    "antivirusnorton.com": {
+        "epoch": 1595808000.0,
+        "expiration_date": "27-jul-2020",
         "state": "future"
     },
     "antiviruspcsuite.com": {
