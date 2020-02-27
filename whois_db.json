@@ -13404,6 +13404,11 @@
         "expiration_date": "16-nov-2020",
         "state": "future"
     },
+    "searchdiscovered.com": {
+        "epoch": 1616112000.0,
+        "expiration_date": "19-mar-2021",
+        "state": "future"
+    },
     "searchent.net": {
         "epoch": 1609027200.0,
         "expiration_date": "27-dec-2020",
@@ -14395,9 +14400,9 @@
         "state": "future"
     },
     "tdstats.com": {
-        "epoch": 1582329600.0,
-        "expiration_date": "22-feb-2020",
-        "state": "past"
+        "epoch": 1613952000.0,
+        "expiration_date": "22-feb-2021",
+        "state": "future"
     },
     "teenbookmark.com": {
         "epoch": 1598140800.0,
