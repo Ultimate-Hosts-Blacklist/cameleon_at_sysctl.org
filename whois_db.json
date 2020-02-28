@@ -8927,7 +8927,7 @@
     "famut.com": {
         "epoch": 1582848000.0,
         "expiration_date": "28-feb-2020",
-        "state": "future"
+        "state": "past"
     },
     "fast-adv.it": {
         "epoch": 1585094400.0,
@@ -12320,8 +12320,8 @@
         "state": "future"
     },
     "pdf-platinum.info": {
-        "epoch": 1582588800.0,
-        "expiration_date": "25-feb-2020",
+        "epoch": 1614211200.0,
+        "expiration_date": "25-feb-2021",
         "state": "future"
     },
     "peakclick.com": {
