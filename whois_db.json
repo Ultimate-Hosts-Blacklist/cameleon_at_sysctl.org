@@ -1667,7 +1667,7 @@
     "ad-groups.com": {
         "epoch": 1582848000.0,
         "expiration_date": "28-feb-2020",
-        "state": "future"
+        "state": "past"
     },
     "ad-logics.com": {
         "epoch": 1578096000.0,
@@ -4114,6 +4114,11 @@
         "expiration_date": "28-nov-2020",
         "state": "future"
     },
+    "aircanad.com": {
+        "epoch": 1606003200.0,
+        "expiration_date": "22-nov-2020",
+        "state": "future"
+    },
     "aircanadaca.com": {
         "epoch": 1693094400.0,
         "expiration_date": "27-aug-2023",
@@ -5692,6 +5697,11 @@
     "bannersgomlm.com": {
         "epoch": 1612483200.0,
         "expiration_date": "05-feb-2021",
+        "state": "future"
+    },
+    "bannersolutions.com": {
+        "epoch": 1616803200.0,
+        "expiration_date": "27-mar-2021",
         "state": "future"
     },
     "bannerspace.com": {
@@ -7670,9 +7680,9 @@
         "state": "future"
     },
     "creoads.com": {
-        "epoch": 1575676800.0,
-        "expiration_date": "07-dec-2019",
-        "state": "past"
+        "epoch": 1614297600.0,
+        "expiration_date": "26-feb-2021",
+        "state": "future"
     },
     "crispads.com": {
         "epoch": 1608508800.0,
@@ -14412,6 +14422,11 @@
     "targeted-banners.com": {
         "epoch": 1594771200.0,
         "expiration_date": "15-jul-2020",
+        "state": "future"
+    },
+    "targetingnow.com": {
+        "epoch": 1588464000.0,
+        "expiration_date": "03-may-2020",
         "state": "future"
     },
     "tat-neftbank.ru": {
