@@ -19,6 +19,11 @@
         "expiration_date": "17-jul-2020",
         "state": "future"
     },
+    "1000stars.ru": {
+        "epoch": 1591488000.0,
+        "expiration_date": "07-jun-2020",
+        "state": "future"
+    },
     "101malls.com": {
         "epoch": 1577404800.0,
         "expiration_date": "27-dec-2019",
@@ -143,6 +148,11 @@
         "epoch": 1578096000.0,
         "expiration_date": "04-jan-2020",
         "state": "past"
+    },
+    "ad-maker.net": {
+        "epoch": 1599004800.0,
+        "expiration_date": "02-sep-2020",
+        "state": "future"
     },
     "ad4ever.com": {
         "epoch": 1579910400.0,
@@ -592,6 +602,11 @@
     "eosads.com": {
         "epoch": 1612137600.0,
         "expiration_date": "01-feb-2021",
+        "state": "future"
+    },
+    "exitexchange.com": {
+        "epoch": 1625788800.0,
+        "expiration_date": "09-jul-2021",
         "state": "future"
     },
     "experteerads.com": {
