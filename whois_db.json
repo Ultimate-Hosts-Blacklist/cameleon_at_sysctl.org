@@ -1364,6 +1364,11 @@
         "expiration_date": "25-jul-2020",
         "state": "future"
     },
+    "absolut-series.com": {
+        "epoch": 1608595200.0,
+        "expiration_date": "22-dec-2020",
+        "state": "future"
+    },
     "absolutefreesmut.com": {
         "epoch": 1592697600.0,
         "expiration_date": "21-jun-2020",
@@ -1384,9 +1389,24 @@
         "expiration_date": "01-feb-2020",
         "state": "past"
     },
+    "abz.com": {
+        "epoch": 1613865600.0,
+        "expiration_date": "21-feb-2021",
+        "state": "future"
+    },
+    "acbnews.com": {
+        "epoch": 1629158400.0,
+        "expiration_date": "17-aug-2021",
+        "state": "future"
+    },
     "accelerationsw.com": {
         "epoch": 1594339200.0,
         "expiration_date": "10-jul-2020",
+        "state": "future"
+    },
+    "accerispartners.com": {
+        "epoch": 1609977600.0,
+        "expiration_date": "07-jan-2021",
         "state": "future"
     },
     "acces-direct.net": {
@@ -1402,6 +1422,11 @@
     "accesorapido.com": {
         "epoch": 1590710400.0,
         "expiration_date": "29-may-2020",
+        "state": "future"
+    },
+    "access-free.com": {
+        "epoch": 1590796800.0,
+        "expiration_date": "30-may-2020",
         "state": "future"
     },
     "accessoryad.com": {
@@ -1422,6 +1447,11 @@
     "ace-webmaster.com": {
         "epoch": 1593561600.0,
         "expiration_date": "01-jul-2020",
+        "state": "future"
+    },
+    "acegates.com": {
+        "epoch": 1604361600.0,
+        "expiration_date": "03-nov-2020",
         "state": "future"
     },
     "acegroup.net": {
@@ -1449,6 +1479,11 @@
         "expiration_date": "04-nov-2020",
         "state": "future"
     },
+    "achapeloflove.com": {
+        "epoch": 1601424000.0,
+        "expiration_date": "30-sep-2020",
+        "state": "future"
+    },
     "achmedia.com": {
         "epoch": 1606176000.0,
         "expiration_date": "24-nov-2020",
@@ -1457,6 +1492,16 @@
     "achtungachtung.com": {
         "epoch": 1604275200.0,
         "expiration_date": "02-nov-2020",
+        "state": "future"
+    },
+    "acim.com": {
+        "epoch": 1596585600.0,
+        "expiration_date": "05-aug-2020",
+        "state": "future"
+    },
+    "acjp.com": {
+        "epoch": 1605052800.0,
+        "expiration_date": "11-nov-2020",
         "state": "future"
     },
     "aclickads.com": {
@@ -1484,6 +1529,11 @@
         "expiration_date": "09-mar-2022",
         "state": "future"
     },
+    "activeboard.com": {
+        "epoch": 1614124800.0,
+        "expiration_date": "24-feb-2021",
+        "state": "future"
+    },
     "activebuddy.com": {
         "epoch": 1609977600.0,
         "expiration_date": "07-jan-2021",
@@ -1494,14 +1544,39 @@
         "expiration_date": "09-nov-2020",
         "state": "future"
     },
+    "activexmediaobject.com": {
+        "epoch": 1612742400.0,
+        "expiration_date": "08-feb-2021",
+        "state": "future"
+    },
     "activexupdate.com": {
         "epoch": 1602028800.0,
         "expiration_date": "07-oct-2020",
         "state": "future"
     },
+    "activityrecorder.com": {
+        "epoch": 1587081600.0,
+        "expiration_date": "17-apr-2020",
+        "state": "future"
+    },
     "actressmodels.com": {
         "epoch": 1607126400.0,
         "expiration_date": "05-dec-2020",
+        "state": "future"
+    },
+    "actualnames.com": {
+        "epoch": 1612396800.0,
+        "expiration_date": "04-feb-2021",
+        "state": "future"
+    },
+    "actualresearch.com": {
+        "epoch": 1586304000.0,
+        "expiration_date": "08-apr-2020",
+        "state": "future"
+    },
+    "actualsearch.com": {
+        "epoch": 1586390400.0,
+        "expiration_date": "09-apr-2020",
         "state": "future"
     },
     "actvtrack.com": {
@@ -1524,9 +1599,24 @@
         "expiration_date": "06-aug-2020",
         "state": "future"
     },
+    "ad-annex.com": {
+        "epoch": 1605225600.0,
+        "expiration_date": "13-nov-2020",
+        "state": "future"
+    },
+    "ad-blaster.com": {
+        "epoch": 1587600000.0,
+        "expiration_date": "23-apr-2020",
+        "state": "future"
+    },
     "ad-delivery.net": {
         "epoch": 1588464000.0,
         "expiration_date": "03-may-2020",
+        "state": "future"
+    },
+    "ad-eliminator.com": {
+        "epoch": 1605139200.0,
+        "expiration_date": "12-nov-2020",
         "state": "future"
     },
     "ad-flow.com": {
@@ -1552,6 +1642,11 @@
     "ad-rotator.com": {
         "epoch": 1814054400.0,
         "expiration_date": "27-jun-2027",
+        "state": "future"
+    },
+    "ad-serve.net": {
+        "epoch": 1591833600.0,
+        "expiration_date": "11-jun-2020",
         "state": "future"
     },
     "ad-space.net": {
