@@ -827,7 +827,7 @@
     "4ur.click": {
         "epoch": 1583280000.0,
         "expiration_date": "04-mar-2020",
-        "state": "future"
+        "state": "past"
     },
     "4wav.com": {
         "epoch": 1621036800.0,
@@ -897,7 +897,7 @@
     "5starvideos.com": {
         "epoch": 1583280000.0,
         "expiration_date": "04-mar-2020",
-        "state": "future"
+        "state": "past"
     },
     "60pictures.com": {
         "epoch": 1598832000.0,
