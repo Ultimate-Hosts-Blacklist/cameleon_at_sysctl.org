@@ -1,6 +1,6 @@
 {
     "current_stats": {
-        "builds": 252,
+        "builds": 253,
         "counter": {
             "down": 0,
             "invalid": 0,
@@ -15,10 +15,13 @@
     },
     "currently_under_test": true,
     "days_until_next_test": 2,
+    "description": "CAMELEON is a free system that helps Internet users or administrators to blocks web-adverts.",
     "end_datetime": "2020-03-03T15:45:16.181321",
     "end_epoch": 1583080271.527337,
+    "issue_link": "mailto://philippe@sysctl.org",
     "last_autosave_datetime": "2020-03-03T15:45:16.181338",
     "last_autosave_epoch": 1583246016.212879,
+    "link": "http://sysctl.org/cameleon/",
     "name": "cameleon_at_sysctl.org",
     "previous_stats": {
         "builds": 35,
@@ -35,9 +38,6 @@
         "whitelisted.list": 21411
     },
     "raw_link": "http://sysctl.org/cameleon/hosts",
-    "link": "http://sysctl.org/cameleon/",
-    "issue_link": "mailto://philippe@sysctl.org",
-    "description": "CAMELEON is a free system that helps Internet users or administrators to blocks web-adverts.",
     "start_datetime": "2020-03-03T15:45:16.186024",
     "start_epoch": 1583176226.460188
 }
