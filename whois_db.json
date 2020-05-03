@@ -187,7 +187,7 @@
     "103bees.com": {
         "epoch": 1588464000.0,
         "expiration_date": "03-may-2020",
-        "state": "future"
+        "state": "past"
     },
     "11alivenews.com": {
         "epoch": 1613606400.0,
@@ -4184,6 +4184,11 @@
         "expiration_date": "05-mar-2021",
         "state": "future"
     },
+    "allabtcars.com": {
+        "epoch": 1599264000.0,
+        "expiration_date": "05-sep-2020",
+        "state": "future"
+    },
     "alladvantage.com": {
         "epoch": 1614297600.0,
         "expiration_date": "26-feb-2021",
@@ -6469,6 +6474,16 @@
         "expiration_date": "02-jun-2021",
         "state": "future"
     },
+    "cbproads.com": {
+        "epoch": 1618099200.0,
+        "expiration_date": "11-apr-2021",
+        "state": "future"
+    },
+    "cc2cc.biz": {
+        "epoch": 1617148800.0,
+        "expiration_date": "31-mar-2021",
+        "state": "future"
+    },
     "ccbill.com": {
         "epoch": 1586736000.0,
         "expiration_date": "13-apr-2020",
@@ -8509,6 +8524,11 @@
         "expiration_date": "04-jun-2020",
         "state": "future"
     },
+    "favicon.com": {
+        "epoch": 1619136000.0,
+        "expiration_date": "23-apr-2021",
+        "state": "future"
+    },
     "fbgdc.com": {
         "epoch": 1612051200.0,
         "expiration_date": "31-jan-2021",
@@ -9262,6 +9282,11 @@
     "gothamistllc.com": {
         "epoch": 1614124800.0,
         "expiration_date": "24-feb-2021",
+        "state": "future"
+    },
+    "gotphaze.com": {
+        "epoch": 1590451200.0,
+        "expiration_date": "26-may-2020",
         "state": "future"
     },
     "grabtrk.com": {
@@ -10509,6 +10534,11 @@
         "expiration_date": "15-may-2020",
         "state": "future"
     },
+    "mdctrail.com": {
+        "epoch": 1610409600.0,
+        "expiration_date": "12-jan-2021",
+        "state": "future"
+    },
     "media-click.ru": {
         "epoch": 1613174400.0,
         "expiration_date": "13-feb-2021",
@@ -11369,6 +11399,11 @@
         "expiration_date": "21-feb-2021",
         "state": "future"
     },
+    "openstat.net": {
+        "epoch": 1610236800.0,
+        "expiration_date": "10-jan-2021",
+        "state": "future"
+    },
     "opinionlab.com": {
         "epoch": 1603843200.0,
         "expiration_date": "28-oct-2020",
@@ -11962,6 +11997,11 @@
     "program3.com": {
         "epoch": 1860192000.0,
         "expiration_date": "12-dec-2028",
+        "state": "future"
+    },
+    "projectwonderful.com": {
+        "epoch": 1598400000.0,
+        "expiration_date": "26-aug-2020",
         "state": "future"
     },
     "promolnk.com": {
