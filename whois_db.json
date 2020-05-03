@@ -2035,8 +2035,8 @@
         "state": "future"
     },
     "adexchangeprediction.com": {
-        "epoch": 1587945600.0,
-        "expiration_date": "27-apr-2020",
+        "epoch": 1619481600.0,
+        "expiration_date": "27-apr-2021",
         "state": "future"
     },
     "adexcite.com": {
@@ -2505,8 +2505,8 @@
         "state": "future"
     },
     "adrianbelew.com": {
-        "epoch": 1587772800.0,
-        "expiration_date": "25-apr-2020",
+        "epoch": 1619308800.0,
+        "expiration_date": "25-apr-2021",
         "state": "future"
     },
     "adriver.ru": {
@@ -2707,6 +2707,11 @@
     "adserver.pl": {
         "epoch": 1632096000.0,
         "expiration_date": "20-sep-2021",
+        "state": "future"
+    },
+    "adserver5.com": {
+        "epoch": 1608422400.0,
+        "expiration_date": "20-dec-2020",
         "state": "future"
     },
     "adserversolutions.com": {
@@ -5240,8 +5245,8 @@
         "state": "future"
     },
     "avastats.com": {
-        "epoch": 1586390400.0,
-        "expiration_date": "09-apr-2020",
+        "epoch": 1617926400.0,
+        "expiration_date": "09-apr-2021",
         "state": "future"
     },
     "avforce.com": {
@@ -7149,6 +7154,11 @@
         "expiration_date": "07-apr-2021",
         "state": "future"
     },
+    "counter4all.dk": {
+        "epoch": 1593475200.0,
+        "expiration_date": "30-jun-2020",
+        "state": "future"
+    },
     "counter4you.net": {
         "epoch": 1610323200.0,
         "expiration_date": "11-jan-2021",
@@ -7967,6 +7977,11 @@
     "eajmp.com": {
         "epoch": 1603238400.0,
         "expiration_date": "21-oct-2020",
+        "state": "future"
+    },
+    "earnify.com": {
+        "epoch": 1634256000.0,
+        "expiration_date": "15-oct-2021",
         "state": "future"
     },
     "easy-dating.org": {
@@ -9425,8 +9440,8 @@
         "state": "future"
     },
     "hide-ip.com": {
-        "epoch": 1584921600.0,
-        "expiration_date": "23-mar-2020",
+        "epoch": 1616457600.0,
+        "expiration_date": "23-mar-2021",
         "state": "future"
     },
     "highpro1.com": {
@@ -9587,7 +9602,7 @@
     "hqdrugs.com": {
         "epoch": 1584057600.0,
         "expiration_date": "13-mar-2020",
-        "state": "future"
+        "state": "past"
     },
     "hstpnetwork.com": {
         "epoch": 1593043200.0,
@@ -9607,7 +9622,7 @@
     "http-proxy.com": {
         "epoch": 1585612800.0,
         "expiration_date": "31-mar-2020",
-        "state": "future"
+        "state": "past"
     },
     "hub.com.pl": {
         "epoch": 1598400000.0,
@@ -10274,6 +10289,11 @@
         "expiration_date": "18-aug-2020",
         "state": "future"
     },
+    "linkjumps.com": {
+        "epoch": 1618876800.0,
+        "expiration_date": "20-apr-2021",
+        "state": "future"
+    },
     "linkreferral.com": {
         "epoch": 1611360000.0,
         "expiration_date": "23-jan-2021",
@@ -10725,9 +10745,9 @@
         "state": "future"
     },
     "mlinktracker.com": {
-        "epoch": 1588377600.0,
-        "expiration_date": "02-may-2020",
-        "state": "past"
+        "epoch": 1619913600.0,
+        "expiration_date": "02-may-2021",
+        "state": "future"
     },
     "mlspharm.ru": {
         "epoch": 1620518400.0,
@@ -11957,6 +11977,11 @@
     "powerlinks.com": {
         "epoch": 1676332800.0,
         "expiration_date": "14-feb-2023",
+        "state": "future"
+    },
+    "pr-cy.ru": {
+        "epoch": 1603065600.0,
+        "expiration_date": "19-oct-2020",
         "state": "future"
     },
     "pragueline.com": {
@@ -14672,6 +14697,11 @@
     "visitortracklog.com": {
         "epoch": 1604534400.0,
         "expiration_date": "05-nov-2020",
+        "state": "future"
+    },
+    "vivo7.com": {
+        "epoch": 1595376000.0,
+        "expiration_date": "22-jul-2020",
         "state": "future"
     },
     "vizisense.net": {
