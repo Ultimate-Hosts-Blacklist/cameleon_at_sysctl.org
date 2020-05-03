@@ -4054,6 +4054,11 @@
         "expiration_date": "22-nov-2020",
         "state": "future"
     },
+    "airlanes.com": {
+        "epoch": 1601942400.0,
+        "expiration_date": "06-oct-2020",
+        "state": "future"
+    },
     "airlinesd.com": {
         "epoch": 1586908800.0,
         "expiration_date": "15-apr-2020",
@@ -4547,6 +4552,11 @@
     "amazaon.com": {
         "epoch": 1594512000.0,
         "expiration_date": "12-jul-2020",
+        "state": "future"
+    },
+    "amazing-bargains.com": {
+        "epoch": 1629072000.0,
+        "expiration_date": "16-aug-2021",
         "state": "future"
     },
     "amazing-cumshot-movies.com": {
@@ -5212,6 +5222,11 @@
     "asn.com": {
         "epoch": 1640476800.0,
         "expiration_date": "26-dec-2021",
+        "state": "future"
+    },
+    "assculo.com": {
+        "epoch": 1603670400.0,
+        "expiration_date": "26-oct-2020",
         "state": "future"
     },
     "assoc-amazon.com": {
@@ -5897,6 +5912,11 @@
     "biopharmastore.com": {
         "epoch": 1602028800.0,
         "expiration_date": "07-oct-2020",
+        "state": "future"
+    },
+    "bitgrabber.com": {
+        "epoch": 1601856000.0,
+        "expiration_date": "05-oct-2020",
         "state": "future"
     },
     "bitroll.com": {
@@ -6715,8 +6735,8 @@
         "state": "future"
     },
     "ckemp.com": {
-        "epoch": 1588291200.0,
-        "expiration_date": "01-may-2020",
+        "epoch": 1619827200.0,
+        "expiration_date": "01-may-2021",
         "state": "future"
     },
     "ckstatic.com": {
@@ -8489,14 +8509,19 @@
         "expiration_date": "06-apr-2021",
         "state": "future"
     },
+    "ewebcounter.com": {
+        "epoch": 1600992000.0,
+        "expiration_date": "25-sep-2020",
+        "state": "future"
+    },
     "ex-traffic.com": {
-        "epoch": 1586995200.0,
-        "expiration_date": "16-apr-2020",
+        "epoch": 1618531200.0,
+        "expiration_date": "16-apr-2021",
         "state": "future"
     },
     "exactadvertising.com": {
-        "epoch": 1588377600.0,
-        "expiration_date": "02-may-2020",
+        "epoch": 1619913600.0,
+        "expiration_date": "02-may-2021",
         "state": "future"
     },
     "exactseek.com": {
@@ -9652,7 +9677,7 @@
     "hostedbanners.com": {
         "epoch": 1584921600.0,
         "expiration_date": "23-mar-2020",
-        "state": "future"
+        "state": "past"
     },
     "hotdogsandads.com": {
         "epoch": 1616889600.0,
@@ -13637,6 +13662,11 @@
     "stock-monkey.com": {
         "epoch": 1619740800.0,
         "expiration_date": "30-apr-2021",
+        "state": "future"
+    },
+    "stockway.net": {
+        "epoch": 1603929600.0,
+        "expiration_date": "29-oct-2020",
         "state": "future"
     },
     "straightresults.com": {
