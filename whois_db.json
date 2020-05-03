@@ -2029,6 +2029,11 @@
         "expiration_date": "21-jan-2021",
         "state": "future"
     },
+    "adfeat.com": {
+        "epoch": 1602374400.0,
+        "expiration_date": "11-oct-2020",
+        "state": "future"
+    },
     "adflight.com": {
         "epoch": 1614556800.0,
         "expiration_date": "01-mar-2021",
@@ -2102,6 +2107,11 @@
     "adhearus.com": {
         "epoch": 1590364800.0,
         "expiration_date": "25-may-2020",
+        "state": "future"
+    },
+    "adhexa.com": {
+        "epoch": 1651276800.0,
+        "expiration_date": "30-apr-2022",
         "state": "future"
     },
     "adhitzads.com": {
@@ -2919,6 +2929,11 @@
         "expiration_date": "03-sep-2020",
         "state": "future"
     },
+    "adtraff.com": {
+        "epoch": 1601510400.0,
+        "expiration_date": "01-oct-2020",
+        "state": "future"
+    },
     "adtraff.ru": {
         "epoch": 1596412800.0,
         "expiration_date": "03-aug-2020",
@@ -3402,6 +3417,11 @@
     "advertisingagent.com": {
         "epoch": 1615939200.0,
         "expiration_date": "17-mar-2021",
+        "state": "future"
+    },
+    "advertisingbanners.com": {
+        "epoch": 1618531200.0,
+        "expiration_date": "16-apr-2021",
         "state": "future"
     },
     "advertisingvision.com": {
@@ -3897,7 +3917,7 @@
     "airlinesd.com": {
         "epoch": 1586908800.0,
         "expiration_date": "15-apr-2020",
-        "state": "future"
+        "state": "past"
     },
     "airoflot.com": {
         "epoch": 1599955200.0,
@@ -4342,6 +4362,11 @@
     "amazing-gals.com": {
         "epoch": 1613174400.0,
         "expiration_date": "13-feb-2021",
+        "state": "future"
+    },
+    "amctheater.com": {
+        "epoch": 1678406400.0,
+        "expiration_date": "10-mar-2023",
         "state": "future"
     },
     "amefin.com": {
@@ -4912,6 +4937,11 @@
     "artella.biz": {
         "epoch": 1589328000.0,
         "expiration_date": "13-may-2020",
+        "state": "future"
+    },
+    "ashoping.com": {
+        "epoch": 1589932800.0,
+        "expiration_date": "20-may-2020",
         "state": "future"
     },
     "asianude.com": {
@@ -7399,6 +7429,11 @@
         "expiration_date": "11-jun-2020",
         "state": "future"
     },
+    "dolanadserver.com": {
+        "epoch": 1623888000.0,
+        "expiration_date": "17-jun-2021",
+        "state": "future"
+    },
     "domainplayersclub.com": {
         "epoch": 1642118400.0,
         "expiration_date": "14-jan-2022",
@@ -7537,6 +7572,11 @@
     "dvdhentai.net": {
         "epoch": 1604102400.0,
         "expiration_date": "31-oct-2020",
+        "state": "future"
+    },
+    "dwin1.com": {
+        "epoch": 1592438400.0,
+        "expiration_date": "18-jun-2020",
         "state": "future"
     },
     "dynamicwebassets.com": {
@@ -7909,6 +7949,11 @@
         "expiration_date": "12-sep-2020",
         "state": "future"
     },
+    "errorception.com": {
+        "epoch": 1596067200.0,
+        "expiration_date": "30-jul-2020",
+        "state": "future"
+    },
     "errorclean.com": {
         "epoch": 1595376000.0,
         "expiration_date": "22-jul-2020",
@@ -7927,6 +7972,11 @@
     "ertya.com": {
         "epoch": 1615852800.0,
         "expiration_date": "16-mar-2021",
+        "state": "future"
+    },
+    "estat.com": {
+        "epoch": 1610582400.0,
+        "expiration_date": "14-jan-2021",
         "state": "future"
     },
     "estrategiavirtual.com": {
@@ -9624,6 +9674,11 @@
         "expiration_date": "05-mar-2021",
         "state": "future"
     },
+    "komodia.com": {
+        "epoch": 1710720000.0,
+        "expiration_date": "18-mar-2024",
+        "state": "future"
+    },
     "kompass-intl.com": {
         "epoch": 1618185600.0,
         "expiration_date": "12-apr-2021",
@@ -9809,6 +9864,11 @@
         "expiration_date": "14-feb-2021",
         "state": "future"
     },
+    "list.ru": {
+        "epoch": 1596240000.0,
+        "expiration_date": "01-aug-2020",
+        "state": "future"
+    },
     "litas.com": {
         "epoch": 1597968000.0,
         "expiration_date": "21-aug-2020",
@@ -9825,8 +9885,8 @@
         "state": "future"
     },
     "liveadexchanger.com": {
-        "epoch": 1583366400.0,
-        "expiration_date": "05-mar-2020",
+        "epoch": 1614902400.0,
+        "expiration_date": "05-mar-2021",
         "state": "future"
     },
     "livecount.fr": {
@@ -10157,6 +10217,11 @@
     "mirostart.com": {
         "epoch": 1607385600.0,
         "expiration_date": "08-dec-2020",
+        "state": "future"
+    },
+    "mixmaxmedia.com": {
+        "epoch": 1605139200.0,
+        "expiration_date": "12-nov-2020",
         "state": "future"
     },
     "mktrack.com": {
@@ -11774,6 +11839,11 @@
         "expiration_date": "14-may-2020",
         "state": "future"
     },
+    "relestar.com": {
+        "epoch": 1617062400.0,
+        "expiration_date": "30-mar-2021",
+        "state": "future"
+    },
     "relevantknowledge.com": {
         "epoch": 1602892800.0,
         "expiration_date": "17-oct-2020",
@@ -11965,8 +12035,8 @@
         "state": "past"
     },
     "rxpharma24hs.com": {
-        "epoch": 1586908800.0,
-        "expiration_date": "15-apr-2020",
+        "epoch": 1618444800.0,
+        "expiration_date": "15-apr-2021",
         "state": "future"
     },
     "s-e-arch.com": {
