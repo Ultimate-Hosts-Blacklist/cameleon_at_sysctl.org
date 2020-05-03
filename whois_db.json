@@ -1720,9 +1720,9 @@
         "state": "future"
     },
     "ad4ever.com": {
-        "epoch": 1579910400.0,
-        "expiration_date": "25-jan-2020",
-        "state": "past"
+        "epoch": 1617235200.0,
+        "expiration_date": "01-apr-2021",
+        "state": "future"
     },
     "ad77.com": {
         "epoch": 1587254400.0,
@@ -1902,6 +1902,11 @@
     "adclick.net": {
         "epoch": 1584489600.0,
         "expiration_date": "18-mar-2020",
+        "state": "future"
+    },
+    "adclick.ru": {
+        "epoch": 1602720000.0,
+        "expiration_date": "15-oct-2020",
         "state": "future"
     },
     "adclickservice.com": {
@@ -3424,6 +3429,11 @@
         "expiration_date": "16-apr-2021",
         "state": "future"
     },
+    "advertisingnemesis.com": {
+        "epoch": 1581811200.0,
+        "expiration_date": "16-feb-2020",
+        "state": "past"
+    },
     "advertisingvision.com": {
         "epoch": 1602374400.0,
         "expiration_date": "11-oct-2020",
@@ -3697,6 +3707,11 @@
     "affiliatecop.com": {
         "epoch": 1602979200.0,
         "expiration_date": "18-oct-2020",
+        "state": "future"
+    },
+    "affiliatefind.com": {
+        "epoch": 1620345600.0,
+        "expiration_date": "07-may-2021",
         "state": "future"
     },
     "affiliatefuel.com": {
@@ -4872,6 +4887,11 @@
     "appliedlanguage.com": {
         "epoch": 1595548800.0,
         "expiration_date": "24-jul-2020",
+        "state": "future"
+    },
+    "applyads.com": {
+        "epoch": 1605139200.0,
+        "expiration_date": "12-nov-2020",
         "state": "future"
     },
     "apponic.com": {
@@ -7749,6 +7769,11 @@
         "expiration_date": "15-aug-2020",
         "state": "future"
     },
+    "efront.com": {
+        "epoch": 1593648000.0,
+        "expiration_date": "02-jul-2020",
+        "state": "future"
+    },
     "egeosoftware.com": {
         "epoch": 1597708800.0,
         "expiration_date": "18-aug-2020",
@@ -7887,6 +7912,11 @@
     "engage.com": {
         "epoch": 1595980800.0,
         "expiration_date": "29-jul-2020",
+        "state": "future"
+    },
+    "enhance.com": {
+        "epoch": 1724284800.0,
+        "expiration_date": "22-aug-2024",
         "state": "future"
     },
     "enoratraffic.com": {
@@ -8392,6 +8422,11 @@
     "free-proxy.org": {
         "epoch": 1616284800.0,
         "expiration_date": "21-mar-2021",
+        "state": "future"
+    },
+    "free-stats.com": {
+        "epoch": 1622073600.0,
+        "expiration_date": "27-may-2021",
         "state": "future"
     },
     "free-windows-games.com": {
@@ -9384,6 +9419,11 @@
         "expiration_date": "14-feb-2021",
         "state": "future"
     },
+    "intera-x.com": {
+        "epoch": 1600905600.0,
+        "expiration_date": "24-sep-2020",
+        "state": "future"
+    },
     "interactivebrands.com": {
         "epoch": 1594425600.0,
         "expiration_date": "11-jul-2020",
@@ -9892,7 +9932,7 @@
     "livecount.fr": {
         "epoch": 1588464000.0,
         "expiration_date": "03-may-2020",
-        "state": "future"
+        "state": "past"
     },
     "livefyre.com": {
         "epoch": 1599868800.0,
@@ -10414,6 +10454,11 @@
         "expiration_date": "12-mar-2021",
         "state": "future"
     },
+    "mydati.com": {
+        "epoch": 1597968000.0,
+        "expiration_date": "21-aug-2020",
+        "state": "future"
+    },
     "mydownloadsite.com": {
         "epoch": 1616976000.0,
         "expiration_date": "29-mar-2021",
@@ -10585,8 +10630,8 @@
         "state": "future"
     },
     "nedstatbasic.net": {
-        "epoch": 1583280000.0,
-        "expiration_date": "04-mar-2020",
+        "epoch": 1614816000.0,
+        "expiration_date": "04-mar-2021",
         "state": "future"
     },
     "needmorehits.com": {
@@ -10932,6 +10977,11 @@
     "otherossettlement.com": {
         "epoch": 1788912000.0,
         "expiration_date": "09-sep-2026",
+        "state": "future"
+    },
+    "otherprofit.com": {
+        "epoch": 1612051200.0,
+        "expiration_date": "31-jan-2021",
         "state": "future"
     },
     "othersonline.com": {
@@ -13005,8 +13055,8 @@
         "state": "future"
     },
     "targetingnow.com": {
-        "epoch": 1588464000.0,
-        "expiration_date": "03-may-2020",
+        "epoch": 1620000000.0,
+        "expiration_date": "03-may-2021",
         "state": "future"
     },
     "tat-neftbank.ru": {
