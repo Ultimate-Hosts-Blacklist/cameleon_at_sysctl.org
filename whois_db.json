@@ -8034,6 +8034,11 @@
         "expiration_date": "20-oct-2020",
         "state": "future"
     },
+    "dooweb.us": {
+        "epoch": 1591920000.0,
+        "expiration_date": "12-jun-2020",
+        "state": "future"
+    },
     "doubleclick.com": {
         "epoch": 1590624000.0,
         "expiration_date": "28-may-2020",
@@ -8422,6 +8427,11 @@
     "electricroms.com": {
         "epoch": 1608768000.0,
         "expiration_date": "24-dec-2020",
+        "state": "future"
+    },
+    "electrongames.com": {
+        "epoch": 1609113600.0,
+        "expiration_date": "28-dec-2020",
         "state": "future"
     },
     "electronic-group.com": {
@@ -15747,6 +15757,11 @@
     "yesup.net": {
         "epoch": 1617840000.0,
         "expiration_date": "08-apr-2021",
+        "state": "future"
+    },
+    "yidsense.com": {
+        "epoch": 1589500800.0,
+        "expiration_date": "15-may-2020",
         "state": "future"
     },
     "yieldtraffic.com": {
