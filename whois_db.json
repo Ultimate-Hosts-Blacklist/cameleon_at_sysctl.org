@@ -2904,6 +2904,11 @@
         "expiration_date": "24-sep-2020",
         "state": "future"
     },
+    "adsvert.com": {
+        "epoch": 1621641600.0,
+        "expiration_date": "22-may-2021",
+        "state": "future"
+    },
     "adsvids.com": {
         "epoch": 1610236800.0,
         "expiration_date": "10-jan-2021",
@@ -8445,8 +8450,8 @@
         "state": "future"
     },
     "emjcd.com": {
-        "epoch": 1586131200.0,
-        "expiration_date": "06-apr-2020",
+        "epoch": 1617667200.0,
+        "expiration_date": "06-apr-2021",
         "state": "future"
     },
     "emoinstaller.com": {
@@ -9744,6 +9749,11 @@
         "expiration_date": "20-sep-2020",
         "state": "future"
     },
+    "hitmodel.net": {
+        "epoch": 1616803200.0,
+        "expiration_date": "27-mar-2021",
+        "state": "future"
+    },
     "hitq.com": {
         "epoch": 1603670400.0,
         "expiration_date": "26-oct-2020",
@@ -10914,6 +10924,11 @@
         "expiration_date": "24-nov-2020",
         "state": "future"
     },
+    "megagiftcity.com": {
+        "epoch": 1604534400.0,
+        "expiration_date": "05-nov-2020",
+        "state": "future"
+    },
     "megapopads.com": {
         "epoch": 1591920000.0,
         "expiration_date": "12-jun-2020",
@@ -11447,6 +11462,11 @@
     "netagent.cz": {
         "epoch": 1611532800.0,
         "expiration_date": "25-jan-2021",
+        "state": "future"
+    },
+    "netclickstats.com": {
+        "epoch": 1619913600.0,
+        "expiration_date": "02-may-2021",
         "state": "future"
     },
     "netmaxx.com": {
