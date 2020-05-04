@@ -185,9 +185,9 @@
         "state": "future"
     },
     "103bees.com": {
-        "epoch": 1588464000.0,
-        "expiration_date": "03-may-2020",
-        "state": "past"
+        "epoch": 1620000000.0,
+        "expiration_date": "03-may-2021",
+        "state": "future"
     },
     "11alivenews.com": {
         "epoch": 1613606400.0,
@@ -4687,6 +4687,11 @@
     "americanirlines.com": {
         "epoch": 1628985600.0,
         "expiration_date": "15-aug-2021",
+        "state": "future"
+    },
+    "americanpassage.com": {
+        "epoch": 1620518400.0,
+        "expiration_date": "09-may-2021",
         "state": "future"
     },
     "americansingles.com": {
@@ -9894,6 +9899,11 @@
         "expiration_date": "26-aug-2020",
         "state": "future"
     },
+    "hubtraffic.com": {
+        "epoch": 1633564800.0,
+        "expiration_date": "07-oct-2021",
+        "state": "future"
+    },
     "hugedomains.com": {
         "epoch": 1824940800.0,
         "expiration_date": "31-oct-2027",
@@ -12142,6 +12152,11 @@
     "pkpojhc.com": {
         "epoch": 1605744000.0,
         "expiration_date": "19-nov-2020",
+        "state": "future"
+    },
+    "platinumbucks.com": {
+        "epoch": 1621728000.0,
+        "expiration_date": "23-may-2021",
         "state": "future"
     },
     "playertraffic.com": {
