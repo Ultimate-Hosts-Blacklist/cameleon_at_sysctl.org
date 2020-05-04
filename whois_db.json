@@ -2329,6 +2329,11 @@
         "expiration_date": "21-oct-2020",
         "state": "future"
     },
+    "admixxer.com": {
+        "epoch": 1602374400.0,
+        "expiration_date": "11-oct-2020",
+        "state": "future"
+    },
     "admonitor.com": {
         "epoch": 1599609600.0,
         "expiration_date": "09-sep-2020",
@@ -5589,6 +5594,11 @@
         "expiration_date": "29-jul-2020",
         "state": "future"
     },
+    "bannergratis.it": {
+        "epoch": 1612051200.0,
+        "expiration_date": "31-jan-2021",
+        "state": "future"
+    },
     "bannermat.com": {
         "epoch": 1602288000.0,
         "expiration_date": "10-oct-2020",
@@ -7242,6 +7252,11 @@
     "computingcentral.com": {
         "epoch": 1604966400.0,
         "expiration_date": "10-nov-2020",
+        "state": "future"
+    },
+    "comtou.com": {
+        "epoch": 1596844800.0,
+        "expiration_date": "08-aug-2020",
         "state": "future"
     },
     "conduit-banners.com": {
@@ -8960,8 +8975,8 @@
         "state": "future"
     },
     "flurry.com": {
-        "epoch": 1588464000.0,
-        "expiration_date": "03-may-2020",
+        "epoch": 1620000000.0,
+        "expiration_date": "03-may-2021",
         "state": "future"
     },
     "flvdirect.com": {
@@ -12429,6 +12444,11 @@
         "expiration_date": "21-jul-2021",
         "state": "future"
     },
+    "profitzone.com": {
+        "epoch": 1593043200.0,
+        "expiration_date": "25-jun-2020",
+        "state": "future"
+    },
     "program3.com": {
         "epoch": 1860192000.0,
         "expiration_date": "12-dec-2028",
@@ -14377,6 +14397,11 @@
     "topadult10.com": {
         "epoch": 1590192000.0,
         "expiration_date": "23-may-2020",
+        "state": "future"
+    },
+    "topauto10.com": {
+        "epoch": 1607731200.0,
+        "expiration_date": "12-dec-2020",
         "state": "future"
     },
     "topblogging.com": {
