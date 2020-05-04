@@ -2694,6 +2694,11 @@
         "expiration_date": "28-may-2020",
         "state": "future"
     },
+    "adsensecustomsearchads.com": {
+        "epoch": 1611792000.0,
+        "expiration_date": "28-jan-2021",
+        "state": "future"
+    },
     "adsentra.com": {
         "epoch": 1600819200.0,
         "expiration_date": "23-sep-2020",
@@ -4282,6 +4287,11 @@
     "allbrowsers.net": {
         "epoch": 1595721600.0,
         "expiration_date": "26-jul-2020",
+        "state": "future"
+    },
+    "allclicks.com": {
+        "epoch": 1619568000.0,
+        "expiration_date": "28-apr-2021",
         "state": "future"
     },
     "allcommunity.com": {
@@ -9484,6 +9494,11 @@
         "expiration_date": "06-nov-2025",
         "state": "future"
     },
+    "goldadvert.cz": {
+        "epoch": 1599264000.0,
+        "expiration_date": "05-sep-2020",
+        "state": "future"
+    },
     "gomusic.com": {
         "epoch": 1591660800.0,
         "expiration_date": "09-jun-2020",
@@ -11615,9 +11630,9 @@
         "state": "future"
     },
     "onadstracker.com": {
-        "epoch": 1578873600.0,
-        "expiration_date": "13-jan-2020",
-        "state": "past"
+        "epoch": 1617494400.0,
+        "expiration_date": "04-apr-2021",
+        "state": "future"
     },
     "onclickads.net": {
         "epoch": 1591142400.0,
@@ -14772,6 +14787,11 @@
     "uadx.com": {
         "epoch": 1595980800.0,
         "expiration_date": "29-jul-2020",
+        "state": "future"
+    },
+    "ucmore.com": {
+        "epoch": 1614556800.0,
+        "expiration_date": "01-mar-2021",
         "state": "future"
     },
     "udmserve.net": {
