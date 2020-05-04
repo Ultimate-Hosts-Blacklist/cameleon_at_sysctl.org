@@ -15004,6 +15004,11 @@
         "expiration_date": "22-aug-2020",
         "state": "future"
     },
+    "vdhu.com": {
+        "epoch": 1611360000.0,
+        "expiration_date": "23-jan-2021",
+        "state": "future"
+    },
     "veely.com": {
         "epoch": 1618444800.0,
         "expiration_date": "15-apr-2021",
@@ -15127,6 +15132,11 @@
     "vpnaffiliates.com": {
         "epoch": 1602374400.0,
         "expiration_date": "11-oct-2020",
+        "state": "future"
+    },
+    "vpntrack.com": {
+        "epoch": 1619827200.0,
+        "expiration_date": "01-may-2021",
         "state": "future"
     },
     "vq918450.com": {
