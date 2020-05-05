@@ -4047,7 +4047,7 @@
     "ai.com": {
         "epoch": 1588636800.0,
         "expiration_date": "05-may-2020",
-        "state": "future"
+        "state": "past"
     },
     "ai.net": {
         "epoch": 1609200000.0,
@@ -12152,6 +12152,11 @@
     "paypopup.com": {
         "epoch": 1618617600.0,
         "expiration_date": "17-apr-2021",
+        "state": "future"
+    },
+    "pc-on-internet.com": {
+        "epoch": 1589932800.0,
+        "expiration_date": "20-may-2020",
         "state": "future"
     },
     "pc-test.net": {
