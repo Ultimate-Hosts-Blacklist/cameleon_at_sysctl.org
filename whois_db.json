@@ -2334,6 +2334,11 @@
         "expiration_date": "27-may-2020",
         "state": "future"
     },
+    "admex.com": {
+        "epoch": 1602028800.0,
+        "expiration_date": "07-oct-2020",
+        "state": "future"
+    },
     "admigo.ru": {
         "epoch": 1596412800.0,
         "expiration_date": "03-aug-2020",
@@ -9692,6 +9697,11 @@
     "gorunger.com": {
         "epoch": 1592956800.0,
         "expiration_date": "24-jun-2020",
+        "state": "future"
+    },
+    "goserv.com": {
+        "epoch": 1591833600.0,
+        "expiration_date": "11-jun-2020",
         "state": "future"
     },
     "gostats.com": {
