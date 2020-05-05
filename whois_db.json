@@ -2884,6 +2884,11 @@
         "expiration_date": "24-nov-2020",
         "state": "future"
     },
+    "adspyre.com": {
+        "epoch": 1614729600.0,
+        "expiration_date": "03-mar-2021",
+        "state": "future"
+    },
     "adsraise.com": {
         "epoch": 1588896000.0,
         "expiration_date": "08-may-2020",
@@ -6770,8 +6775,8 @@
         "state": "future"
     },
     "centralsignnew.com": {
-        "epoch": 1587859200.0,
-        "expiration_date": "26-apr-2020",
+        "epoch": 1619395200.0,
+        "expiration_date": "26-apr-2021",
         "state": "future"
     },
     "ceporno.com": {
@@ -7295,8 +7300,8 @@
         "state": "future"
     },
     "connexionsafe.com": {
-        "epoch": 1586390400.0,
-        "expiration_date": "09-apr-2020",
+        "epoch": 1617926400.0,
+        "expiration_date": "09-apr-2021",
         "state": "future"
     },
     "connexity.net": {
