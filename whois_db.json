@@ -259,6 +259,11 @@
         "expiration_date": "19-aug-2024",
         "state": "future"
     },
+    "123ticket.com": {
+        "epoch": 1590796800.0,
+        "expiration_date": "30-may-2020",
+        "state": "future"
+    },
     "123webmarketing.com": {
         "epoch": 1611187200.0,
         "expiration_date": "21-jan-2021",
@@ -892,7 +897,7 @@
     "50websads.com": {
         "epoch": 1588636800.0,
         "expiration_date": "05-may-2020",
-        "state": "future"
+        "state": "past"
     },
     "51234.com": {
         "epoch": 1614038400.0,
@@ -9284,6 +9289,11 @@
         "expiration_date": "05-jun-2020",
         "state": "future"
     },
+    "fuelbuck.com": {
+        "epoch": 1595462400.0,
+        "expiration_date": "23-jul-2020",
+        "state": "future"
+    },
     "full-edition.info": {
         "epoch": 1619568000.0,
         "expiration_date": "28-apr-2021",
@@ -9942,6 +9952,11 @@
     "hpbbg.com": {
         "epoch": 1599350400.0,
         "expiration_date": "06-sep-2020",
+        "state": "future"
+    },
+    "hpod.com": {
+        "epoch": 1616716800.0,
+        "expiration_date": "26-mar-2021",
         "state": "future"
     },
     "hqdrugs.com": {
@@ -13535,8 +13550,8 @@
         "state": "future"
     },
     "shinystat.it": {
-        "epoch": 1586563200.0,
-        "expiration_date": "11-apr-2020",
+        "epoch": 1618099200.0,
+        "expiration_date": "11-apr-2021",
         "state": "future"
     },
     "shooshtimeinc.com": {
