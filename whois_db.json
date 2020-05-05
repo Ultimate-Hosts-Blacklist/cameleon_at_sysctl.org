@@ -2079,6 +2079,11 @@
         "expiration_date": "11-oct-2020",
         "state": "future"
     },
+    "adfirmative.com": {
+        "epoch": 1614816000.0,
+        "expiration_date": "04-mar-2021",
+        "state": "future"
+    },
     "adflight.com": {
         "epoch": 1614556800.0,
         "expiration_date": "01-mar-2021",
@@ -4482,6 +4487,11 @@
     "alltheinternet.com": {
         "epoch": 1882396800.0,
         "expiration_date": "26-aug-2029",
+        "state": "future"
+    },
+    "alltheweb.ru": {
+        "epoch": 1622678400.0,
+        "expiration_date": "03-jun-2021",
         "state": "future"
     },
     "allwords.com": {
