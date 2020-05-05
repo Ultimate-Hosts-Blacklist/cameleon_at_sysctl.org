@@ -4130,8 +4130,8 @@
         "state": "future"
     },
     "aitds.com": {
-        "epoch": 1583712000.0,
-        "expiration_date": "09-mar-2020",
+        "epoch": 1615248000.0,
+        "expiration_date": "09-mar-2021",
         "state": "future"
     },
     "aitran.com": {
@@ -7090,8 +7090,8 @@
         "state": "future"
     },
     "clickunder.net": {
-        "epoch": 1588032000.0,
-        "expiration_date": "28-apr-2020",
+        "epoch": 1619568000.0,
+        "expiration_date": "28-apr-2021",
         "state": "future"
     },
     "clickvalidator.net": {
@@ -7492,7 +7492,7 @@
     "cpmfun.com": {
         "epoch": 1588550400.0,
         "expiration_date": "04-may-2020",
-        "state": "future"
+        "state": "past"
     },
     "cpmprofit.com": {
         "epoch": 1624492800.0,
@@ -15962,6 +15962,11 @@
     "yousearchdirect.com": {
         "epoch": 1609977600.0,
         "expiration_date": "07-jan-2021",
+        "state": "future"
+    },
+    "yrals.com": {
+        "epoch": 1606521600.0,
+        "expiration_date": "28-nov-2020",
         "state": "future"
     },
     "ysbweb.com": {
