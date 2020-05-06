@@ -2660,8 +2660,8 @@
         "state": "future"
     },
     "ads360.net": {
-        "epoch": 1585958400.0,
-        "expiration_date": "04-apr-2020",
+        "epoch": 1617494400.0,
+        "expiration_date": "04-apr-2021",
         "state": "future"
     },
     "ads365.com": {
@@ -9533,6 +9533,11 @@
         "epoch": 1635811200.0,
         "expiration_date": "02-nov-2021",
         "state": "future"
+    },
+    "gaydemonads.com": {
+        "epoch": 1584403200.0,
+        "expiration_date": "17-mar-2020",
+        "state": "past"
     },
     "gaypoliticsblogads.com": {
         "epoch": 1613347200.0,
