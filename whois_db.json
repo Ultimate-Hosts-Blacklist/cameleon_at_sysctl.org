@@ -2384,6 +2384,11 @@
         "expiration_date": "24-nov-2020",
         "state": "future"
     },
+    "adnetserver.com": {
+        "epoch": 1593043200.0,
+        "expiration_date": "25-jun-2020",
+        "state": "future"
+    },
     "adnetworkperformance.com": {
         "epoch": 1619481600.0,
         "expiration_date": "27-apr-2021",
@@ -8195,8 +8200,8 @@
         "state": "future"
     },
     "down1oads.com": {
-        "epoch": 1586995200.0,
-        "expiration_date": "16-apr-2020",
+        "epoch": 1618531200.0,
+        "expiration_date": "16-apr-2021",
         "state": "future"
     },
     "downloadaccelerator.com": {
