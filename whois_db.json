@@ -2524,6 +2524,11 @@
         "expiration_date": "31-mar-2021",
         "state": "future"
     },
+    "adrecom.net": {
+        "epoch": 1618876800.0,
+        "expiration_date": "20-apr-2021",
+        "state": "future"
+    },
     "adregistry.com": {
         "epoch": 1600128000.0,
         "expiration_date": "15-sep-2020",
@@ -9582,6 +9587,11 @@
     "getmailcounter.com": {
         "epoch": 1606089600.0,
         "expiration_date": "23-nov-2020",
+        "state": "future"
+    },
+    "getmirar.com": {
+        "epoch": 1610928000.0,
+        "expiration_date": "18-jan-2021",
         "state": "future"
     },
     "getnoadware.com": {
