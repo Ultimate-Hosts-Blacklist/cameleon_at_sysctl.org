@@ -5754,6 +5754,11 @@
         "expiration_date": "24-apr-2021",
         "state": "future"
     },
+    "basepayment.com": {
+        "epoch": 1596067200.0,
+        "expiration_date": "30-jul-2020",
+        "state": "future"
+    },
     "basicstat.com": {
         "epoch": 1605225600.0,
         "expiration_date": "13-nov-2020",
@@ -10370,9 +10375,9 @@
         "state": "future"
     },
     "installdownload.com": {
-        "epoch": 1588723200.0,
-        "expiration_date": "06-may-2020",
-        "state": "past"
+        "epoch": 1620259200.0,
+        "expiration_date": "06-may-2021",
+        "state": "future"
     },
     "instantbuzz.com": {
         "epoch": 1594252800.0,
@@ -14549,6 +14554,11 @@
         "expiration_date": "26-dec-2020",
         "state": "future"
     },
+    "thelocalsearchnetwork.com": {
+        "epoch": 1593475200.0,
+        "expiration_date": "30-jun-2020",
+        "state": "future"
+    },
     "themexp.org": {
         "epoch": 1603929600.0,
         "expiration_date": "29-oct-2020",
@@ -14770,9 +14780,9 @@
         "state": "future"
     },
     "topscreensavers.com": {
-        "epoch": 1588723200.0,
-        "expiration_date": "06-may-2020",
-        "state": "past"
+        "epoch": 1620259200.0,
+        "expiration_date": "06-may-2021",
+        "state": "future"
     },
     "topsearch10.com": {
         "epoch": 1605312000.0,
