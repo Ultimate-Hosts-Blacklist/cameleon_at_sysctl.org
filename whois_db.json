@@ -9014,6 +9014,11 @@
         "expiration_date": "17-oct-2020",
         "state": "future"
     },
+    "fevertube.com": {
+        "epoch": 1620432000.0,
+        "expiration_date": "08-may-2021",
+        "state": "future"
+    },
     "feyads.com": {
         "epoch": 1613174400.0,
         "expiration_date": "13-feb-2021",
@@ -13070,8 +13075,8 @@
         "state": "future"
     },
     "referer.org": {
-        "epoch": 1588723200.0,
-        "expiration_date": "06-may-2020",
+        "epoch": 1620259200.0,
+        "expiration_date": "06-may-2021",
         "state": "future"
     },
     "regdefense.com": {
