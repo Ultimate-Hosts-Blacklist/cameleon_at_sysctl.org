@@ -1357,7 +1357,7 @@
     "abitz.com": {
         "epoch": 1588809600.0,
         "expiration_date": "07-may-2020",
-        "state": "future"
+        "state": "past"
     },
     "aboout.com": {
         "epoch": 1615680000.0,
@@ -11354,6 +11354,11 @@
         "expiration_date": "06-mar-2021",
         "state": "future"
     },
+    "mmtracking.com": {
+        "epoch": 1619913600.0,
+        "expiration_date": "02-may-2021",
+        "state": "future"
+    },
     "mmtrkpy.com": {
         "epoch": 1605830400.0,
         "expiration_date": "20-nov-2020",
@@ -14022,6 +14027,11 @@
     "spiderbait.com": {
         "epoch": 1619395200.0,
         "expiration_date": "26-apr-2021",
+        "state": "future"
+    },
+    "spinbox.net": {
+        "epoch": 1638835200.0,
+        "expiration_date": "07-dec-2021",
         "state": "future"
     },
     "splatbanner.com": {
