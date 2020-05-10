@@ -30,8 +30,8 @@
         "state": "future"
     },
     "0427d7.se": {
-        "epoch": 1589068800.0,
-        "expiration_date": "10-may-2020",
+        "epoch": 1683676800.0,
+        "expiration_date": "10-may-2023",
         "state": "future"
     },
     "05168.com.tw": {
@@ -3180,9 +3180,9 @@
         "state": "future"
     },
     "adultau.com": {
-        "epoch": 1588896000.0,
-        "expiration_date": "08-may-2020",
-        "state": "past"
+        "epoch": 1620432000.0,
+        "expiration_date": "08-may-2021",
+        "state": "future"
     },
     "adultblogtoplist.com": {
         "epoch": 1612915200.0,
@@ -3962,7 +3962,7 @@
     "affiliatetarget.com": {
         "epoch": 1589068800.0,
         "expiration_date": "10-may-2020",
-        "state": "future"
+        "state": "past"
     },
     "affiliatetracking.com": {
         "epoch": 1649548800.0,
@@ -13432,6 +13432,11 @@
     "screensaversky.com": {
         "epoch": 1642464000.0,
         "expiration_date": "18-jan-2022",
+        "state": "future"
+    },
+    "search-freeek.net": {
+        "epoch": 1595289600.0,
+        "expiration_date": "21-jul-2020",
         "state": "future"
     },
     "search-rc.org": {
