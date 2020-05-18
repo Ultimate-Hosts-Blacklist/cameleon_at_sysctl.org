@@ -9317,7 +9317,7 @@
     "freehitwebsitecounter.com": {
         "epoch": 1589760000.0,
         "expiration_date": "18-may-2020",
-        "state": "future"
+        "state": "past"
     },
     "freelogs.com": {
         "epoch": 1671148800.0,
@@ -11892,6 +11892,11 @@
     "nsrecord.org": {
         "epoch": 1604275200.0,
         "expiration_date": "02-nov-2020",
+        "state": "future"
+    },
+    "ntkrnlpa.info": {
+        "epoch": 1621296000.0,
+        "expiration_date": "18-may-2021",
         "state": "future"
     },
     "ntlligent.info": {
