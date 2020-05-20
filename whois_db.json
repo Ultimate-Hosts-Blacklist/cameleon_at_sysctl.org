@@ -2460,8 +2460,8 @@
         "state": "future"
     },
     "adoringyou.com": {
-        "epoch": 1589932800.0,
-        "expiration_date": "20-may-2020",
+        "epoch": 1621468800.0,
+        "expiration_date": "20-may-2021",
         "state": "future"
     },
     "adotube.com": {
@@ -12357,7 +12357,7 @@
     "pc-on-internet.com": {
         "epoch": 1589932800.0,
         "expiration_date": "20-may-2020",
-        "state": "future"
+        "state": "past"
     },
     "pc-test.net": {
         "epoch": 1599350400.0,
