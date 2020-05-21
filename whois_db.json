@@ -2112,7 +2112,7 @@
     "adforati.com": {
         "epoch": 1590019200.0,
         "expiration_date": "21-may-2020",
-        "state": "future"
+        "state": "past"
     },
     "adforce.com": {
         "epoch": 1596326400.0,
@@ -10380,8 +10380,8 @@
         "state": "future"
     },
     "infotelsrl.com": {
-        "epoch": 1590019200.0,
-        "expiration_date": "21-may-2020",
+        "epoch": 1621555200.0,
+        "expiration_date": "21-may-2021",
         "state": "future"
     },
     "inndl.com": {
@@ -10592,7 +10592,7 @@
     "jizzads.com": {
         "epoch": 1590019200.0,
         "expiration_date": "21-may-2020",
-        "state": "future"
+        "state": "past"
     },
     "jmpads.com": {
         "epoch": 1613174400.0,
