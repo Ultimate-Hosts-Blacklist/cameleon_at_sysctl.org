@@ -5592,7 +5592,7 @@
     "babylonx.com": {
         "epoch": 1590624000.0,
         "expiration_date": "28-may-2020",
-        "state": "future"
+        "state": "past"
     },
     "badassjv.com": {
         "epoch": 1615420800.0,
@@ -8235,8 +8235,8 @@
         "state": "future"
     },
     "doubleclick.com": {
-        "epoch": 1590624000.0,
-        "expiration_date": "28-may-2020",
+        "epoch": 1622160000.0,
+        "expiration_date": "28-may-2021",
         "state": "future"
     },
     "doubleclick.net": {
@@ -9580,8 +9580,8 @@
         "state": "future"
     },
     "gamesiteads.com": {
-        "epoch": 1590537600.0,
-        "expiration_date": "27-may-2020",
+        "epoch": 1622073600.0,
+        "expiration_date": "27-may-2021",
         "state": "future"
     },
     "gamevance.com": {
