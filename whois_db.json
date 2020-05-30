@@ -1472,7 +1472,7 @@
     "access-free.com": {
         "epoch": 1590796800.0,
         "expiration_date": "30-may-2020",
-        "state": "future"
+        "state": "past"
     },
     "accessoryad.com": {
         "epoch": 1619049600.0,
@@ -3155,8 +3155,8 @@
         "state": "future"
     },
     "adultadbroker.com": {
-        "epoch": 1590710400.0,
-        "expiration_date": "29-may-2020",
+        "epoch": 1653782400.0,
+        "expiration_date": "29-may-2022",
         "state": "future"
     },
     "adultads.biz": {
