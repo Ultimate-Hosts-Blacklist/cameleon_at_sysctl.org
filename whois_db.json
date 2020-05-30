@@ -665,8 +665,8 @@
         "state": "future"
     },
     "34j.com": {
-        "epoch": 1590796800.0,
-        "expiration_date": "30-may-2020",
+        "epoch": 1622332800.0,
+        "expiration_date": "30-may-2021",
         "state": "future"
     },
     "369.com": {
@@ -1465,9 +1465,9 @@
         "state": "future"
     },
     "accesorapido.com": {
-        "epoch": 1590710400.0,
-        "expiration_date": "29-may-2020",
-        "state": "past"
+        "epoch": 1622246400.0,
+        "expiration_date": "29-may-2021",
+        "state": "future"
     },
     "access-free.com": {
         "epoch": 1590796800.0,
@@ -2882,7 +2882,7 @@
     "adsnic.com": {
         "epoch": 1590796800.0,
         "expiration_date": "30-may-2020",
-        "state": "future"
+        "state": "past"
     },
     "adsoftware.com": {
         "epoch": 1610582400.0,
