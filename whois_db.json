@@ -1470,9 +1470,9 @@
         "state": "future"
     },
     "access-free.com": {
-        "epoch": 1590796800.0,
-        "expiration_date": "30-may-2020",
-        "state": "past"
+        "epoch": 1622332800.0,
+        "expiration_date": "30-may-2021",
+        "state": "future"
     },
     "accessoryad.com": {
         "epoch": 1619049600.0,
@@ -3527,7 +3527,7 @@
     "advertbar.com": {
         "epoch": 1590883200.0,
         "expiration_date": "31-may-2020",
-        "state": "future"
+        "state": "past"
     },
     "adverteasy.fr": {
         "epoch": 1590883200.0,
