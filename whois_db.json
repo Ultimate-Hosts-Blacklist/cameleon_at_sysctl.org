@@ -9145,8 +9145,8 @@
         "state": "future"
     },
     "firetrck.com": {
-        "epoch": 1590883200.0,
-        "expiration_date": "31-may-2020",
+        "epoch": 1622419200.0,
+        "expiration_date": "31-may-2021",
         "state": "future"
     },
     "firstbookmark.com": {
@@ -16317,7 +16317,7 @@
     "zangocash.com": {
         "epoch": 1590883200.0,
         "expiration_date": "31-may-2020",
-        "state": "future"
+        "state": "past"
     },
     "zangogames.com": {
         "epoch": 1603584000.0,
