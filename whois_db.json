@@ -8257,7 +8257,7 @@
     "doublepimp.com": {
         "epoch": 1591142400.0,
         "expiration_date": "03-jun-2020",
-        "state": "future"
+        "state": "past"
     },
     "down1oads.com": {
         "epoch": 1618531200.0,
@@ -13875,9 +13875,9 @@
         "state": "future"
     },
     "shopedmedsonline.com": {
-        "epoch": 1591056000.0,
-        "expiration_date": "02-jun-2020",
-        "state": "past"
+        "epoch": 1622592000.0,
+        "expiration_date": "02-jun-2021",
+        "state": "future"
     },
     "shopnav.com": {
         "epoch": 1592524800.0,
