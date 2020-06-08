@@ -317,7 +317,7 @@
     "18dmm.com": {
         "epoch": 1591574400.0,
         "expiration_date": "08-jun-2020",
-        "state": "future"
+        "state": "past"
     },
     "192.com": {
         "epoch": 1718150400.0,
@@ -3270,8 +3270,8 @@
         "state": "future"
     },
     "adultfriendfinders.us": {
-        "epoch": 1591228800.0,
-        "expiration_date": "04-jun-2020",
+        "epoch": 1622764800.0,
+        "expiration_date": "04-jun-2021",
         "state": "future"
     },
     "adultfriendsearch.com": {
