@@ -8614,6 +8614,11 @@
         "expiration_date": "18-aug-2020",
         "state": "future"
     },
+    "egypt-shop.cn": {
+        "epoch": 1623369600.0,
+        "expiration_date": "11-jun-2021",
+        "state": "future"
+    },
     "egyptgood.cn": {
         "epoch": 1620950400.0,
         "expiration_date": "14-may-2021",
@@ -11082,7 +11087,7 @@
     "luckytds.ru": {
         "epoch": 1591920000.0,
         "expiration_date": "12-jun-2020",
-        "state": "future"
+        "state": "past"
     },
     "luminate.com": {
         "epoch": 1702512000.0,
