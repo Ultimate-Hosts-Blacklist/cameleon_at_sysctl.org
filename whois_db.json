@@ -3645,8 +3645,8 @@
         "state": "future"
     },
     "advertsponsor.com": {
-        "epoch": 1591920000.0,
-        "expiration_date": "12-jun-2020",
+        "epoch": 1623456000.0,
+        "expiration_date": "12-jun-2021",
         "state": "future"
     },
     "advertstats.com": {
@@ -6162,6 +6162,11 @@
     "bitroll.com": {
         "epoch": 1601251200.0,
         "expiration_date": "28-sep-2020",
+        "state": "future"
+    },
+    "bitsfarmclean.com": {
+        "epoch": 1623456000.0,
+        "expiration_date": "12-jun-2021",
         "state": "future"
     },
     "bitspresentdownload.com": {
