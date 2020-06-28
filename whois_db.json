@@ -14247,7 +14247,7 @@
     "srv2trking.com": {
         "epoch": 1593216000.0,
         "expiration_date": "27-jun-2020",
-        "state": "future"
+        "state": "past"
     },
     "srvpub.com": {
         "epoch": 1605744000.0,
@@ -15152,7 +15152,7 @@
     "trafficzap.com": {
         "epoch": 1593302400.0,
         "expiration_date": "28-jun-2020",
-        "state": "future"
+        "state": "past"
     },
     "traffz.com": {
         "epoch": 1597968000.0,
