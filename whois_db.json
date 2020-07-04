@@ -775,9 +775,9 @@
         "state": "future"
     },
     "40debts.org": {
-        "epoch": 1593734400.0,
-        "expiration_date": "03-jul-2020",
-        "state": "past"
+        "epoch": 1625270400.0,
+        "expiration_date": "03-jul-2021",
+        "state": "future"
     },
     "411-money.com": {
         "epoch": 1598832000.0,
@@ -8657,7 +8657,7 @@
     "ekads.com": {
         "epoch": 1593820800.0,
         "expiration_date": "04-jul-2020",
-        "state": "future"
+        "state": "past"
     },
     "ekerberos.com": {
         "epoch": 1598745600.0,
