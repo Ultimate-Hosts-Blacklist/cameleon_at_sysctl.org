@@ -4375,8 +4375,8 @@
         "state": "future"
     },
     "allcommunity.com": {
-        "epoch": 1593820800.0,
-        "expiration_date": "04-jul-2020",
+        "epoch": 1625356800.0,
+        "expiration_date": "04-jul-2021",
         "state": "future"
     },
     "allcontents.biz": {
@@ -9217,7 +9217,7 @@
     "flashadtools.com": {
         "epoch": 1594080000.0,
         "expiration_date": "07-jul-2020",
-        "state": "future"
+        "state": "past"
     },
     "flashmediaportal.com": {
         "epoch": 1603670400.0,
