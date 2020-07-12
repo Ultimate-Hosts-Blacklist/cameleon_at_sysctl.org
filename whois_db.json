@@ -8765,8 +8765,8 @@
         "state": "future"
     },
     "emporn.com": {
-        "epoch": 1594512000.0,
-        "expiration_date": "12-jul-2020",
+        "epoch": 1626048000.0,
+        "expiration_date": "12-jul-2021",
         "state": "future"
     },
     "ems2bmen.com": {
@@ -14312,7 +14312,7 @@
     "statistiq.com": {
         "epoch": 1594425600.0,
         "expiration_date": "11-jul-2020",
-        "state": "future"
+        "state": "past"
     },
     "stats.in.th": {
         "epoch": 1607558400.0,
