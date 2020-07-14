@@ -5422,7 +5422,7 @@
     "astalavista.us": {
         "epoch": 1594512000.0,
         "expiration_date": "12-jul-2020",
-        "state": "future"
+        "state": "past"
     },
     "astoplist.com": {
         "epoch": 1602892800.0,
@@ -6107,7 +6107,7 @@
     "bigwebtools.com": {
         "epoch": 1594684800.0,
         "expiration_date": "14-jul-2020",
-        "state": "future"
+        "state": "past"
     },
     "bikinicollection.com": {
         "epoch": 1621209600.0,
