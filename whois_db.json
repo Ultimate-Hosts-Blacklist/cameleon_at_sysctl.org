@@ -605,8 +605,8 @@
         "state": "future"
     },
     "2pills.com": {
-        "epoch": 1595030400.0,
-        "expiration_date": "18-jul-2020",
+        "epoch": 1626566400.0,
+        "expiration_date": "18-jul-2021",
         "state": "future"
     },
     "2searchsold.info": {
@@ -7907,7 +7907,7 @@
     "daditraff.cn": {
         "epoch": 1595030400.0,
         "expiration_date": "18-jul-2020",
-        "state": "future"
+        "state": "past"
     },
     "dailybestoffers.com": {
         "epoch": 1609027200.0,
