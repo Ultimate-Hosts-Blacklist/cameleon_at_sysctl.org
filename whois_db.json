@@ -2157,7 +2157,7 @@
     "adgoblin.com": {
         "epoch": 1595462400.0,
         "expiration_date": "23-jul-2020",
-        "state": "future"
+        "state": "past"
     },
     "adgroups.net": {
         "epoch": 1611187200.0,
@@ -2240,8 +2240,8 @@
         "state": "future"
     },
     "adition.net": {
-        "epoch": 1595030400.0,
-        "expiration_date": "18-jul-2020",
+        "epoch": 1626566400.0,
+        "expiration_date": "18-jul-2021",
         "state": "future"
     },
     "adkengage.com": {
@@ -6240,8 +6240,8 @@
         "state": "future"
     },
     "blog-hits.com": {
-        "epoch": 1595376000.0,
-        "expiration_date": "22-jul-2020",
+        "epoch": 1626912000.0,
+        "expiration_date": "22-jul-2021",
         "state": "future"
     },
     "blogads.com": {
@@ -11525,8 +11525,8 @@
         "state": "future"
     },
     "mp3downloading.com": {
-        "epoch": 1595462400.0,
-        "expiration_date": "23-jul-2020",
+        "epoch": 1626998400.0,
+        "expiration_date": "23-jul-2021",
         "state": "future"
     },
     "mp3helpdesk.com": {
@@ -13520,9 +13520,9 @@
         "state": "future"
     },
     "search-freeek.net": {
-        "epoch": 1595289600.0,
-        "expiration_date": "21-jul-2020",
-        "state": "past"
+        "epoch": 1626825600.0,
+        "expiration_date": "21-jul-2021",
+        "state": "future"
     },
     "search-rc.org": {
         "epoch": 1604275200.0,
