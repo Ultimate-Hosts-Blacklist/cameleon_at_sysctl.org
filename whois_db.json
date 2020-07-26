@@ -3732,7 +3732,7 @@
     "adwarekiller.net": {
         "epoch": 1595635200.0,
         "expiration_date": "25-jul-2020",
-        "state": "future"
+        "state": "past"
     },
     "adwarepatrol.com": {
         "epoch": 1612396800.0,
@@ -12520,9 +12520,9 @@
         "state": "future"
     },
     "pimpout.com": {
-        "epoch": 1595635200.0,
-        "expiration_date": "25-jul-2020",
-        "state": "past"
+        "epoch": 1627171200.0,
+        "expiration_date": "25-jul-2021",
+        "state": "future"
     },
     "pingomatic.com": {
         "epoch": 1616371200.0,
@@ -15850,9 +15850,9 @@
         "state": "future"
     },
     "whenusearch.com": {
-        "epoch": 1595635200.0,
-        "expiration_date": "25-jul-2020",
-        "state": "past"
+        "epoch": 1627171200.0,
+        "expiration_date": "25-jul-2021",
+        "state": "future"
     },
     "whenushop.com": {
         "epoch": 1602201600.0,
