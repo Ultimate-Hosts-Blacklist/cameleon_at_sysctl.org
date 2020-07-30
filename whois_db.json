@@ -157,7 +157,7 @@
     "101-website-traffic.com": {
         "epoch": 1596067200.0,
         "expiration_date": "30-jul-2020",
-        "state": "future"
+        "state": "past"
     },
     "1010win.com": {
         "epoch": 1679097600.0,
@@ -7750,8 +7750,8 @@
         "state": "future"
     },
     "credit-cards.com": {
-        "epoch": 1596067200.0,
-        "expiration_date": "30-jul-2020",
+        "epoch": 1627603200.0,
+        "expiration_date": "30-jul-2021",
         "state": "future"
     },
     "credit-cards.org": {
