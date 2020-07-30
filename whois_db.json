@@ -2822,7 +2822,7 @@
     "adsharenetwork.com": {
         "epoch": 1596067200.0,
         "expiration_date": "30-jul-2020",
-        "state": "future"
+        "state": "past"
     },
     "adshareware.net": {
         "epoch": 1600473600.0,
@@ -7590,8 +7590,8 @@
         "state": "future"
     },
     "countlog.com": {
-        "epoch": 1596067200.0,
-        "expiration_date": "30-jul-2020",
+        "epoch": 1627603200.0,
+        "expiration_date": "30-jul-2021",
         "state": "future"
     },
     "countmaster.com": {
@@ -14057,7 +14057,7 @@
     "smileyworld.com": {
         "epoch": 1595980800.0,
         "expiration_date": "29-jul-2020",
-        "state": "future"
+        "state": "past"
     },
     "smoothgesturesapp.com": {
         "epoch": 1623628800.0,
