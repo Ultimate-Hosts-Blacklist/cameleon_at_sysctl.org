@@ -690,8 +690,8 @@
         "state": "future"
     },
     "39-93.com": {
-        "epoch": 1596153600.0,
-        "expiration_date": "31-jul-2020",
+        "epoch": 1627689600.0,
+        "expiration_date": "31-jul-2021",
         "state": "future"
     },
     "39broadway.com": {
@@ -15717,7 +15717,7 @@
     "waveshift.net": {
         "epoch": 1596153600.0,
         "expiration_date": "31-jul-2020",
-        "state": "future"
+        "state": "past"
     },
     "weatherstudio.com": {
         "epoch": 1622678400.0,
