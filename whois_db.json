@@ -3147,7 +3147,7 @@
     "adult-use.com": {
         "epoch": 1596326400.0,
         "expiration_date": "02-aug-2020",
-        "state": "future"
+        "state": "past"
     },
     "adult-women.com": {
         "epoch": 1620864000.0,
@@ -10170,8 +10170,8 @@
         "state": "future"
     },
     "hookedmediagroup.com": {
-        "epoch": 1596326400.0,
-        "expiration_date": "02-aug-2020",
+        "epoch": 1627862400.0,
+        "expiration_date": "02-aug-2021",
         "state": "future"
     },
     "hopster.com": {
