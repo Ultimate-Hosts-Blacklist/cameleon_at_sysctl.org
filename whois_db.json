@@ -2122,7 +2122,7 @@
     "adforce.com": {
         "epoch": 1596326400.0,
         "expiration_date": "02-aug-2020",
-        "state": "future"
+        "state": "past"
     },
     "adforce.ru": {
         "epoch": 1603065600.0,
@@ -12147,7 +12147,7 @@
     "onlyfind.net": {
         "epoch": 1596240000.0,
         "expiration_date": "01-aug-2020",
-        "state": "future"
+        "state": "past"
     },
     "onmpeg.com": {
         "epoch": 1625788800.0,
