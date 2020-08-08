@@ -3687,7 +3687,7 @@
     "adware-2009.com": {
         "epoch": 1596844800.0,
         "expiration_date": "08-aug-2020",
-        "state": "future"
+        "state": "past"
     },
     "adware-remover.net": {
         "epoch": 1625443200.0,
@@ -10375,9 +10375,9 @@
         "state": "future"
     },
     "impregnable.net": {
-        "epoch": 1596672000.0,
-        "expiration_date": "06-aug-2020",
-        "state": "past"
+        "epoch": 1628208000.0,
+        "expiration_date": "06-aug-2021",
+        "state": "future"
     },
     "impresionesweb.com": {
         "epoch": 1609286400.0,
