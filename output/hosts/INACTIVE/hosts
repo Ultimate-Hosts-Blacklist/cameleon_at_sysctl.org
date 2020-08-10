@@ -1043,6 +1043,7 @@
 0.0.0.0 adserver.buzzfirst.com
 0.0.0.0 adserver.comparatel.fr
 0.0.0.0 adserver.digitalpartners.com
+0.0.0.0 adserver.directforce.com
 0.0.0.0 adserver.humanux.com
 0.0.0.0 adserver.netcollex.co.uk
 0.0.0.0 adserver.omroepflevoland.nl
@@ -1481,7 +1482,9 @@
 0.0.0.0 bob015.web3000.com
 0.0.0.0 bob016.web3000.com
 0.0.0.0 bob024.web3000.com
+0.0.0.0 bob025.web3000.com
 0.0.0.0 bob026.web3000.com
+0.0.0.0 bob028.web3000.com
 0.0.0.0 bob029.web3000.com
 0.0.0.0 bob035.web3000.com
 0.0.0.0 bob036.web3000.com
@@ -1542,6 +1545,7 @@
 0.0.0.0 bob210.web3000.com
 0.0.0.0 bob212.web3000.com
 0.0.0.0 bob216.web3000.com
+0.0.0.0 bob236.web3000.com
 0.0.0.0 bob240.web3000.com
 0.0.0.0 bob243.web3000.com
 0.0.0.0 bob244.web3000.com
@@ -1601,6 +1605,7 @@
 0.0.0.0 bob418.web3000.com
 0.0.0.0 bob419.web3000.com
 0.0.0.0 bob421.web3000.com
+0.0.0.0 bob422.web3000.com
 0.0.0.0 bob426.web3000.com
 0.0.0.0 bob427.web3000.com
 0.0.0.0 bob428.web3000.com
@@ -1614,6 +1619,7 @@
 0.0.0.0 bob454.web3000.com
 0.0.0.0 bob457.web3000.com
 0.0.0.0 bob461.web3000.com
+0.0.0.0 bob467.web3000.com
 0.0.0.0 bob468.web3000.com
 0.0.0.0 bob474.web3000.com
 0.0.0.0 bob479.web3000.com
@@ -1628,6 +1634,7 @@
 0.0.0.0 bob522.web3000.com
 0.0.0.0 bob528.web3000.com
 0.0.0.0 bob529.web3000.com
+0.0.0.0 bob531.web3000.com
 0.0.0.0 bob533.web3000.com
 0.0.0.0 bob536.web3000.com
 0.0.0.0 bob537.web3000.com
@@ -1659,13 +1666,17 @@
 0.0.0.0 bob604.web3000.com
 0.0.0.0 bob605.web3000.com
 0.0.0.0 bob609.web3000.com
+0.0.0.0 bob613.web3000.com
 0.0.0.0 bob622.web3000.com
 0.0.0.0 bob625.web3000.com
+0.0.0.0 bob633.web3000.com
+0.0.0.0 bob634.web3000.com
 0.0.0.0 bob637.web3000.com
 0.0.0.0 bob639.web3000.com
 0.0.0.0 bob640.web3000.com
 0.0.0.0 bob643.web3000.com
 0.0.0.0 bob648.web3000.com
+0.0.0.0 bob655.web3000.com
 0.0.0.0 bob657.web3000.com
 0.0.0.0 bob659.web3000.com
 0.0.0.0 bob661.web3000.com
@@ -1675,11 +1686,13 @@
 0.0.0.0 bob674.web3000.com
 0.0.0.0 bob686.web3000.com
 0.0.0.0 bob687.web3000.com
+0.0.0.0 bob688.web3000.com
 0.0.0.0 bob692.web3000.com
 0.0.0.0 bob698.web3000.com
 0.0.0.0 bob699.web3000.com
 0.0.0.0 bob701.web3000.com
 0.0.0.0 bob707.web3000.com
+0.0.0.0 bob708.web3000.com
 0.0.0.0 bob712.web3000.com
 0.0.0.0 bob713.web3000.com
 0.0.0.0 bob724.web3000.com
@@ -1718,6 +1731,7 @@
 0.0.0.0 bob823.web3000.com
 0.0.0.0 bob825.web3000.com
 0.0.0.0 bob827.web3000.com
+0.0.0.0 bob830.web3000.com
 0.0.0.0 bob837.web3000.com
 0.0.0.0 bob841.web3000.com
 0.0.0.0 bob842.web3000.com
@@ -1737,19 +1751,23 @@
 0.0.0.0 bob905.web3000.com
 0.0.0.0 bob908.web3000.com
 0.0.0.0 bob912.web3000.com
+0.0.0.0 bob915.web3000.com
 0.0.0.0 bob916.web3000.com
 0.0.0.0 bob918.web3000.com
 0.0.0.0 bob922.web3000.com
 0.0.0.0 bob930.web3000.com
+0.0.0.0 bob931.web3000.com
 0.0.0.0 bob936.web3000.com
 0.0.0.0 bob942.web3000.com
 0.0.0.0 bob945.web3000.com
 0.0.0.0 bob949.web3000.com
 0.0.0.0 bob950.web3000.com
 0.0.0.0 bob951.web3000.com
+0.0.0.0 bob952.web3000.com
 0.0.0.0 bob958.web3000.com
 0.0.0.0 bob959.web3000.com
 0.0.0.0 bob962.web3000.com
+0.0.0.0 bob963.web3000.com
 0.0.0.0 bob968.web3000.com
 0.0.0.0 bob973.web3000.com
 0.0.0.0 bob982.web3000.com
@@ -1758,6 +1776,7 @@
 0.0.0.0 bob985.web3000.com
 0.0.0.0 bob986.web3000.com
 0.0.0.0 bob987.web3000.com
+0.0.0.0 bob989.web3000.com
 0.0.0.0 bob990.web3000.com
 0.0.0.0 bob991.web3000.com
 0.0.0.0 bob994.web3000.com
@@ -3642,6 +3661,7 @@
 0.0.0.0 www.redirectx.net
 0.0.0.0 www.reduxmediia.com
 0.0.0.0 www.registrygenius.com
+0.0.0.0 www.results-today.com
 0.0.0.0 www.resultsz.com
 0.0.0.0 www.retaraga.ru
 0.0.0.0 www.robtopol.in
@@ -3670,6 +3690,7 @@
 0.0.0.0 www.sitebro.net
 0.0.0.0 www.siteerror.com
 0.0.0.0 www.sitestat.com
+0.0.0.0 www.sixsigmatraffic.com
 0.0.0.0 www.slotchbar.com
 0.0.0.0 www.sms-ads.com
 0.0.0.0 www.softonic-analytics.net
@@ -3695,6 +3716,7 @@
 0.0.0.0 www.tcgtrkr.com
 0.0.0.0 www.tearads.com
 0.0.0.0 www.teenboobstube.com
+0.0.0.0 www.teens24h.com
 0.0.0.0 www.termsandprivacy.com
 0.0.0.0 www.theads.me
 0.0.0.0 www.thebighits.com
