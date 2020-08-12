@@ -12512,7 +12512,7 @@
     "php4you.biz": {
         "epoch": 1597017600.0,
         "expiration_date": "10-aug-2020",
-        "state": "future"
+        "state": "past"
     },
     "pickoftheweb.com": {
         "epoch": 1602979200.0,
@@ -14360,9 +14360,9 @@
         "state": "future"
     },
     "stepnation.com": {
-        "epoch": 1597104000.0,
-        "expiration_date": "11-aug-2020",
-        "state": "past"
+        "epoch": 1660176000.0,
+        "expiration_date": "11-aug-2022",
+        "state": "future"
     },
     "stock-monkey.com": {
         "epoch": 1619740800.0,
