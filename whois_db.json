@@ -5870,8 +5870,8 @@
         "state": "future"
     },
     "best-meds.biz": {
-        "epoch": 1597276800.0,
-        "expiration_date": "13-aug-2020",
+        "epoch": 1628812800.0,
+        "expiration_date": "13-aug-2021",
         "state": "future"
     },
     "best-top.ro": {
@@ -6747,7 +6747,7 @@
     "casalamedia.com": {
         "epoch": 1597276800.0,
         "expiration_date": "13-aug-2020",
-        "state": "future"
+        "state": "past"
     },
     "casalemedia.com": {
         "epoch": 1697673600.0,
