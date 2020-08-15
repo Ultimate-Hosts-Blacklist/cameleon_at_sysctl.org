@@ -8617,7 +8617,7 @@
     "efficienttraffic.com": {
         "epoch": 1597449600.0,
         "expiration_date": "15-aug-2020",
-        "state": "future"
+        "state": "past"
     },
     "efront.com": {
         "epoch": 1625184000.0,
@@ -15487,6 +15487,11 @@
     "uucome.com": {
         "epoch": 1621123200.0,
         "expiration_date": "16-may-2021",
+        "state": "future"
+    },
+    "uzoogle.com": {
+        "epoch": 1628899200.0,
+        "expiration_date": "14-aug-2021",
         "state": "future"
     },
     "v-links.net": {
