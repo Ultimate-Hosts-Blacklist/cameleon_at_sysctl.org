@@ -2945,8 +2945,8 @@
         "state": "future"
     },
     "adsupply.com": {
-        "epoch": 1597276800.0,
-        "expiration_date": "13-aug-2020",
+        "epoch": 1660348800.0,
+        "expiration_date": "13-aug-2022",
         "state": "future"
     },
     "adsurve.com": {
@@ -11550,9 +11550,9 @@
         "state": "future"
     },
     "mpmotrk.com": {
-        "epoch": 1597276800.0,
-        "expiration_date": "13-aug-2020",
-        "state": "past"
+        "epoch": 1628812800.0,
+        "expiration_date": "13-aug-2021",
+        "state": "future"
     },
     "mport.com": {
         "epoch": 1611446400.0,
