@@ -9680,8 +9680,8 @@
         "state": "future"
     },
     "gbscript.com": {
-        "epoch": 1597708800.0,
-        "expiration_date": "18-aug-2020",
+        "epoch": 1629244800.0,
+        "expiration_date": "18-aug-2021",
         "state": "future"
     },
     "gcmadvertising.com": {
@@ -15822,7 +15822,7 @@
     "webtistic.com": {
         "epoch": 1597881600.0,
         "expiration_date": "20-aug-2020",
-        "state": "future"
+        "state": "past"
     },
     "webtrackerplus.com": {
         "epoch": 1619395200.0,
