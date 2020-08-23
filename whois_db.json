@@ -2805,8 +2805,8 @@
         "state": "future"
     },
     "adsfac.us": {
-        "epoch": 1597968000.0,
-        "expiration_date": "21-aug-2020",
+        "epoch": 1629504000.0,
+        "expiration_date": "21-aug-2021",
         "state": "future"
     },
     "adsforindians.com": {
@@ -11457,7 +11457,7 @@
     "mmotraffic.com": {
         "epoch": 1598054400.0,
         "expiration_date": "22-aug-2020",
-        "state": "future"
+        "state": "past"
     },
     "mmptrack.com": {
         "epoch": 1614988800.0,
