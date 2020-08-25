@@ -577,7 +577,7 @@
     "29bca6cb72a665c8.se": {
         "epoch": 1598313600.0,
         "expiration_date": "25-aug-2020",
-        "state": "future"
+        "state": "past"
     },
     "2asian.com": {
         "epoch": 1610150400.0,
@@ -2877,7 +2877,7 @@
     "adsnavigator.com": {
         "epoch": 1598313600.0,
         "expiration_date": "25-aug-2020",
-        "state": "future"
+        "state": "past"
     },
     "adsnic.com": {
         "epoch": 1622332800.0,
@@ -10660,8 +10660,8 @@
         "state": "future"
     },
     "joinourwebsite.com": {
-        "epoch": 1598227200.0,
-        "expiration_date": "24-aug-2020",
+        "epoch": 1629763200.0,
+        "expiration_date": "24-aug-2021",
         "state": "future"
     },
     "jps.ms": {
