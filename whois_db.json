@@ -7795,8 +7795,8 @@
         "state": "future"
     },
     "crm-metrix.fr": {
-        "epoch": 1598227200.0,
-        "expiration_date": "24-aug-2020",
+        "epoch": 1629763200.0,
+        "expiration_date": "24-aug-2021",
         "state": "future"
     },
     "crocoads.com": {
@@ -11967,7 +11967,7 @@
     "nowstat.com": {
         "epoch": 1598400000.0,
         "expiration_date": "26-aug-2020",
-        "state": "future"
+        "state": "past"
     },
     "nsrecord.org": {
         "epoch": 1604275200.0,
