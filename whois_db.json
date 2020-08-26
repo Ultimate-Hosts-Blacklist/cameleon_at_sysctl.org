@@ -3330,8 +3330,8 @@
         "state": "future"
     },
     "adultmovieplus.com": {
-        "epoch": 1598313600.0,
-        "expiration_date": "25-aug-2020",
+        "epoch": 1629849600.0,
+        "expiration_date": "25-aug-2021",
         "state": "future"
     },
     "adultoweb.com": {
@@ -7362,7 +7362,7 @@
     "cmsmulti.com": {
         "epoch": 1598400000.0,
         "expiration_date": "26-aug-2020",
-        "state": "future"
+        "state": "past"
     },
     "cmtgroup.com": {
         "epoch": 1610236800.0,
