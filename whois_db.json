@@ -6380,8 +6380,8 @@
         "state": "future"
     },
     "bookmarksync.com": {
-        "epoch": 1598486400.0,
-        "expiration_date": "27-aug-2020",
+        "epoch": 1630022400.0,
+        "expiration_date": "27-aug-2021",
         "state": "future"
     },
     "bornaz.com": {
@@ -7360,9 +7360,9 @@
         "state": "future"
     },
     "cmsmulti.com": {
-        "epoch": 1598400000.0,
-        "expiration_date": "26-aug-2020",
-        "state": "past"
+        "epoch": 1629936000.0,
+        "expiration_date": "26-aug-2021",
+        "state": "future"
     },
     "cmtgroup.com": {
         "epoch": 1610236800.0,
@@ -14747,7 +14747,7 @@
     "thickcash.com": {
         "epoch": 1598486400.0,
         "expiration_date": "27-aug-2020",
-        "state": "future"
+        "state": "past"
     },
     "thruport.com": {
         "epoch": 1606780800.0,
