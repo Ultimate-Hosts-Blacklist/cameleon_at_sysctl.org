@@ -52,7 +52,7 @@
     "077.us": {
         "epoch": 1598313600.0,
         "expiration_date": "25-aug-2020",
-        "state": "future"
+        "state": "past"
     },
     "0900.com": {
         "epoch": 1731888000.0,
@@ -6805,8 +6805,8 @@
         "state": "future"
     },
     "cashlayer.com": {
-        "epoch": 1598400000.0,
-        "expiration_date": "26-aug-2020",
+        "epoch": 1629936000.0,
+        "expiration_date": "26-aug-2021",
         "state": "future"
     },
     "cashonads.com": {
