@@ -6102,7 +6102,7 @@
     "bigtopleads.cn": {
         "epoch": 1598486400.0,
         "expiration_date": "27-aug-2020",
-        "state": "future"
+        "state": "past"
     },
     "bigtracker.com": {
         "epoch": 1600905600.0,
@@ -10265,8 +10265,8 @@
         "state": "past"
     },
     "hub.com.pl": {
-        "epoch": 1598400000.0,
-        "expiration_date": "26-aug-2020",
+        "epoch": 1629936000.0,
+        "expiration_date": "26-aug-2021",
         "state": "future"
     },
     "hubtraffic.com": {
@@ -13820,8 +13820,8 @@
         "state": "future"
     },
     "sexhit.com": {
-        "epoch": 1598227200.0,
-        "expiration_date": "24-aug-2020",
+        "epoch": 1629763200.0,
+        "expiration_date": "24-aug-2021",
         "state": "future"
     },
     "sexinyourcity.com": {
