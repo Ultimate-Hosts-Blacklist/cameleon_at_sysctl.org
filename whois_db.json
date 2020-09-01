@@ -782,7 +782,7 @@
     "411-money.com": {
         "epoch": 1598832000.0,
         "expiration_date": "31-aug-2020",
-        "state": "future"
+        "state": "past"
     },
     "411-realestate.com": {
         "epoch": 1617494400.0,
@@ -7657,7 +7657,7 @@
     "cpmadworld.com": {
         "epoch": 1598918400.0,
         "expiration_date": "01-sep-2020",
-        "state": "future"
+        "state": "past"
     },
     "cpmaffiliation.com": {
         "epoch": 1606608000.0,
@@ -8107,7 +8107,7 @@
     "digink.com": {
         "epoch": 1598918400.0,
         "expiration_date": "01-sep-2020",
-        "state": "future"
+        "state": "past"
     },
     "digitalnames.net": {
         "epoch": 1613088000.0,
@@ -11777,7 +11777,7 @@
     "nameadmininc.com": {
         "epoch": 1598918400.0,
         "expiration_date": "01-sep-2020",
-        "state": "future"
+        "state": "past"
     },
     "nameadministration.com": {
         "epoch": 1644019200.0,
