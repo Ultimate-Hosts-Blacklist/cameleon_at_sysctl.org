@@ -14012,7 +14012,7 @@
     "sitestats.com": {
         "epoch": 1599091200.0,
         "expiration_date": "03-sep-2020",
-        "state": "future"
+        "state": "past"
     },
     "sitetracker.com": {
         "epoch": 1619568000.0,
@@ -14107,7 +14107,7 @@
     "softwareupdaterlp.com": {
         "epoch": 1599004800.0,
         "expiration_date": "02-sep-2020",
-        "state": "future"
+        "state": "past"
     },
     "spacash.com": {
         "epoch": 1626220800.0,
