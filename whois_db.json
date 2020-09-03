@@ -3397,7 +3397,7 @@
     "adultstarworld.com": {
         "epoch": 1599091200.0,
         "expiration_date": "03-sep-2020",
-        "state": "future"
+        "state": "past"
     },
     "adultthe.com": {
         "epoch": 1614556800.0,
@@ -14010,9 +14010,9 @@
         "state": "future"
     },
     "sitestats.com": {
-        "epoch": 1599091200.0,
-        "expiration_date": "03-sep-2020",
-        "state": "past"
+        "epoch": 1630627200.0,
+        "expiration_date": "03-sep-2021",
+        "state": "future"
     },
     "sitetracker.com": {
         "epoch": 1619568000.0,
@@ -16165,8 +16165,8 @@
         "state": "future"
     },
     "xxx-mom.com": {
-        "epoch": 1599091200.0,
-        "expiration_date": "03-sep-2020",
+        "epoch": 1630627200.0,
+        "expiration_date": "03-sep-2021",
         "state": "future"
     },
     "xxx-r.com": {
