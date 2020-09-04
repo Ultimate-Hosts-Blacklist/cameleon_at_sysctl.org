@@ -155,7 +155,6 @@ plain_list_domain: true
 print_dots: false
 quiet: true
 reputation: false
-seconds_before_http_timeout: 6
 shadow_file: false
 share_logs: true
 show_execution_time: false
@@ -206,8 +205,10 @@ status:
         sane: SANE
         up: ACTIVE
         valid: VALID
+store_whois_record: false
 syntax: false
 timeout: 5
+timout: 6
 unified: false
 use_reputation_data: false
 user_agent:
