@@ -1,0 +1,15 @@
+{
+    "abs_source": "/home/runner/work/cameleon_at_sysctl.org/cameleon_at_sysctl.org/domains.list",
+    "checker_type": "AVAILABILITY",
+    "destination": "domains.list",
+    "hash": "15f2fcef1b42dba105b1ae1d06f12cc42a417f1f1aa9ebafd63271a2",
+    "line_number": 11084,
+    "output_dir": "/home/runner/work/cameleon_at_sysctl.org/cameleon_at_sysctl.org/output/domains.list",
+    "previous_hash": null,
+    "rel_source": "domains.list",
+    "session_id": "71e690a07628703e2a911d20",
+    "source": "/home/runner/work/cameleon_at_sysctl.org/cameleon_at_sysctl.org/domains.list",
+    "subject": "/home/runner/work/cameleon_at_sysctl.org/cameleon_at_sysctl.org/domains.list",
+    "subject_type": "domain",
+    "type": "file"
+}
