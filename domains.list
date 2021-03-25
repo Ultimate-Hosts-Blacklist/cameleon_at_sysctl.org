@@ -183,11 +183,10 @@
 08.185.87.0.liveadvert.com
 08.185.87.01.liveadvert.com
 08.185.87.02.liveadvert.com
-08.185.87.03.liveadvert.com
 08.185.87.3.liveadvert.com
+08.185.87.03.liveadvert.com
 08.185.87.4.liveadvert.com
 08.185.87.04.liveadvert.com
-08.185.87.05.liveadvert.com
 08.185.87.5.liveadvert.com
 08.185.87.06.liveadvert.com
 08.185.87.6.liveadvert.com
@@ -786,8 +785,9 @@
 127.0.0.1 acustat.com
 127.0.0.1 acxiom.com
 127.0.0.1 ad0.bigmir.net
-127.0.0.1 ad00.ezcybersearch.com
 127.0.0.1 ad0.ezcybersearch.com
+127.0.0.1 ad00.ezcybersearch.com
+127.0.0.1 ad0.hpg.com.br
 127.0.0.1 ad00.hpg.com.br
 127.0.0.1 ad0.hpg.com.br
 127.0.0.1 ad0.hpg.ig.com.br
@@ -796,7 +796,6 @@
 127.0.0.1 ad0.paycount.com
 127.0.0.1 ad0.popupad.net
 127.0.0.1 ad00.popupad.net
-127.0.0.1 ad0.popupad.net
 127.0.0.1 ad1.adfarm1.adition.com
 127.0.0.1 ad1.adfun.ru
 127.0.0.1 ad1.adtitan.net
@@ -813,8 +812,8 @@
 127.0.0.1 ad01.ezcybersearch.com
 127.0.0.1 ad01.focalink.com
 127.0.0.1 ad1.gamezone.de
-127.0.0.1 ad01.hpg.com.br
 127.0.0.1 ad1.hpg.com.br
+127.0.0.1 ad01.hpg.com.br
 127.0.0.1 ad1.hpg.ig.com.br
 127.0.0.1 ad01.hpg.ig.com.br
 127.0.0.1 ad1.icorp.net
@@ -881,10 +880,10 @@
 127.0.0.1 ad03.ezcybersearch.com
 127.0.0.1 ad03.focalink.com
 127.0.0.1 ad3.hornymatches.com
-127.0.0.1 ad3.hpg.com.br
 127.0.0.1 ad03.hpg.com.br
-127.0.0.1 ad03.hpg.ig.com.br
+127.0.0.1 ad3.hpg.com.br
 127.0.0.1 ad3.hpg.ig.com.br
+127.0.0.1 ad03.hpg.ig.com.br
 127.0.0.1 ad3.linkbucks.com
 127.0.0.1 ad3.paycount.com
 127.0.0.1 ad03.paycount.com
@@ -900,8 +899,8 @@
 127.0.0.1 ad4.dmpi.net
 127.0.0.1 ad4.doubleclick.be
 127.0.0.1 ad4.enet.com.cn
-127.0.0.1 ad4.ezcybersearch.com
 127.0.0.1 ad04.ezcybersearch.com
+127.0.0.1 ad4.ezcybersearch.com
 127.0.0.1 ad04.focalink.com
 127.0.0.1 ad4.gueb.com
 127.0.0.1 ad04.hpg.com.br
@@ -909,9 +908,10 @@
 127.0.0.1 ad4.hpg.ig.com.br
 127.0.0.1 ad04.hpg.ig.com.br
 127.0.0.1 ad4.netshelter.net
+127.0.0.1 ad04.paycount.com
 127.0.0.1 ad4.paycount.com
-127.0.0.1 ad4.popupad.net
 127.0.0.1 ad04.popupad.net
+127.0.0.1 ad4.popupad.net
 127.0.0.1 ad4.sina.com.cn
 127.0.0.1 ad4.speedbit.com
 127.0.0.1 ad4ever.com
@@ -920,12 +920,12 @@
 127.0.0.1 ad5.bb.ru
 127.0.0.1 ad5.bigmir.net
 127.0.0.1 ad5.doubleclick.be
-127.0.0.1 ad5.ezcybersearch.com
 127.0.0.1 ad05.ezcybersearch.com
+127.0.0.1 ad5.ezcybersearch.com
 127.0.0.1 ad05.focalink.com
 127.0.0.1 ad5.hpg.com.br
 127.0.0.1 ad05.hpg.com.br
-127.0.0.1 ad5.hpg.ig.com.br
+127.0.0.1 ad5.hpg.com.br
 127.0.0.1 ad05.hpg.ig.com.br
 127.0.0.1 ad5.hpg.ig.com.br
 127.0.0.1 ad5.netshelter.net
@@ -943,28 +943,26 @@
 127.0.0.1 ad06.focalink.com
 127.0.0.1 ad06.hpg.com.br
 127.0.0.1 ad6.hpg.com.br
-127.0.0.1 ad06.hpg.com.br
 127.0.0.1 ad06.hpg.ig.com.br
 127.0.0.1 ad6.hpg.ig.com.br
 127.0.0.1 ad6.paycount.com
 127.0.0.1 ad06.paycount.com
-127.0.0.1 ad6.popupad.net
 127.0.0.1 ad06.popupad.net
+127.0.0.1 ad6.popupad.net
 127.0.0.1 ad6.sonata.com
 127.0.0.1 ad6.speedbit.com
 127.0.0.1 ad7.bannerbank.ru
 127.0.0.1 ad7.bb.ru
 127.0.0.1 ad7.bigmir.net
 127.0.0.1 ad7.doubleclick.be
-127.0.0.1 ad7.ezcybersearch.com
 127.0.0.1 ad07.ezcybersearch.com
+127.0.0.1 ad7.ezcybersearch.com
 127.0.0.1 ad07.focalink.com
 127.0.0.1 ad7.gueb.com
-127.0.0.1 ad07.hpg.com.br
 127.0.0.1 ad7.hpg.com.br
+127.0.0.1 ad07.hpg.com.br
 127.0.0.1 ad7.hpg.ig.com.br
 127.0.0.1 ad07.hpg.ig.com.br
-127.0.0.1 ad7.hpg.ig.com.br
 127.0.0.1 ad7.paycount.com
 127.0.0.1 ad07.paycount.com
 127.0.0.1 ad07.popupad.net
@@ -973,17 +971,17 @@
 127.0.0.1 ad8.allbanners.ru
 127.0.0.1 ad8.bannerbank.ru
 127.0.0.1 ad8.bb.ru
-127.0.0.1 ad08.ezcybersearch.com
 127.0.0.1 ad8.ezcybersearch.com
+127.0.0.1 ad08.ezcybersearch.com
 127.0.0.1 ad08.focalink.com
 127.0.0.1 ad08.hpg.com.br
-127.0.0.1 ad8.hpg.ig.com.br
+127.0.0.1 ad8.hpg.com.br
 127.0.0.1 ad08.hpg.ig.com.br
-127.0.0.1 ad08.paycount.com
+127.0.0.1 ad8.hpg.ig.com.br
 127.0.0.1 ad8.paycount.com
+127.0.0.1 ad08.paycount.com
 127.0.0.1 ad08.popupad.net
 127.0.0.1 ad8.popupad.net
-127.0.0.1 ad08.popupad.net
 127.0.0.1 ad8.speedbit.com
 127.0.0.1 ad9.bannerbank.ru
 127.0.0.1 ad9.bb.ru
@@ -993,13 +991,12 @@
 127.0.0.1 ad09.focalink.com
 127.0.0.1 ad9.hpg.com.br
 127.0.0.1 ad09.hpg.com.br
-127.0.0.1 ad9.hpg.ig.com.br
 127.0.0.1 ad09.hpg.ig.com.br
-127.0.0.1 ad9.paycount.com
+127.0.0.1 ad9.hpg.ig.com.br
 127.0.0.1 ad09.paycount.com
+127.0.0.1 ad9.paycount.com
 127.0.0.1 ad9.popupad.net
 127.0.0.1 ad09.popupad.net
-127.0.0.1 ad9.popupad.net
 127.0.0.1 ad9.speedbit.com
 127.0.0.1 ad10.bannerbank.ru
 127.0.0.1 ad10.doubleclick.be
@@ -3015,19 +3012,19 @@
 127.0.0.1 adroar.com
 127.0.0.1 adroll.com
 127.0.0.1 adrotate.se
-127.0.0.1 adrotator.com
 127.0.0.1 ad-rotator.com
+127.0.0.1 adrotator.com
 127.0.0.1 adrotator.se
 127.0.0.1 adrs.hit.gemius.pl
 127.0.0.1 adrun.net
 127.0.0.1 adrunner.superstats.com
 127.0.0.1 adrunnr.com
-127.0.0.1 ads00.hpg.com.br
 127.0.0.1 ads0.hpg.com.br
-127.0.0.1 ads00.hpg.ig.com.br
+127.0.0.1 ads00.hpg.com.br
 127.0.0.1 ads0.hpg.ig.com.br
-127.0.0.1 ads00.liteweb.net
+127.0.0.1 ads00.hpg.ig.com.br
 127.0.0.1 ads0.liteweb.net
+127.0.0.1 ads00.liteweb.net
 127.0.0.1 ads1.beta.lt
 127.0.0.1 ads1.capitalinteractive.co.uk
 127.0.0.1 ads1.crgaming.com
@@ -3062,8 +3059,8 @@
 127.0.0.1 ads2.ero-advertising.com
 127.0.0.1 ads2.evz.ro
 127.0.0.1 ads2.exhedra.com
-127.0.0.1 ads02.focalink.com
 127.0.0.1 ads2.focalink.com
+127.0.0.1 ads02.focalink.com
 127.0.0.1 ads2.gamecity.net
 127.0.0.1 ads2.gratisware.com
 127.0.0.1 ads2.greystripe.com
@@ -3115,7 +3112,6 @@
 127.0.0.1 ads4.gratisware.com
 127.0.0.1 ads04.hpg.com.br
 127.0.0.1 ads4.hpg.com.br
-127.0.0.1 ads4.hpg.ig.com.br
 127.0.0.1 ads04.hpg.ig.com.br
 127.0.0.1 ads4.kompasads.com
 127.0.0.1 ads4.liteweb.net
@@ -3138,56 +3134,53 @@
 127.0.0.1 ads5.hpg.com.br
 127.0.0.1 ads5.hpg.ig.com.br
 127.0.0.1 ads05.hpg.ig.com.br
-127.0.0.1 ads5.hpg.ig.com.br
 127.0.0.1 ads5.kompasads.com
 127.0.0.1 ads5.liteweb.net
 127.0.0.1 ads05.liteweb.net
 127.0.0.1 ads5.speedbit.com
 127.0.0.1 ads5.utopiad.com
-127.0.0.1 ads06.focalink.com
 127.0.0.1 ads6.focalink.com
+127.0.0.1 ads06.focalink.com
 127.0.0.1 ads6.gamecity.net
 127.0.0.1 ads6.hpg.com.br
 127.0.0.1 ads06.hpg.com.br
-127.0.0.1 ads6.hpg.ig.com.br
 127.0.0.1 ads06.hpg.ig.com.br
 127.0.0.1 ads6.hpg.ig.com.br
 127.0.0.1 ads6.kompasads.com
-127.0.0.1 ads06.liteweb.net
 127.0.0.1 ads6.liteweb.net
+127.0.0.1 ads06.liteweb.net
 127.0.0.1 ads6.speedbit.com
 127.0.0.1 ads6.utopiad.com
 127.0.0.1 ads07.focalink.com
 127.0.0.1 ads7.focalink.com
 127.0.0.1 ads7.gamecity.net
-127.0.0.1 ads7.hpg.com.br
 127.0.0.1 ads07.hpg.com.br
-127.0.0.1 ads7.hpg.ig.com.br
+127.0.0.1 ads7.hpg.com.br
 127.0.0.1 ads07.hpg.ig.com.br
 127.0.0.1 ads7.hpg.ig.com.br
 127.0.0.1 ads7.inet1.com
-127.0.0.1 ads7.liteweb.net
 127.0.0.1 ads07.liteweb.net
+127.0.0.1 ads7.liteweb.net
 127.0.0.1 ads7.speedbit.com
 127.0.0.1 ads8.com
-127.0.0.1 ads8.focalink.com
 127.0.0.1 ads08.focalink.com
+127.0.0.1 ads8.focalink.com
+127.0.0.1 ads08.hpg.com.br
 127.0.0.1 ads8.hpg.com.br
 127.0.0.1 ads08.hpg.com.br
 127.0.0.1 ads08.hpg.ig.com.br
 127.0.0.1 ads8.hpg.ig.com.br
-127.0.0.1 ads08.liteweb.net
+127.0.0.1 ads08.hpg.ig.com.br
 127.0.0.1 ads8.liteweb.net
+127.0.0.1 ads08.liteweb.net
 127.0.0.1 ads8.speedbit.com
 127.0.0.1 ads8.utopiad.com
 127.0.0.1 ads8.utopiad.comcb3.utopiad.com
 127.0.0.1 ads9.focalink.com
-127.0.0.1 ads09.focalink.com
-127.0.0.1 ads9.hpg.com.br
 127.0.0.1 ads09.hpg.com.br
+127.0.0.1 ads9.hpg.com.br
 127.0.0.1 ads09.hpg.ig.com.br
 127.0.0.1 ads9.hpg.ig.com.br
-127.0.0.1 ads09.liteweb.net
 127.0.0.1 ads9.liteweb.net
 127.0.0.1 ads09.liteweb.net
 127.0.0.1 ads9.speedbit.com
@@ -5466,16 +5459,16 @@
 127.0.0.1 adverlead.com
 127.0.0.1 adverline.com
 127.0.0.1 advert0.hpg.com.br
-127.0.0.1 advert0.hpg.ig.com.br
 127.0.0.1 advert00.hpg.ig.com.br
+127.0.0.1 advert0.hpg.ig.com.br
 127.0.0.1 advert1.hpg.com.br
 127.0.0.1 advert01.hpg.ig.com.br
 127.0.0.1 advert1.hpg.ig.com.br
 127.0.0.1 advert2.ananzi.co.za
 127.0.0.1 advert2.hpg.ig.com.br
 127.0.0.1 advert3.hpg.com.br
-127.0.0.1 advert3.hpg.ig.com.br
 127.0.0.1 advert03.hpg.ig.com.br
+127.0.0.1 advert3.hpg.ig.com.br
 127.0.0.1 advert4.hpg.com.br
 127.0.0.1 advert4.hpg.ig.com.br
 127.0.0.1 advert04.hpg.ig.com.br
@@ -5492,8 +5485,8 @@
 127.0.0.1 advert08.hpg.ig.com.br
 127.0.0.1 advert8.hpg.ig.com.br
 127.0.0.1 advert9.hpg.com.br
-127.0.0.1 advert9.hpg.ig.com.br
 127.0.0.1 advert09.hpg.ig.com.br
+127.0.0.1 advert9.hpg.ig.com.br
 127.0.0.1 advert10.hpg.ig.com.br
 127.0.0.1 advert11.hpg.ig.com.br
 127.0.0.1 advert12.hpg.ig.com.br
@@ -5888,9 +5881,9 @@
 127.0.0.1 advs.adgorithms.com
 127.0.0.1 advt.webindia123.com
 127.0.0.1 adware-2009.com
-127.0.0.1 adware.com
 127.0.0.1 ad-w-a-r-e.com
 127.0.0.1 a-d-w-a-r-e.com
+127.0.0.1 adware.com
 127.0.0.1 adware.hu
 127.0.0.1 adware.privacy-solution.com
 127.0.0.1 adware.pro
@@ -6945,8 +6938,8 @@
 127.0.0.1 babes.ign.us.intellitxt.com
 127.0.0.1 babuinworld.com
 127.0.0.1 babycentercom.112.2o7.net
-127.0.0.1 babylon-x.com
 127.0.0.1 babylonx.com
+127.0.0.1 babylon-x.com
 127.0.0.1 backfill.ph.affinity.com
 127.0.0.1 backoffice.roitracking.info
 127.0.0.1 backseatcuddler.us.intellitxt.com
@@ -18535,8 +18528,8 @@
 127.0.0.1 www.cashlayer.com
 127.0.0.1 www.cashthat.com
 127.0.0.1 www.cashtrafic.com
-127.0.0.1 www.casino-on-net.com
 127.0.0.1 www.casinoonnet.com
+127.0.0.1 www.casino-on-net.com
 127.0.0.1 www.casinotropez.com
 127.0.0.1 www.cbeckads.com
 127.0.0.1 www.cbproads.com
@@ -20239,17 +20232,16 @@
 127.0.0.1 08.185.87.01.liveadvert.com
 127.0.0.1 08.185.87.02.liveadvert.com
 127.0.0.1 08.185.87.03.liveadvert.com
-127.0.0.1 08.185.87.3.liveadvert.com
-127.0.0.1 08.185.87.04.liveadvert.com
 127.0.0.1 08.185.87.4.liveadvert.com
+127.0.0.1 08.185.87.04.liveadvert.com
 127.0.0.1 08.185.87.05.liveadvert.com
 127.0.0.1 08.185.87.5.liveadvert.com
-127.0.0.1 08.185.87.6.liveadvert.com
 127.0.0.1 08.185.87.06.liveadvert.com
+127.0.0.1 08.185.87.6.liveadvert.com
 127.0.0.1 08.185.87.07.liveadvert.com
 127.0.0.1 08.185.87.7.liveadvert.com
-127.0.0.1 08.185.87.08.liveadvert.com
 127.0.0.1 08.185.87.8.liveadvert.com
+127.0.0.1 08.185.87.08.liveadvert.com
 127.0.0.1 08.185.87.9.liveadvert.com
 127.0.0.1 08.185.87.09.liveadvert.com
 127.0.0.1 08.185.87.10.liveadvert.com
@@ -21909,10 +21901,10 @@ acuityplatform.com
 acustat.com
 acxiom.com
 ad0.bigmir.net
-ad00.ezcybersearch.com
 ad0.ezcybersearch.com
-ad0.hpg.com.br
+ad00.ezcybersearch.com
 ad00.hpg.com.br
+ad0.hpg.com.br
 ad00.hpg.ig.com.br
 ad0.hpg.ig.com.br
 ad0.paycount.com
@@ -21934,6 +21926,7 @@ ad1.ezcybersearch.com
 ad01.ezcybersearch.com
 ad01.focalink.com
 ad1.gamezone.de
+ad1.hpg.com.br
 ad01.hpg.com.br
 ad1.hpg.com.br
 ad01.hpg.ig.com.br
@@ -21946,7 +21939,6 @@ ad1.netshelter.net
 ad1.nownews.com
 ad1.nozonedata.com
 ad01.paycount.com
-ad1.paycount.com
 ad1.popupad.net
 ad01.popupad.net
 ad1.redseen.com
@@ -22004,13 +21996,11 @@ ad3.ezcybersearch.com
 ad03.focalink.com
 ad3.hornymatches.com
 ad03.hpg.com.br
-ad3.hpg.com.br
-ad3.hpg.ig.com.br
 ad03.hpg.ig.com.br
+ad3.hpg.ig.com.br
 ad3.linkbucks.com
-ad03.paycount.com
 ad3.paycount.com
-ad03.popupad.net
+ad03.paycount.com
 ad3.popupad.net
 ad03.popupad.net
 ad3.sina.com.cn
@@ -22023,12 +22013,12 @@ ad4.bigmir.net
 ad4.dmpi.net
 ad4.doubleclick.be
 ad4.enet.com.cn
-ad04.ezcybersearch.com
 ad4.ezcybersearch.com
+ad04.ezcybersearch.com
 ad04.focalink.com
 ad4.gueb.com
-ad4.hpg.com.br
 ad04.hpg.com.br
+ad4.hpg.com.br
 ad4.hpg.ig.com.br
 ad04.hpg.ig.com.br
 ad4.netshelter.net
@@ -22049,12 +22039,14 @@ ad5.doubleclick.be
 ad5.ezcybersearch.com
 ad05.ezcybersearch.com
 ad05.focalink.com
+ad05.hpg.com.br
 ad5.hpg.com.br
 ad05.hpg.com.br
 ad05.hpg.ig.com.br
 ad5.netshelter.net
-ad05.paycount.com
 ad5.paycount.com
+ad05.paycount.com
+ad5.popupad.net
 ad05.popupad.net
 ad5.popupad.net
 ad5.speedbit.com
@@ -22065,11 +22057,12 @@ ad6.doubleclick.be
 ad6.ezcybersearch.com
 ad06.ezcybersearch.com
 ad06.focalink.com
-ad06.hpg.com.br
 ad6.hpg.com.br
-ad6.hpg.ig.com.br
+ad06.hpg.com.br
 ad06.hpg.ig.com.br
+ad6.hpg.ig.com.br
 ad6.paycount.com
+ad06.paycount.com
 ad6.popupad.net
 ad06.popupad.net
 ad6.sonata.com
@@ -22084,44 +22077,44 @@ ad07.focalink.com
 ad7.gueb.com
 ad7.hpg.com.br
 ad07.hpg.com.br
-ad07.hpg.ig.com.br
 ad7.hpg.ig.com.br
+ad07.hpg.ig.com.br
 ad07.paycount.com
 ad7.paycount.com
-ad7.popupad.net
 ad07.popupad.net
+ad7.popupad.net
 ad7.speedbit.com
 ad8.allbanners.ru
 ad8.bannerbank.ru
 ad8.bb.ru
-ad08.ezcybersearch.com
 ad8.ezcybersearch.com
+ad08.ezcybersearch.com
 ad08.focalink.com
 ad08.hpg.com.br
 ad8.hpg.com.br
 ad08.hpg.com.br
 ad08.hpg.ig.com.br
 ad8.hpg.ig.com.br
-ad08.paycount.com
 ad8.paycount.com
+ad08.paycount.com
+ad08.popupad.net
 ad8.popupad.net
 ad08.popupad.net
 ad8.speedbit.com
 ad9.bannerbank.ru
 ad9.bb.ru
 ad9.doubleclick.be
-ad9.ezcybersearch.com
 ad09.ezcybersearch.com
+ad9.ezcybersearch.com
 ad09.focalink.com
-ad9.hpg.com.br
 ad09.hpg.com.br
-ad09.hpg.ig.com.br
+ad9.hpg.com.br
 ad9.hpg.ig.com.br
-ad09.paycount.com
+ad09.hpg.ig.com.br
 ad9.paycount.com
+ad09.paycount.com
 ad9.popupad.net
 ad09.popupad.net
-ad9.popupad.net
 ad9.speedbit.com
 ad10.bannerbank.ru
 ad10.doubleclick.be
@@ -24188,7 +24181,6 @@ ads00.hpg.com.br
 ads0.hpg.com.br
 ads00.hpg.ig.com.br
 ads0.hpg.ig.com.br
-ads00.hpg.ig.com.br
 ads00.liteweb.net
 ads0.liteweb.net
 ads1.beta.lt
@@ -24199,13 +24191,15 @@ ads01.focalink.com
 ads1.focalink.com
 ads1.gccx.com
 ads1.gratisware.com
+ads01.hpg.com.br
 ads1.hpg.com.br
+ads01.hpg.ig.com.br
 ads1.hpg.ig.com.br
 ads01.hpg.ig.com.br
 ads1.intelliads.com
 ads1.legalworld.bg
-ads1.liteweb.net
 ads01.liteweb.net
+ads1.liteweb.net
 ads1.mediacapital.pt
 ads1.msads.net
 ads1.msn.com
@@ -24224,8 +24218,8 @@ ads2.ekologia.pl
 ads2.ero-advertising.com
 ads2.evz.ro
 ads2.exhedra.com
-ads02.focalink.com
 ads2.focalink.com
+ads02.focalink.com
 ads2.gamecity.net
 ads2.gratisware.com
 ads2.greystripe.com
@@ -24236,8 +24230,8 @@ ads2.hpg.ig.com.br
 ads2.i-kool.com
 ads2.iwon.com
 ads2.jubii.dk
-ads02.liteweb.net
 ads2.liteweb.net
+ads02.liteweb.net
 ads2.msads.net
 ads2.msn.com
 ads2.nextmedia.bg
@@ -24297,20 +24291,21 @@ ads5.gamecity.nl
 ads5.gratisware.com
 ads5.hpg.com.br
 ads05.hpg.com.br
+ads5.hpg.com.br
 ads5.hpg.ig.com.br
 ads05.hpg.ig.com.br
 ads5.kompasads.com
-ads05.liteweb.net
 ads5.liteweb.net
+ads05.liteweb.net
 ads5.speedbit.com
 ads5.utopiad.com
 ads6.focalink.com
 ads06.focalink.com
 ads6.gamecity.net
-ads06.hpg.com.br
 ads6.hpg.com.br
-ads6.hpg.ig.com.br
+ads06.hpg.com.br
 ads06.hpg.ig.com.br
+ads6.hpg.ig.com.br
 ads6.kompasads.com
 ads06.liteweb.net
 ads6.liteweb.net
@@ -24319,8 +24314,8 @@ ads6.utopiad.com
 ads07.focalink.com
 ads7.focalink.com
 ads7.gamecity.net
-ads7.hpg.com.br
 ads07.hpg.com.br
+ads7.hpg.com.br
 ads07.hpg.ig.com.br
 ads7.hpg.ig.com.br
 ads7.inet1.com
@@ -24328,8 +24323,8 @@ ads7.liteweb.net
 ads07.liteweb.net
 ads7.speedbit.com
 ads8.com
-ads8.focalink.com
 ads08.focalink.com
+ads8.focalink.com
 ads8.hpg.com.br
 ads08.hpg.com.br
 ads8.hpg.ig.com.br
@@ -24341,10 +24336,11 @@ ads8.utopiad.com
 ads8.utopiad.comcb3.utopiad.com
 ads9.focalink.com
 ads09.focalink.com
-ads9.hpg.com.br
+ads9.focalink.com
 ads09.hpg.com.br
-ads09.hpg.ig.com.br
+ads9.hpg.com.br
 ads9.hpg.ig.com.br
+ads09.hpg.ig.com.br
 ads9.liteweb.net
 ads09.liteweb.net
 ads9.speedbit.com
@@ -26684,8 +26680,8 @@ advert6.hpg.com.br
 advert06.hpg.ig.com.br
 advert6.hpg.ig.com.br
 advert7.hpg.com.br
-advert7.hpg.ig.com.br
 advert07.hpg.ig.com.br
+advert7.hpg.ig.com.br
 advert8.hpg.com.br
 advert08.hpg.ig.com.br
 advert8.hpg.ig.com.br
@@ -27094,9 +27090,9 @@ advrts-1.revenue-tracker.com
 advs.adgorithms.com
 advt.webindia123.com
 adware-2009.com
-a-d-w-a-r-e.com
-adware.com
 ad-w-a-r-e.com
+adware.com
+a-d-w-a-r-e.com
 adware.hu
 adware.privacy-solution.com
 adware.pro
@@ -39128,8 +39124,8 @@ textads.biz
 textads.sexmoney.com
 textadvertising.com
 textlink.cz
-text-link-ads.com
 textlinkads.com
+text-link-ads.com
 tgdaily.us.intellitxt.com
 tgn.122.2o7.net
 tgp.adultfriendfinder.com
@@ -40885,8 +40881,8 @@ www.adamsfilms.com
 www.adamsmarkhotels.com
 www.ad-annex.com
 www.adatom.com
-www.adaware.com
 www.ada-ware.com
+www.adaware.com
 www.adaware.info
 www.adbanner.cz
 www.adbars.com
@@ -40960,8 +40956,8 @@ www.adexplosion.com
 www.adfeat.com
 www.adfirmative.com
 www.adflight.com
-www.adflow.com
 www.ad-flow.com
+www.adflow.com
 www.adfoc.us
 www.adfocus.ru
 www.adforati.com
@@ -41071,8 +41067,8 @@ www.adroar.com
 www.adroll.com
 www.adrotate.net
 www.adrotate.se
-www.ad-rotator.com
 www.adrotator.com
+www.ad-rotator.com
 www.adrotator.se
 www.adroz.com
 www.adrun.net
@@ -41331,8 +41327,8 @@ www.advnt.com
 www.advombat.ru
 www.advpoints.com
 www.adware-2009.com
-www.a-d-w-a-r-e.com
 www.ad-w-a-r-e.com
+www.a-d-w-a-r-e.com
 www.adware.com
 www.adware.hu
 www.adware.pro
@@ -42860,8 +42856,8 @@ www.ideoclick.com
 www.ieginc.com
 www.ieskok.info
 www.iframes.us
-www.igrowth.com
 www.i-growth.com
+www.igrowth.com
 www.ilamba.com
 www.image-catcher.com
 www.imiclk.com
