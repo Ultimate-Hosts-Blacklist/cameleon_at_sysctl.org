@@ -1,0 +1,13 @@
+{
+    "checker_type": "AVAILABILITY",
+    "destination": "domains.list",
+    "hash": "941f8c0a90ca0ecf188c81ec9ac131e50a02eca4aca5b7cc5611db21",
+    "line_number": 9776,
+    "output_dir": "/home/runner/work/cameleon_at_sysctl.org/cameleon_at_sysctl.org/output/domains.list",
+    "previous_hash": null,
+    "session_id": "f1087010551e84829d4ad095",
+    "source": "domains.list",
+    "subject": "domains.list",
+    "subject_type": "domain",
+    "type": "file"
+}
