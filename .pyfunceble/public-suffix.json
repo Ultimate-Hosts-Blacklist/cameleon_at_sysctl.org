@@ -449,7 +449,6 @@
         "info.bo",
         "int.bo",
         "medicina.bo",
-        "mil.bo",
         "movimiento.bo",
         "musica.bo",
         "natural.bo",
@@ -877,6 +876,7 @@
         "js.cn",
         "jx.cn",
         "ln.cn",
+        "mil.bo",
         "mil.cn",
         "mo.cn",
         "net.cn",
@@ -1819,8 +1819,7 @@
         "edu.gh",
         "gov.gh",
         "mil.gh",
-        "org.gh",
-        "org.hk"
+        "org.gh"
     ],
     "gi": [
         "com.gi",
