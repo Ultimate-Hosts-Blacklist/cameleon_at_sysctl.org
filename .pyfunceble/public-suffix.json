@@ -382,7 +382,6 @@
     ],
     "bh": [
         "com.bh",
-        "edu.bh",
         "gov.bh",
         "net.bh",
         "org.bh"
@@ -859,6 +858,7 @@
         "com.cn",
         "compute.amazonaws.com.cn",
         "cq.cn",
+        "edu.bh",
         "edu.cn",
         "elb.amazonaws.com.cn",
         "fj.cn",
@@ -4606,7 +4606,6 @@
         "org.kn"
     ],
     "kp": [
-        "com.kp",
         "edu.kp",
         "gov.kp",
         "org.kp",
@@ -5086,6 +5085,7 @@
         "coloradoplateau.museum",
         "columbia.museum",
         "columbus.museum",
+        "com.kp",
         "communication.museum",
         "communications.museum",
         "community.museum",
@@ -8378,8 +8378,7 @@
         "washtenaw.mi.us",
         "wi.us",
         "wv.us",
-        "wy.us",
-        "xn--80au.xn--90a3ac"
+        "wy.us"
     ],
     "uy": [
         "blogspot.com.uy",
