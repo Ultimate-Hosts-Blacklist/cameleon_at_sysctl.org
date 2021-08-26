@@ -1,5 +1,5 @@
 {
-    "currently_under_test": false,
+    "currently_under_test": true,
     "days_until_next_test": 2,
     "description": "CAMELEON is a free system that helps Internet users or administrators to blocks web-adverts.",
     "end_datetime": "2021-08-25T20:05:58.009887",
@@ -7,14 +7,14 @@
     "issue_link": "mailto://philippe@sysctl.org",
     "link": "http://sysctl.org/cameleon/",
     "name": "cameleon_at_sysctl.org",
-    "previous_end_datetime": "2021-08-24T15:03:23.946366",
-    "previous_end_epoch": 1629817403.946366,
-    "previous_start_datetime": "2021-08-24T01:36:22.762273",
-    "previous_start_epoch": 1629768982.762273,
+    "previous_end_datetime": "2021-08-25T20:05:58.009887",
+    "previous_end_epoch": 1629921958.009887,
+    "previous_start_datetime": "2021-08-25T08:43:44.713618",
+    "previous_start_epoch": 1629881024.713618,
     "pyfunceble": {
         "config": {}
     },
     "raw_link": "",
-    "start_datetime": "2021-08-25T08:43:44.713618",
-    "start_epoch": 1629881024.713618
+    "start_datetime": "2021-08-26T02:50:22.882013",
+    "start_epoch": 1629946222.882013
 }
